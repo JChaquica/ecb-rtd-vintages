@@ -94,8 +94,12 @@ how large before you ask for them. One click then downloads them as a single zip
 SELECTION.txt recording what was taken. Asking for the revision tables cuts them down to the
 dates chosen, so one date gives a two-column file rather than a 261-column one.
 
-The page also marks the series that are not kept up to date and greys out the dates where a
-series has no file at all, so a selection does not quietly come back short.
+Nothing about the stale series is left to be noticed. The page badges the variables that are
+not kept up to date, strikes through the dates that hold nothing for the ones you have ticked
+and marks the vintages in which one of them had fallen behind. The zip then records it in
+writing: `not_up_to_date.csv` gives a row per run of dates in which a series you took was
+behind or had no file, and SELECTION.txt counts them and says what the two words mean. A
+selection cannot quietly come back short.
 
 It needs no packages beyond the standard library and nothing from the internet. The server
 listens on 127.0.0.1 only and reads only `data/processed/`, so nothing leaves the machine.

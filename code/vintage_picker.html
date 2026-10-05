@@ -93,7 +93,14 @@
 
   .dates { display: grid; grid-template-columns: repeat(auto-fill, minmax(104px, 1fr)); gap: 2px 8px; padding: 6px 14px 10px 34px; }
   .date { display: flex; align-items: center; gap: 7px; font-variant-numeric: tabular-nums; }
-  .date label { cursor: pointer; }
+  .date label { cursor: pointer; border-radius: 4px; padding: 0 3px; }
+  /* how the dates stand for the variables that are ticked right now */
+  .date.stale label { background: var(--warn-bg); color: var(--warn-ink); }
+  .date.gone label { opacity: 0.5; text-decoration: line-through; }
+  .legend { padding: 7px 14px; border-bottom: 1px solid var(--line); color: var(--ink-2); font-size: 12px; display: flex; gap: 14px; flex-wrap: wrap; }
+  .legend i { font-style: normal; border-radius: 4px; padding: 0 4px; }
+  .legend .s { background: var(--warn-bg); color: var(--warn-ink); }
+  .legend .g { opacity: 0.5; text-decoration: line-through; }
 
   footer {
     position: fixed; bottom: 0; left: 0; right: 0; background: var(--panel);
@@ -142,6 +149,7 @@
         <span class="meta">to</span><select id="to"></select>
       </label>
     </div>
+    <div class="legend" id="legend">Tick a variable or two and the dates show how it stood on each of them.</div>
     <div class="scroll" id="dates"></div>
   </section>
 </div>
@@ -474,9 +482,46 @@ function tally() {
   return { files, bytes, behind, missing, dates: dates.length };
 }
 
+/* How each date stands for the variables ticked right now: struck through where
+   none of them has a file, marked where one of them had fallen behind. The
+   repository's series_status_by_vintage.csv is what says so. */
+function markDates() {
+  const chosen = [...pickedVars];
+  let stale = 0, gone = 0;
+
+  document.querySelectorAll("#dates .date").forEach((cell) => {
+    const i = +cell.querySelector(".dateBox").dataset.index;
+    let have = 0, behind = 0;
+    for (const vi of chosen) {
+      const state = CAT.variables[vi].avail[i];
+      if (state !== "0") have++;
+      if (state === "2") behind++;
+    }
+    const none = chosen.length > 0 && have === 0;
+    cell.classList.toggle("gone", none);
+    cell.classList.toggle("stale", !none && behind > 0);
+    if (none) { gone++; cell.title = "none of the variables ticked has a file for this vintage"; }
+    else if (behind) {
+      stale++;
+      cell.title = behind === chosen.length
+        ? "every variable ticked had fallen behind in this vintage"
+        : `${behind} of the ${chosen.length} variables ticked had fallen behind in this vintage`;
+    } else {
+      cell.title = chosen.length ? "every variable ticked is up to date in this vintage" : "";
+    }
+  });
+
+  $("legend").innerHTML = chosen.length === 0
+    ? "Tick a variable or two and the dates show how it stood on each of them."
+    : `Of the 261 dates, <i class="s">${stale}</i> are vintages in which something ticked had `
+      + `fallen behind and <i class="g">${gone}</i> have no file for anything ticked. `
+      + `The zip records which, in not_up_to_date.csv.`;
+}
+
 function update() {
   $("varCount").textContent = `${pickedVars.size} of ${CAT.variables.length} chosen`;
   $("dateCount").textContent = `${pickedDates.size} of ${CAT.dates.length} chosen`;
+  markDates();
 
   const t = tally();
   const ready = pickedVars.size > 0 && pickedDates.size > 0 && formats().length > 0 && t.files > 0;
@@ -489,7 +534,7 @@ function update() {
 
   const notes = [];
   if (t.missing) notes.push(`${t.missing.toLocaleString()} of the combinations chosen have no file (the series was not yet published, or had no observations) and are skipped`);
-  if (t.behind) notes.push(`${t.behind.toLocaleString()} are vintages in which the series had fallen behind — see output/series_gaps.csv`);
+  if (t.behind) notes.push(`${t.behind.toLocaleString()} are vintages in which a series had fallen behind — the zip lists them in not_up_to_date.csv`);
   const el = $("warning");
   el.textContent = notes.join("; ");
   el.className = "note" + (t.behind ? " warn" : "");

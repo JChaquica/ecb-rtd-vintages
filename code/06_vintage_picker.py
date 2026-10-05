@@ -27,8 +27,11 @@ Which files exist
 series has at least one observation, so a variable has between 1 and 261 of
 them. output/series_status_by_vintage.csv records why one is missing ("not yet
 published" before the series began, "no observations" for the gaps described in
-README.md) and marks the vintages in which a series had fallen behind. The page
-uses it to grey out what cannot be had and to warn about what is stale.
+README.md) and marks the vintages in which a series had fallen behind. Both the
+page and the zip say so rather than leaving it to be noticed: the page strikes
+through the dates that hold nothing for the variables ticked and marks the ones
+where something had fallen behind, and the zip carries not_up_to_date.csv, a row
+per run of dates in which a series chosen was behind or had no file.
 
 Two shapes to choose from, the same two the repository holds
 -----------------------------------------------------------
@@ -52,6 +55,7 @@ import os
 import socket
 import sys
 import tempfile
+import textwrap
 import threading
 import webbrowser
 import zipfile
@@ -76,6 +80,11 @@ AVAILABILITY = {"current": CURRENT, "behind": BEHIND}   # anything else: no file
 # The columns of _variable_list.csv the page shows or the zip's manifest needs.
 SHOWN = ["Folder", "Variable", "Frequency", "Unit", "Adjustment", "Area",
          "ECB title", "ECB series key", "First vintage"]
+
+
+def wrap(text: str) -> list[str]:
+    """A paragraph of SELECTION.txt, broken at the width the rest of it uses."""
+    return textwrap.wrap(" ".join(text.split()), 79)
 
 
 def read_csv(path: Path) -> list[dict[str, str]]:
@@ -157,10 +166,54 @@ def cut_table(path: Path, keep: list[str]) -> bytes:
     return text.encode("utf-8")
 
 
+def stale_runs(chosen: list[dict], picked: list[int], dates: list[str]) -> list[dict]:
+    """Where, inside this selection, a series is behind or has no file at all.
+
+    One row per run of consecutive chosen dates with the same trouble, so the 23
+    vintages in which the unemployment series stood still are one row and not 23.
+    """
+    label = {MISSING: "no file", BEHIND: "behind"}
+    rows: list[dict] = []
+    for v in chosen:
+        run = None
+        for i in picked:
+            this = label.get(v["avail"][i])
+            if run and (this != run["Status"]):
+                rows.append(run)
+                run = None
+            if this is None:
+                continue
+            if run:
+                run["Last vintage"], run["Vintages"] = dates[i], run["Vintages"] + 1
+            else:
+                run = {"Folder": v["Folder"], "Variable": v["Variable"],
+                       "ECB series key": v["ECB series key"], "Status": this,
+                       "First vintage": dates[i], "Last vintage": dates[i],
+                       "Vintages": 1}
+        if run:
+            rows.append(run)
+    return rows
+
+
+STALE_COLUMNS = ["Folder", "Variable", "ECB series key", "Status",
+                 "First vintage", "Last vintage", "Vintages"]
+
+
+def stale_csv(rows: list[dict]) -> bytes:
+    """not_up_to_date.csv: the rows above, in the shape of the other output files."""
+    out = [",".join(STALE_COLUMNS)]
+    out += [",".join(csv_cell(str(r[c])) for c in STALE_COLUMNS) for r in rows]
+    return ("\r\n".join(out) + "\r\n").encode("utf-8")
+
+
 def selection_note(chosen: list[dict], dates: list[str], formats: list[str],
-                   n_files: int) -> bytes:
+                   n_files: int, stale: list[dict]) -> bytes:
     """A short record of what was asked for, put in the zip as SELECTION.txt."""
     span = f"{dates[0]} to {dates[-1]}" if len(dates) > 1 else dates[0]
+    behind = [r for r in stale if r["Status"] == "behind"]
+    absent = [r for r in stale if r["Status"] == "no file"]
+    n_behind = sum(r["Vintages"] for r in behind)
+    n_absent = sum(r["Vintages"] for r in absent)
     lines = [
         "Vintages of the ECB Real Time Database, 2001-2026",
         "A selection taken with code/06_vintage_picker.py.",
@@ -176,20 +229,48 @@ def selection_note(chosen: list[dict], dates: list[str], formats: list[str],
         "raw_vintages/ one table per series, periods in rows and the chosen vintage",
         "              dates in columns, which is the easier shape for revisions.",
         "_variable_list.csv  the rows of the full variable list for these variables.",
-        "",
-        "Not every variable has a file for every date: a workbook exists only where the",
-        "series had observations in that vintage. Many series are not kept up to date;",
-        "see output/series_gaps.csv in the repository before using one.",
+    ]
+
+    lines += ["", "What is not sound in this selection", "-" * 35]
+    if not stale:
+        lines += ["Nothing: every variable chosen has a file on every date chosen, and none of",
+                  "them had fallen behind on any of those dates."]
+    else:
+        if behind:
+            n = len({r["Variable"] for r in behind})
+            lines += wrap(
+                f"Behind: {n} of the {len(chosen)} variables chosen "
+                f"had fallen behind in {n_behind} of the "
+                f"series-dates chosen, so that vintage does not show what was known on its "
+                f"date. A series counts as behind when its last observation is older than is "
+                f"usual for it by three months, two quarters or one year, by frequency.")
+        if absent:
+            n = len({r["Variable"] for r in absent})
+            lines += wrap(
+                f"No file: {n} of the variables chosen {'has' if n == 1 else 'have'} none "
+                f"for {n_absent} of the series-dates chosen, and {'it was' if n == 1 else 'they were'} "
+                f"skipped there. Either the series had not been published yet, or the ECB held "
+                f"no observations for it in that vintage.")
+        lines += ["",
+                  "not_up_to_date.csv lists every one of them, a row per run of consecutive dates.",
+                  "output/series_gaps.csv in the repository says the same for all 278 series."]
+
+    lines += [
         "",
         "Source: European Central Bank, euro area Real Time Database,",
         "https://data.ecb.europa.eu/data/datasets/RTD/data-information",
         "The vintages after 2014 were rebuilt from the ECB's revision logs; the method",
         "and the checks are in docs/rtd_vintages_report.pdf in the repository.",
         "",
-        "The variables in this zip:",
+        "The variables in this zip, and what is wrong with them here:",
     ]
-    lines += [f"  {v['Folder']} / {v['Variable']}  [{v['ECB series key']}]"
-              for v in chosen]
+    for v in chosen:
+        mine = [r for r in stale if r["Variable"] == v["Variable"]]
+        trouble = [f"{word} {sum(r['Vintages'] for r in mine if r['Status'] == s)}"
+                   for s, word in (("behind", "behind in"), ("no file", "no file for"))
+                   if any(r["Status"] == s for r in mine)]
+        note = f"  ({', '.join(trouble)} of {len(dates)} dates)" if trouble else ""
+        lines.append(f"  {v['Folder']} / {v['Variable']}  [{v['ECB series key']}]{note}")
     return ("\n".join(lines) + "\n").encode("utf-8")
 
 
@@ -237,8 +318,18 @@ def build_zip(catalog: dict, want: dict, log=print) -> tuple[Path, str]:
         rows = [",".join(csv_cell(v[k]) for k in SHOWN) for v in chosen]
         zf.writestr("_variable_list.csv", "\r\n".join([header, *rows]) + "\r\n",
                     compress_type=zipfile.ZIP_DEFLATED)
+
+        # Which of the files asked for are stale, and which were never written.
+        stale = stale_runs(chosen, want["vintages"], dates)
+        if stale:
+            zf.writestr("not_up_to_date.csv", stale_csv(stale),
+                        compress_type=zipfile.ZIP_DEFLATED)
+            behind = sum(r["Vintages"] for r in stale if r["Status"] == "behind")
+            absent = sum(r["Vintages"] for r in stale if r["Status"] == "no file")
+            log(f"  {behind} series-dates behind, {absent} with no file "
+                f"-> not_up_to_date.csv")
         zf.writestr("SELECTION.txt",
-                    selection_note(chosen, chosen_dates, formats, n_files),
+                    selection_note(chosen, chosen_dates, formats, n_files, stale),
                     compress_type=zipfile.ZIP_DEFLATED)
 
     return path, f"rtd_vintages_{stamp}.zip"
