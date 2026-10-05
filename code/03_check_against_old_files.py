@@ -31,6 +31,14 @@ How the two sources line up
 A file "matches" when it has the same periods as the API vintage and every
 value is identical.
 
+Where the old file's column is empty there is nothing to compare, and the pair
+gets one of two other labels. "old file column empty" means the rebuilt vintage
+is empty too: the series did not exist yet. "old file column empty, rebuilt
+vintage has data" means the ECB had stopped publishing the series in the
+Bulletin but had not yet removed it from the log, so the rebuilt vintage holds
+values the ECB's own file for that month leaves out (the five government bond
+yields from February 2008 to March 2011, for example).
+
 Output: data/raw/old_files/{monthly,quarterly,annual}.zip   downloaded once
         output/old_file_check.csv     one row per (series, old file): match or not, and why
         output/logs/03_check_against_old_files.txt   summary by series
@@ -47,7 +55,6 @@ import zipfile
 from datetime import timedelta
 from pathlib import Path
 
-import numpy as np
 import pandas as pd
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -77,6 +84,9 @@ NO_LETTER = {
     "RTD.M.S0.N.P_R_TO.E": ("monthly", "EW"),             # RMP.M.I2.0100.E
     "RTD.M.S0.N.P_R_XNRGY.E": ("monthly", "EX"),          # RMP.M.I2.0200.E
 }
+# The label for a pair in which the old file's column is empty and the rebuilt
+# vintage is not (see the module docstring).
+EMPTY_BUT_REBUILT = "old file column empty, rebuilt vintage has data"
 
 
 def column_index(letters: str) -> int:
@@ -160,7 +170,9 @@ def main() -> None:
                 same_periods = set(old.index) == set(new.index)
                 common = old.index.intersection(new.index)
                 close = old[common].to_numpy() == new[common].to_numpy()
-                if len(old) == 0:
+                if len(old) == 0 and len(new) > 0:
+                    status = EMPTY_BUT_REBUILT
+                elif len(old) == 0:
                     status = "old file column empty"
                 elif not same_periods:
                     status = "different periods"
@@ -178,9 +190,10 @@ def main() -> None:
     df = pd.DataFrame(results)
     df.to_csv(CHECK_OUT, index=False)
 
-    # An empty old-file column means the series did not exist yet in that month,
-    # so only files where the column has data count.
-    with_data = df[df["status"] != "old file column empty"]
+    # Where the old file's column is empty there is nothing to compare, so only
+    # files where the column has data count as comparisons.
+    with_data = df[~df["status"].str.startswith("old file column empty")]
+    kept = df[df["status"] == EMPTY_BUT_REBUILT]
     by_series = (with_data.assign(match=with_data["status"].eq("match"))
                    .groupby("key")
                    .agg(files=("match", "size"), matched=("match", "sum")))
@@ -193,6 +206,8 @@ def main() -> None:
         f"values in matching pairs (all identical): {matched['n_old'].sum():,}",
         f"series matching in every file where their column has data: "
         f"{len(by_series) - len(failing)} of {len(by_series)}",
+        f"pairs where the old file's column is empty but the rebuilt vintage has data: "
+        f"{len(kept)}, in {kept['key'].nunique()} series, {kept['n_api'].sum():,} values",
         "", "series that fail in some file (key, files with data, matched):",
         failing.to_string() if len(failing) else "none",
     ]

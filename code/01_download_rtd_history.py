@@ -42,14 +42,19 @@ all of them, and the vintages built from it are wrong. So a file is kept only if
   2. it passes problem_with(): ends with a newline, every row has as many fields
      as the header, every row is this series, every Replace row has VALID_FROM
      and every Delete row has VALID_TO.
-Check 2 alone misses a cut that lands exactly at the end of a line; check 1
-catches it. A rejected download is retried after 2, 4 and 6 minutes; after 4
-rejected attempts the series is logged as FAILED (never saved). If that happens,
-run the script again later. If a series keeps failing, see README.md, Section 5:
-the server keeps one cached copy per "Accept" header, so asking with a different
-Accept value (e.g. text/csv) gets a different copy, which may be complete.
+Check 2 alone misses a cut that lands exactly at the end of a line. Check 1
+catches it when the two downloads are cut in different places, but not when the
+second request is answered with the same cut copy from the server's cache. That
+case is left to 08_check_against_current_data.py, which compares the newest
+rebuilt vintage with the data the ECB serves today. A rejected download is
+retried after 2, 4 and 6 minutes; after 4 rejected attempts the series is logged
+as FAILED (never saved). If that happens, run the script again later. If a
+series keeps failing: the server keeps one cached copy per "Accept" header, so
+asking with a different Accept value (e.g. text/csv) gets a different copy,
+which may be complete.
 
-The same URL works in a web browser - see README.md, Route A.
+The same URL works in a web browser; docs/rtd_vintages_report.pdf walks through
+it for one series.
 
 Output: data/raw/series_metadata.csv   one row per series: key, title, unit, old-file column
         data/raw/rtd_structure.xml     the ECB's code lists for RTD
@@ -149,10 +154,11 @@ def download_series(key: str) -> str:
     """Save one series' history to data/raw/history/<KEY>.csv; return a log line.
 
     The file is kept only if two separate downloads are byte-for-byte identical
-    and pass problem_with(). A cut at the end of a line passes problem_with(), but
-    two cuts at exactly the same byte are very unlikely, so the comparison catches
-    it. A file already on disk counts as the first copy, so a rerun re-checks every
-    file against the server instead of trusting it.
+    and pass problem_with(). A cut at the end of a line passes problem_with(). The
+    comparison catches it unless both downloads are the same cut copy from the
+    server's cache, which 08_check_against_current_data.py is there to find. A
+    file already on disk counts as the first copy, so a rerun re-checks every file
+    against the server instead of trusting it.
     """
     path = HISTORY_DIR / f"{key}.csv"
     # The key in the URL leaves out the leading "RTD." (that is the dataset name).

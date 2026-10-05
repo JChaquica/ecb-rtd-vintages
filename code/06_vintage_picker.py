@@ -1,13 +1,15 @@
 """A small web page for taking part of the vintage data instead of all of it.
 
-The whole dataset is 1.4 GB: 67,532 workbooks, one per variable per vintage.
+The whole dataset is 1.2 GB, most of it in 67,532 workbooks, one per variable
+per vintage.
 Most people want a few series, or a few dates, and should not have to fetch the
 rest to get them. This script starts a web server on this machine and opens a
 page that lists the 278 variables and the 261 vintage dates. You tick what you
 want and the server sends back one zip file holding exactly those files.
 
     python code/06_vintage_picker.py             # opens the page in a browser
-    python code/06_vintage_picker.py --port 8000 # a fixed port, no browser
+    python code/06_vintage_picker.py --port 8000 # a fixed port
+    python code/06_vintage_picker.py --no-browser # do not open a browser
 
 The page needs nothing from the internet and the server nothing outside the
 standard library, so it also runs where pandas is not installed. Nothing leaves
@@ -169,8 +171,8 @@ def cut_table(path: Path, keep: list[str]) -> bytes:
 def stale_runs(chosen: list[dict], picked: list[int], dates: list[str]) -> list[dict]:
     """Where, inside this selection, a series is behind or has no file at all.
 
-    One row per run of consecutive chosen dates with the same trouble, so the 23
-    vintages in which the unemployment series stood still are one row and not 23.
+    One row per run of consecutive chosen dates with the same trouble, so the 9
+    vintages in which the unemployment rate had fallen behind are one row and not 9.
     """
     label = {MISSING: "no file", BEHIND: "behind"}
     rows: list[dict] = []
@@ -242,8 +244,10 @@ def selection_note(chosen: list[dict], dates: list[str], formats: list[str],
                 f"Behind: {n} of the {len(chosen)} variables chosen "
                 f"had fallen behind in {n_behind} of the "
                 f"series-dates chosen, so that vintage does not show what was known on its "
-                f"date. A series counts as behind when its last observation is older than is "
-                f"usual for it by three months, two quarters or one year, by frequency.")
+                f"date. A series counts as behind when its last observation is older than was "
+                f"usual for it in 2015-2022 by three months, two quarters or one year, by "
+                f"frequency, or when the ECB has left it unchanged for more vintages in a row "
+                f"than it ever did in those years.")
         if absent:
             n = len({r["Variable"] for r in absent})
             lines += wrap(
@@ -468,7 +472,11 @@ def main() -> None:
               "can be downloaded")
 
     port = args.port or free_port()
-    server = ThreadingHTTPServer(("127.0.0.1", port), Handler)
+    try:
+        server = ThreadingHTTPServer(("127.0.0.1", port), Handler)
+    except OSError as e:
+        sys.exit(f"cannot use port {port}: {e}\nAnother program probably has it. "
+                 "Leave out --port and the script picks a free one.")
     url = f"http://127.0.0.1:{port}/"
     print(f"\nthe picker is at {url}\npress Ctrl+C to stop it\n", flush=True)
     if not args.no_browser:

@@ -1,0 +1,8 @@
+checked on 2026-10-05 against the vintage of 2026-09-09
+series: 278 in the rebuilt vintage, 278 in the ECB's current data
+periods only in the rebuilt vintage: 0
+periods only in the ECB's current data: 0
+values compared: 80,731
+exactly equal: 78,927
+largest relative difference: 1.142e-15
+values that differ by more than 1e-14: 0

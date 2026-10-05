@@ -1184,7 +1184,7 @@ RTD.A.S0.N.F_DEF_CSG_D0.F,annual,200106,2001-06-06,match,10,10,0,GST.A.I2.N.B131
 RTD.A.S0.N.F_DEF_CSG_D0.F,annual,200107,2001-07-04,match,10,10,0,GST.A.I2.N.B1312.DEF.B0000.CU.G
 RTD.A.S0.N.F_DEF_CSG_D0.F,annual,200108,2001-08-01,match,10,10,0,GST.A.I2.N.B1312.DEF.B0000.CU.G
 RTD.A.S0.N.F_DEF_CSG_D0.F,annual,200109,2001-09-13,match,10,10,0,GST.A.I2.N.B1312.DEF.B0000.CU.G
-RTD.A.S0.N.F_DEF_CSG_D0.F,annual,200110,2001-10-10,old file column empty,0,10,0,GST.A.I2.N.B1312.DEF.B0000.CU.G
+RTD.A.S0.N.F_DEF_CSG_D0.F,annual,200110,2001-10-10,"old file column empty, rebuilt vintage has data",0,10,0,GST.A.I2.N.B1312.DEF.B0000.CU.G
 RTD.A.S0.N.F_DEF_CSG_D0.F,annual,200111,2001-11-07,match,10,10,0,GST.A.I2.N.B1312.DEF.B0000.CU.G
 RTD.A.S0.N.F_DEF_CSG_D0.F,annual,200112,2001-12-05,match,10,10,0,GST.A.I2.N.B1312.DEF.B0000.CU.G
 RTD.A.S0.N.F_DEF_CSG_D0.F,annual,200201,2002-01-16,match,10,10,0,GST.A.I2.N.B1312.DEF.B0000.CU.G
@@ -13117,7 +13117,7 @@ RTD.Q.S0.S.L_ULC_TO.X,quarterly,200111,2001-11-07,match,86,86,0,Q.U2.ULC.IND.Z
 RTD.Q.S0.S.L_ULC_TO.X,quarterly,200112,2001-12-05,match,86,86,0,Q.U2.ULC.IND.Z
 RTD.Q.S0.S.L_ULC_TO.X,quarterly,200201,2002-01-16,match,87,87,0,Q.U2.ULC.IND.Z
 RTD.Q.S0.S.L_ULC_TO.X,quarterly,200202,2002-02-06,match,87,87,0,Q.U2.ULC.IND.Z
-RTD.Q.S0.S.L_ULC_TO.X,quarterly,200203,2002-03-06,old file column empty,0,87,0,DUMMY
+RTD.Q.S0.S.L_ULC_TO.X,quarterly,200203,2002-03-06,"old file column empty, rebuilt vintage has data",0,87,0,DUMMY
 RTD.Q.S0.S.L_ULC_TO.X,quarterly,200204,2002-04-03,match,87,87,0,Q.U2.ULC.IND.Z
 RTD.Q.S0.S.L_ULC_TO.X,quarterly,200205,2002-04-30,match,88,88,0,Q.U2.ULC.IND.Z
 RTD.Q.S0.S.L_ULC_TO.X,quarterly,200206,2002-06-05,match,88,88,0,Q.U2.ULC.IND.Z
@@ -20244,44 +20244,44 @@ RTD.M.S0.N.C_U202Y.E,monthly,200710,2007-10-02,match,165,165,0,FM.M.U2.EUR.4F.BB
 RTD.M.S0.N.C_U202Y.E,monthly,200711,2007-11-07,match,166,166,0,FM.M.U2.EUR.4F.BB.U2_2Y.YLD
 RTD.M.S0.N.C_U202Y.E,monthly,200712,2007-12-05,match,167,167,0,FM.M.U2.EUR.4F.BB.U2_2Y.YLD
 RTD.M.S0.N.C_U202Y.E,monthly,200801,2008-01-09,match,168,168,0,FM.M.U2.EUR.4F.BB.U2_2Y.YLD
-RTD.M.S0.N.C_U202Y.E,monthly,200802,2008-02-06,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_2Y.YLD
-RTD.M.S0.N.C_U202Y.E,monthly,200803,2008-03-05,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_2Y.YLD
-RTD.M.S0.N.C_U202Y.E,monthly,200804,2008-04-09,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_2Y.YLD
-RTD.M.S0.N.C_U202Y.E,monthly,200805,2008-05-06,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_2Y.YLD
-RTD.M.S0.N.C_U202Y.E,monthly,200806,2008-06-04,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_2Y.YLD
-RTD.M.S0.N.C_U202Y.E,monthly,200807,2008-07-02,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_2Y.YLD
-RTD.M.S0.N.C_U202Y.E,monthly,200808,2008-08-06,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_2Y.YLD
-RTD.M.S0.N.C_U202Y.E,monthly,200809,2008-09-03,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_2Y.YLD
-RTD.M.S0.N.C_U202Y.E,monthly,200810,2008-09-30,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_2Y.YLD
-RTD.M.S0.N.C_U202Y.E,monthly,200811,2008-11-05,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_2Y.YLD
-RTD.M.S0.N.C_U202Y.E,monthly,200812,2008-12-03,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_2Y.YLD
-RTD.M.S0.N.C_U202Y.E,monthly,200901,2009-01-14,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_2Y.YLD
-RTD.M.S0.N.C_U202Y.E,monthly,200902,2009-02-04,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_2Y.YLD
-RTD.M.S0.N.C_U202Y.E,monthly,200903,2009-03-04,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_2Y.YLD
-RTD.M.S0.N.C_U202Y.E,monthly,200904,2009-04-01,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_2Y.YLD
-RTD.M.S0.N.C_U202Y.E,monthly,200905,2009-05-06,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_2Y.YLD
-RTD.M.S0.N.C_U202Y.E,monthly,200906,2009-06-03,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_2Y.YLD
-RTD.M.S0.N.C_U202Y.E,monthly,200907,2009-07-01,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_2Y.YLD
-RTD.M.S0.N.C_U202Y.E,monthly,200908,2009-08-05,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_2Y.YLD
-RTD.M.S0.N.C_U202Y.E,monthly,200909,2009-09-02,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_2Y.YLD
-RTD.M.S0.N.C_U202Y.E,monthly,200910,2009-10-07,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_2Y.YLD
-RTD.M.S0.N.C_U202Y.E,monthly,200911,2009-11-04,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_2Y.YLD
-RTD.M.S0.N.C_U202Y.E,monthly,200912,2009-12-02,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_2Y.YLD
-RTD.M.S0.N.C_U202Y.E,monthly,201001,2010-01-13,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_2Y.YLD
-RTD.M.S0.N.C_U202Y.E,monthly,201002,2010-02-03,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_2Y.YLD
-RTD.M.S0.N.C_U202Y.E,monthly,201003,2010-03-03,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_2Y.YLD
-RTD.M.S0.N.C_U202Y.E,monthly,201004,2010-04-07,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_2Y.YLD
-RTD.M.S0.N.C_U202Y.E,monthly,201005,2010-05-05,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_2Y.YLD
-RTD.M.S0.N.C_U202Y.E,monthly,201006,2010-06-09,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_2Y.YLD
-RTD.M.S0.N.C_U202Y.E,monthly,201007,2010-07-07,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_2Y.YLD
-RTD.M.S0.N.C_U202Y.E,monthly,201008,2010-08-04,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_2Y.YLD
-RTD.M.S0.N.C_U202Y.E,monthly,201009,2010-09-01,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_2Y.YLD
-RTD.M.S0.N.C_U202Y.E,monthly,201010,2010-10-06,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_2Y.YLD
-RTD.M.S0.N.C_U202Y.E,monthly,201011,2010-11-03,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_2Y.YLD
-RTD.M.S0.N.C_U202Y.E,monthly,201012,2010-12-01,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_2Y.YLD
-RTD.M.S0.N.C_U202Y.E,monthly,201101,2011-01-12,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_2Y.YLD
-RTD.M.S0.N.C_U202Y.E,monthly,201102,2011-02-02,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_2Y.YLD
-RTD.M.S0.N.C_U202Y.E,monthly,201103,2011-03-02,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_2Y.YLD
+RTD.M.S0.N.C_U202Y.E,monthly,200802,2008-02-06,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_2Y.YLD
+RTD.M.S0.N.C_U202Y.E,monthly,200803,2008-03-05,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_2Y.YLD
+RTD.M.S0.N.C_U202Y.E,monthly,200804,2008-04-09,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_2Y.YLD
+RTD.M.S0.N.C_U202Y.E,monthly,200805,2008-05-06,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_2Y.YLD
+RTD.M.S0.N.C_U202Y.E,monthly,200806,2008-06-04,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_2Y.YLD
+RTD.M.S0.N.C_U202Y.E,monthly,200807,2008-07-02,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_2Y.YLD
+RTD.M.S0.N.C_U202Y.E,monthly,200808,2008-08-06,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_2Y.YLD
+RTD.M.S0.N.C_U202Y.E,monthly,200809,2008-09-03,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_2Y.YLD
+RTD.M.S0.N.C_U202Y.E,monthly,200810,2008-09-30,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_2Y.YLD
+RTD.M.S0.N.C_U202Y.E,monthly,200811,2008-11-05,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_2Y.YLD
+RTD.M.S0.N.C_U202Y.E,monthly,200812,2008-12-03,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_2Y.YLD
+RTD.M.S0.N.C_U202Y.E,monthly,200901,2009-01-14,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_2Y.YLD
+RTD.M.S0.N.C_U202Y.E,monthly,200902,2009-02-04,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_2Y.YLD
+RTD.M.S0.N.C_U202Y.E,monthly,200903,2009-03-04,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_2Y.YLD
+RTD.M.S0.N.C_U202Y.E,monthly,200904,2009-04-01,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_2Y.YLD
+RTD.M.S0.N.C_U202Y.E,monthly,200905,2009-05-06,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_2Y.YLD
+RTD.M.S0.N.C_U202Y.E,monthly,200906,2009-06-03,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_2Y.YLD
+RTD.M.S0.N.C_U202Y.E,monthly,200907,2009-07-01,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_2Y.YLD
+RTD.M.S0.N.C_U202Y.E,monthly,200908,2009-08-05,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_2Y.YLD
+RTD.M.S0.N.C_U202Y.E,monthly,200909,2009-09-02,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_2Y.YLD
+RTD.M.S0.N.C_U202Y.E,monthly,200910,2009-10-07,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_2Y.YLD
+RTD.M.S0.N.C_U202Y.E,monthly,200911,2009-11-04,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_2Y.YLD
+RTD.M.S0.N.C_U202Y.E,monthly,200912,2009-12-02,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_2Y.YLD
+RTD.M.S0.N.C_U202Y.E,monthly,201001,2010-01-13,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_2Y.YLD
+RTD.M.S0.N.C_U202Y.E,monthly,201002,2010-02-03,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_2Y.YLD
+RTD.M.S0.N.C_U202Y.E,monthly,201003,2010-03-03,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_2Y.YLD
+RTD.M.S0.N.C_U202Y.E,monthly,201004,2010-04-07,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_2Y.YLD
+RTD.M.S0.N.C_U202Y.E,monthly,201005,2010-05-05,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_2Y.YLD
+RTD.M.S0.N.C_U202Y.E,monthly,201006,2010-06-09,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_2Y.YLD
+RTD.M.S0.N.C_U202Y.E,monthly,201007,2010-07-07,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_2Y.YLD
+RTD.M.S0.N.C_U202Y.E,monthly,201008,2010-08-04,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_2Y.YLD
+RTD.M.S0.N.C_U202Y.E,monthly,201009,2010-09-01,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_2Y.YLD
+RTD.M.S0.N.C_U202Y.E,monthly,201010,2010-10-06,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_2Y.YLD
+RTD.M.S0.N.C_U202Y.E,monthly,201011,2010-11-03,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_2Y.YLD
+RTD.M.S0.N.C_U202Y.E,monthly,201012,2010-12-01,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_2Y.YLD
+RTD.M.S0.N.C_U202Y.E,monthly,201101,2011-01-12,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_2Y.YLD
+RTD.M.S0.N.C_U202Y.E,monthly,201102,2011-02-02,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_2Y.YLD
+RTD.M.S0.N.C_U202Y.E,monthly,201103,2011-03-02,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_2Y.YLD
 RTD.M.S0.N.C_U202Y.E,monthly,201104,2011-04-06,old file column empty,0,0,0,FM.M.U2.EUR.4F.BB.U2_2Y.YLD
 RTD.M.S0.N.C_U202Y.E,monthly,201105,2011-05-04,old file column empty,0,0,0,FM.M.U2.EUR.4F.BB.U2_2Y.YLD
 RTD.M.S0.N.C_U202Y.E,monthly,201106,2011-06-08,old file column empty,0,0,0,FM.M.U2.EUR.4F.BB.U2_2Y.YLD
@@ -20412,44 +20412,44 @@ RTD.M.S0.N.C_U203Y.E,monthly,200710,2007-10-02,match,165,165,0,FM.M.U2.EUR.4F.BB
 RTD.M.S0.N.C_U203Y.E,monthly,200711,2007-11-07,match,166,166,0,FM.M.U2.EUR.4F.BB.U2_3Y.YLD
 RTD.M.S0.N.C_U203Y.E,monthly,200712,2007-12-05,match,167,167,0,FM.M.U2.EUR.4F.BB.U2_3Y.YLD
 RTD.M.S0.N.C_U203Y.E,monthly,200801,2008-01-09,match,168,168,0,FM.M.U2.EUR.4F.BB.U2_3Y.YLD
-RTD.M.S0.N.C_U203Y.E,monthly,200802,2008-02-06,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_3Y.YLD
-RTD.M.S0.N.C_U203Y.E,monthly,200803,2008-03-05,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_3Y.YLD
-RTD.M.S0.N.C_U203Y.E,monthly,200804,2008-04-09,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_3Y.YLD
-RTD.M.S0.N.C_U203Y.E,monthly,200805,2008-05-06,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_3Y.YLD
-RTD.M.S0.N.C_U203Y.E,monthly,200806,2008-06-04,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_3Y.YLD
-RTD.M.S0.N.C_U203Y.E,monthly,200807,2008-07-02,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_3Y.YLD
-RTD.M.S0.N.C_U203Y.E,monthly,200808,2008-08-06,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_3Y.YLD
-RTD.M.S0.N.C_U203Y.E,monthly,200809,2008-09-03,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_3Y.YLD
-RTD.M.S0.N.C_U203Y.E,monthly,200810,2008-09-30,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_3Y.YLD
-RTD.M.S0.N.C_U203Y.E,monthly,200811,2008-11-05,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_3Y.YLD
-RTD.M.S0.N.C_U203Y.E,monthly,200812,2008-12-03,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_3Y.YLD
-RTD.M.S0.N.C_U203Y.E,monthly,200901,2009-01-14,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_3Y.YLD
-RTD.M.S0.N.C_U203Y.E,monthly,200902,2009-02-04,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_3Y.YLD
-RTD.M.S0.N.C_U203Y.E,monthly,200903,2009-03-04,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_3Y.YLD
-RTD.M.S0.N.C_U203Y.E,monthly,200904,2009-04-01,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_3Y.YLD
-RTD.M.S0.N.C_U203Y.E,monthly,200905,2009-05-06,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_3Y.YLD
-RTD.M.S0.N.C_U203Y.E,monthly,200906,2009-06-03,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_3Y.YLD
-RTD.M.S0.N.C_U203Y.E,monthly,200907,2009-07-01,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_3Y.YLD
-RTD.M.S0.N.C_U203Y.E,monthly,200908,2009-08-05,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_3Y.YLD
-RTD.M.S0.N.C_U203Y.E,monthly,200909,2009-09-02,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_3Y.YLD
-RTD.M.S0.N.C_U203Y.E,monthly,200910,2009-10-07,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_3Y.YLD
-RTD.M.S0.N.C_U203Y.E,monthly,200911,2009-11-04,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_3Y.YLD
-RTD.M.S0.N.C_U203Y.E,monthly,200912,2009-12-02,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_3Y.YLD
-RTD.M.S0.N.C_U203Y.E,monthly,201001,2010-01-13,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_3Y.YLD
-RTD.M.S0.N.C_U203Y.E,monthly,201002,2010-02-03,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_3Y.YLD
-RTD.M.S0.N.C_U203Y.E,monthly,201003,2010-03-03,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_3Y.YLD
-RTD.M.S0.N.C_U203Y.E,monthly,201004,2010-04-07,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_3Y.YLD
-RTD.M.S0.N.C_U203Y.E,monthly,201005,2010-05-05,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_3Y.YLD
-RTD.M.S0.N.C_U203Y.E,monthly,201006,2010-06-09,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_3Y.YLD
-RTD.M.S0.N.C_U203Y.E,monthly,201007,2010-07-07,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_3Y.YLD
-RTD.M.S0.N.C_U203Y.E,monthly,201008,2010-08-04,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_3Y.YLD
-RTD.M.S0.N.C_U203Y.E,monthly,201009,2010-09-01,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_3Y.YLD
-RTD.M.S0.N.C_U203Y.E,monthly,201010,2010-10-06,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_3Y.YLD
-RTD.M.S0.N.C_U203Y.E,monthly,201011,2010-11-03,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_3Y.YLD
-RTD.M.S0.N.C_U203Y.E,monthly,201012,2010-12-01,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_3Y.YLD
-RTD.M.S0.N.C_U203Y.E,monthly,201101,2011-01-12,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_3Y.YLD
-RTD.M.S0.N.C_U203Y.E,monthly,201102,2011-02-02,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_3Y.YLD
-RTD.M.S0.N.C_U203Y.E,monthly,201103,2011-03-02,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_3Y.YLD
+RTD.M.S0.N.C_U203Y.E,monthly,200802,2008-02-06,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_3Y.YLD
+RTD.M.S0.N.C_U203Y.E,monthly,200803,2008-03-05,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_3Y.YLD
+RTD.M.S0.N.C_U203Y.E,monthly,200804,2008-04-09,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_3Y.YLD
+RTD.M.S0.N.C_U203Y.E,monthly,200805,2008-05-06,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_3Y.YLD
+RTD.M.S0.N.C_U203Y.E,monthly,200806,2008-06-04,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_3Y.YLD
+RTD.M.S0.N.C_U203Y.E,monthly,200807,2008-07-02,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_3Y.YLD
+RTD.M.S0.N.C_U203Y.E,monthly,200808,2008-08-06,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_3Y.YLD
+RTD.M.S0.N.C_U203Y.E,monthly,200809,2008-09-03,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_3Y.YLD
+RTD.M.S0.N.C_U203Y.E,monthly,200810,2008-09-30,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_3Y.YLD
+RTD.M.S0.N.C_U203Y.E,monthly,200811,2008-11-05,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_3Y.YLD
+RTD.M.S0.N.C_U203Y.E,monthly,200812,2008-12-03,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_3Y.YLD
+RTD.M.S0.N.C_U203Y.E,monthly,200901,2009-01-14,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_3Y.YLD
+RTD.M.S0.N.C_U203Y.E,monthly,200902,2009-02-04,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_3Y.YLD
+RTD.M.S0.N.C_U203Y.E,monthly,200903,2009-03-04,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_3Y.YLD
+RTD.M.S0.N.C_U203Y.E,monthly,200904,2009-04-01,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_3Y.YLD
+RTD.M.S0.N.C_U203Y.E,monthly,200905,2009-05-06,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_3Y.YLD
+RTD.M.S0.N.C_U203Y.E,monthly,200906,2009-06-03,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_3Y.YLD
+RTD.M.S0.N.C_U203Y.E,monthly,200907,2009-07-01,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_3Y.YLD
+RTD.M.S0.N.C_U203Y.E,monthly,200908,2009-08-05,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_3Y.YLD
+RTD.M.S0.N.C_U203Y.E,monthly,200909,2009-09-02,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_3Y.YLD
+RTD.M.S0.N.C_U203Y.E,monthly,200910,2009-10-07,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_3Y.YLD
+RTD.M.S0.N.C_U203Y.E,monthly,200911,2009-11-04,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_3Y.YLD
+RTD.M.S0.N.C_U203Y.E,monthly,200912,2009-12-02,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_3Y.YLD
+RTD.M.S0.N.C_U203Y.E,monthly,201001,2010-01-13,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_3Y.YLD
+RTD.M.S0.N.C_U203Y.E,monthly,201002,2010-02-03,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_3Y.YLD
+RTD.M.S0.N.C_U203Y.E,monthly,201003,2010-03-03,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_3Y.YLD
+RTD.M.S0.N.C_U203Y.E,monthly,201004,2010-04-07,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_3Y.YLD
+RTD.M.S0.N.C_U203Y.E,monthly,201005,2010-05-05,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_3Y.YLD
+RTD.M.S0.N.C_U203Y.E,monthly,201006,2010-06-09,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_3Y.YLD
+RTD.M.S0.N.C_U203Y.E,monthly,201007,2010-07-07,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_3Y.YLD
+RTD.M.S0.N.C_U203Y.E,monthly,201008,2010-08-04,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_3Y.YLD
+RTD.M.S0.N.C_U203Y.E,monthly,201009,2010-09-01,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_3Y.YLD
+RTD.M.S0.N.C_U203Y.E,monthly,201010,2010-10-06,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_3Y.YLD
+RTD.M.S0.N.C_U203Y.E,monthly,201011,2010-11-03,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_3Y.YLD
+RTD.M.S0.N.C_U203Y.E,monthly,201012,2010-12-01,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_3Y.YLD
+RTD.M.S0.N.C_U203Y.E,monthly,201101,2011-01-12,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_3Y.YLD
+RTD.M.S0.N.C_U203Y.E,monthly,201102,2011-02-02,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_3Y.YLD
+RTD.M.S0.N.C_U203Y.E,monthly,201103,2011-03-02,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_3Y.YLD
 RTD.M.S0.N.C_U203Y.E,monthly,201104,2011-04-06,old file column empty,0,0,0,FM.M.U2.EUR.4F.BB.U2_3Y.YLD
 RTD.M.S0.N.C_U203Y.E,monthly,201105,2011-05-04,old file column empty,0,0,0,FM.M.U2.EUR.4F.BB.U2_3Y.YLD
 RTD.M.S0.N.C_U203Y.E,monthly,201106,2011-06-08,old file column empty,0,0,0,FM.M.U2.EUR.4F.BB.U2_3Y.YLD
@@ -20580,44 +20580,44 @@ RTD.M.S0.N.C_U205Y.E,monthly,200710,2007-10-02,match,165,165,0,FM.M.U2.EUR.4F.BB
 RTD.M.S0.N.C_U205Y.E,monthly,200711,2007-11-07,match,166,166,0,FM.M.U2.EUR.4F.BB.U2_5Y.YLD
 RTD.M.S0.N.C_U205Y.E,monthly,200712,2007-12-05,match,167,167,0,FM.M.U2.EUR.4F.BB.U2_5Y.YLD
 RTD.M.S0.N.C_U205Y.E,monthly,200801,2008-01-09,match,168,168,0,FM.M.U2.EUR.4F.BB.U2_5Y.YLD
-RTD.M.S0.N.C_U205Y.E,monthly,200802,2008-02-06,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_5Y.YLD
-RTD.M.S0.N.C_U205Y.E,monthly,200803,2008-03-05,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_5Y.YLD
-RTD.M.S0.N.C_U205Y.E,monthly,200804,2008-04-09,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_5Y.YLD
-RTD.M.S0.N.C_U205Y.E,monthly,200805,2008-05-06,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_5Y.YLD
-RTD.M.S0.N.C_U205Y.E,monthly,200806,2008-06-04,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_5Y.YLD
-RTD.M.S0.N.C_U205Y.E,monthly,200807,2008-07-02,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_5Y.YLD
-RTD.M.S0.N.C_U205Y.E,monthly,200808,2008-08-06,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_5Y.YLD
-RTD.M.S0.N.C_U205Y.E,monthly,200809,2008-09-03,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_5Y.YLD
-RTD.M.S0.N.C_U205Y.E,monthly,200810,2008-09-30,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_5Y.YLD
-RTD.M.S0.N.C_U205Y.E,monthly,200811,2008-11-05,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_5Y.YLD
-RTD.M.S0.N.C_U205Y.E,monthly,200812,2008-12-03,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_5Y.YLD
-RTD.M.S0.N.C_U205Y.E,monthly,200901,2009-01-14,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_5Y.YLD
-RTD.M.S0.N.C_U205Y.E,monthly,200902,2009-02-04,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_5Y.YLD
-RTD.M.S0.N.C_U205Y.E,monthly,200903,2009-03-04,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_5Y.YLD
-RTD.M.S0.N.C_U205Y.E,monthly,200904,2009-04-01,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_5Y.YLD
-RTD.M.S0.N.C_U205Y.E,monthly,200905,2009-05-06,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_5Y.YLD
-RTD.M.S0.N.C_U205Y.E,monthly,200906,2009-06-03,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_5Y.YLD
-RTD.M.S0.N.C_U205Y.E,monthly,200907,2009-07-01,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_5Y.YLD
-RTD.M.S0.N.C_U205Y.E,monthly,200908,2009-08-05,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_5Y.YLD
-RTD.M.S0.N.C_U205Y.E,monthly,200909,2009-09-02,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_5Y.YLD
-RTD.M.S0.N.C_U205Y.E,monthly,200910,2009-10-07,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_5Y.YLD
-RTD.M.S0.N.C_U205Y.E,monthly,200911,2009-11-04,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_5Y.YLD
-RTD.M.S0.N.C_U205Y.E,monthly,200912,2009-12-02,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_5Y.YLD
-RTD.M.S0.N.C_U205Y.E,monthly,201001,2010-01-13,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_5Y.YLD
-RTD.M.S0.N.C_U205Y.E,monthly,201002,2010-02-03,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_5Y.YLD
-RTD.M.S0.N.C_U205Y.E,monthly,201003,2010-03-03,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_5Y.YLD
-RTD.M.S0.N.C_U205Y.E,monthly,201004,2010-04-07,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_5Y.YLD
-RTD.M.S0.N.C_U205Y.E,monthly,201005,2010-05-05,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_5Y.YLD
-RTD.M.S0.N.C_U205Y.E,monthly,201006,2010-06-09,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_5Y.YLD
-RTD.M.S0.N.C_U205Y.E,monthly,201007,2010-07-07,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_5Y.YLD
-RTD.M.S0.N.C_U205Y.E,monthly,201008,2010-08-04,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_5Y.YLD
-RTD.M.S0.N.C_U205Y.E,monthly,201009,2010-09-01,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_5Y.YLD
-RTD.M.S0.N.C_U205Y.E,monthly,201010,2010-10-06,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_5Y.YLD
-RTD.M.S0.N.C_U205Y.E,monthly,201011,2010-11-03,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_5Y.YLD
-RTD.M.S0.N.C_U205Y.E,monthly,201012,2010-12-01,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_5Y.YLD
-RTD.M.S0.N.C_U205Y.E,monthly,201101,2011-01-12,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_5Y.YLD
-RTD.M.S0.N.C_U205Y.E,monthly,201102,2011-02-02,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_5Y.YLD
-RTD.M.S0.N.C_U205Y.E,monthly,201103,2011-03-02,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_5Y.YLD
+RTD.M.S0.N.C_U205Y.E,monthly,200802,2008-02-06,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_5Y.YLD
+RTD.M.S0.N.C_U205Y.E,monthly,200803,2008-03-05,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_5Y.YLD
+RTD.M.S0.N.C_U205Y.E,monthly,200804,2008-04-09,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_5Y.YLD
+RTD.M.S0.N.C_U205Y.E,monthly,200805,2008-05-06,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_5Y.YLD
+RTD.M.S0.N.C_U205Y.E,monthly,200806,2008-06-04,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_5Y.YLD
+RTD.M.S0.N.C_U205Y.E,monthly,200807,2008-07-02,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_5Y.YLD
+RTD.M.S0.N.C_U205Y.E,monthly,200808,2008-08-06,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_5Y.YLD
+RTD.M.S0.N.C_U205Y.E,monthly,200809,2008-09-03,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_5Y.YLD
+RTD.M.S0.N.C_U205Y.E,monthly,200810,2008-09-30,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_5Y.YLD
+RTD.M.S0.N.C_U205Y.E,monthly,200811,2008-11-05,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_5Y.YLD
+RTD.M.S0.N.C_U205Y.E,monthly,200812,2008-12-03,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_5Y.YLD
+RTD.M.S0.N.C_U205Y.E,monthly,200901,2009-01-14,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_5Y.YLD
+RTD.M.S0.N.C_U205Y.E,monthly,200902,2009-02-04,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_5Y.YLD
+RTD.M.S0.N.C_U205Y.E,monthly,200903,2009-03-04,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_5Y.YLD
+RTD.M.S0.N.C_U205Y.E,monthly,200904,2009-04-01,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_5Y.YLD
+RTD.M.S0.N.C_U205Y.E,monthly,200905,2009-05-06,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_5Y.YLD
+RTD.M.S0.N.C_U205Y.E,monthly,200906,2009-06-03,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_5Y.YLD
+RTD.M.S0.N.C_U205Y.E,monthly,200907,2009-07-01,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_5Y.YLD
+RTD.M.S0.N.C_U205Y.E,monthly,200908,2009-08-05,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_5Y.YLD
+RTD.M.S0.N.C_U205Y.E,monthly,200909,2009-09-02,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_5Y.YLD
+RTD.M.S0.N.C_U205Y.E,monthly,200910,2009-10-07,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_5Y.YLD
+RTD.M.S0.N.C_U205Y.E,monthly,200911,2009-11-04,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_5Y.YLD
+RTD.M.S0.N.C_U205Y.E,monthly,200912,2009-12-02,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_5Y.YLD
+RTD.M.S0.N.C_U205Y.E,monthly,201001,2010-01-13,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_5Y.YLD
+RTD.M.S0.N.C_U205Y.E,monthly,201002,2010-02-03,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_5Y.YLD
+RTD.M.S0.N.C_U205Y.E,monthly,201003,2010-03-03,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_5Y.YLD
+RTD.M.S0.N.C_U205Y.E,monthly,201004,2010-04-07,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_5Y.YLD
+RTD.M.S0.N.C_U205Y.E,monthly,201005,2010-05-05,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_5Y.YLD
+RTD.M.S0.N.C_U205Y.E,monthly,201006,2010-06-09,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_5Y.YLD
+RTD.M.S0.N.C_U205Y.E,monthly,201007,2010-07-07,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_5Y.YLD
+RTD.M.S0.N.C_U205Y.E,monthly,201008,2010-08-04,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_5Y.YLD
+RTD.M.S0.N.C_U205Y.E,monthly,201009,2010-09-01,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_5Y.YLD
+RTD.M.S0.N.C_U205Y.E,monthly,201010,2010-10-06,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_5Y.YLD
+RTD.M.S0.N.C_U205Y.E,monthly,201011,2010-11-03,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_5Y.YLD
+RTD.M.S0.N.C_U205Y.E,monthly,201012,2010-12-01,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_5Y.YLD
+RTD.M.S0.N.C_U205Y.E,monthly,201101,2011-01-12,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_5Y.YLD
+RTD.M.S0.N.C_U205Y.E,monthly,201102,2011-02-02,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_5Y.YLD
+RTD.M.S0.N.C_U205Y.E,monthly,201103,2011-03-02,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_5Y.YLD
 RTD.M.S0.N.C_U205Y.E,monthly,201104,2011-04-06,old file column empty,0,0,0,FM.M.U2.EUR.4F.BB.U2_5Y.YLD
 RTD.M.S0.N.C_U205Y.E,monthly,201105,2011-05-04,old file column empty,0,0,0,FM.M.U2.EUR.4F.BB.U2_5Y.YLD
 RTD.M.S0.N.C_U205Y.E,monthly,201106,2011-06-08,old file column empty,0,0,0,FM.M.U2.EUR.4F.BB.U2_5Y.YLD
@@ -20748,44 +20748,44 @@ RTD.M.S0.N.C_U207Y.E,monthly,200710,2007-10-02,match,165,165,0,FM.M.U2.EUR.4F.BB
 RTD.M.S0.N.C_U207Y.E,monthly,200711,2007-11-07,match,166,166,0,FM.M.U2.EUR.4F.BB.U2_7Y.YLD
 RTD.M.S0.N.C_U207Y.E,monthly,200712,2007-12-05,match,167,167,0,FM.M.U2.EUR.4F.BB.U2_7Y.YLD
 RTD.M.S0.N.C_U207Y.E,monthly,200801,2008-01-09,match,168,168,0,FM.M.U2.EUR.4F.BB.U2_7Y.YLD
-RTD.M.S0.N.C_U207Y.E,monthly,200802,2008-02-06,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_7Y.YLD
-RTD.M.S0.N.C_U207Y.E,monthly,200803,2008-03-05,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_7Y.YLD
-RTD.M.S0.N.C_U207Y.E,monthly,200804,2008-04-09,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_7Y.YLD
-RTD.M.S0.N.C_U207Y.E,monthly,200805,2008-05-06,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_7Y.YLD
-RTD.M.S0.N.C_U207Y.E,monthly,200806,2008-06-04,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_7Y.YLD
-RTD.M.S0.N.C_U207Y.E,monthly,200807,2008-07-02,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_7Y.YLD
-RTD.M.S0.N.C_U207Y.E,monthly,200808,2008-08-06,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_7Y.YLD
-RTD.M.S0.N.C_U207Y.E,monthly,200809,2008-09-03,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_7Y.YLD
-RTD.M.S0.N.C_U207Y.E,monthly,200810,2008-09-30,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_7Y.YLD
-RTD.M.S0.N.C_U207Y.E,monthly,200811,2008-11-05,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_7Y.YLD
-RTD.M.S0.N.C_U207Y.E,monthly,200812,2008-12-03,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_7Y.YLD
-RTD.M.S0.N.C_U207Y.E,monthly,200901,2009-01-14,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_7Y.YLD
-RTD.M.S0.N.C_U207Y.E,monthly,200902,2009-02-04,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_7Y.YLD
-RTD.M.S0.N.C_U207Y.E,monthly,200903,2009-03-04,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_7Y.YLD
-RTD.M.S0.N.C_U207Y.E,monthly,200904,2009-04-01,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_7Y.YLD
-RTD.M.S0.N.C_U207Y.E,monthly,200905,2009-05-06,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_7Y.YLD
-RTD.M.S0.N.C_U207Y.E,monthly,200906,2009-06-03,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_7Y.YLD
-RTD.M.S0.N.C_U207Y.E,monthly,200907,2009-07-01,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_7Y.YLD
-RTD.M.S0.N.C_U207Y.E,monthly,200908,2009-08-05,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_7Y.YLD
-RTD.M.S0.N.C_U207Y.E,monthly,200909,2009-09-02,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_7Y.YLD
-RTD.M.S0.N.C_U207Y.E,monthly,200910,2009-10-07,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_7Y.YLD
-RTD.M.S0.N.C_U207Y.E,monthly,200911,2009-11-04,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_7Y.YLD
-RTD.M.S0.N.C_U207Y.E,monthly,200912,2009-12-02,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_7Y.YLD
-RTD.M.S0.N.C_U207Y.E,monthly,201001,2010-01-13,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_7Y.YLD
-RTD.M.S0.N.C_U207Y.E,monthly,201002,2010-02-03,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_7Y.YLD
-RTD.M.S0.N.C_U207Y.E,monthly,201003,2010-03-03,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_7Y.YLD
-RTD.M.S0.N.C_U207Y.E,monthly,201004,2010-04-07,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_7Y.YLD
-RTD.M.S0.N.C_U207Y.E,monthly,201005,2010-05-05,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_7Y.YLD
-RTD.M.S0.N.C_U207Y.E,monthly,201006,2010-06-09,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_7Y.YLD
-RTD.M.S0.N.C_U207Y.E,monthly,201007,2010-07-07,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_7Y.YLD
-RTD.M.S0.N.C_U207Y.E,monthly,201008,2010-08-04,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_7Y.YLD
-RTD.M.S0.N.C_U207Y.E,monthly,201009,2010-09-01,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_7Y.YLD
-RTD.M.S0.N.C_U207Y.E,monthly,201010,2010-10-06,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_7Y.YLD
-RTD.M.S0.N.C_U207Y.E,monthly,201011,2010-11-03,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_7Y.YLD
-RTD.M.S0.N.C_U207Y.E,monthly,201012,2010-12-01,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_7Y.YLD
-RTD.M.S0.N.C_U207Y.E,monthly,201101,2011-01-12,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_7Y.YLD
-RTD.M.S0.N.C_U207Y.E,monthly,201102,2011-02-02,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_7Y.YLD
-RTD.M.S0.N.C_U207Y.E,monthly,201103,2011-03-02,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_7Y.YLD
+RTD.M.S0.N.C_U207Y.E,monthly,200802,2008-02-06,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_7Y.YLD
+RTD.M.S0.N.C_U207Y.E,monthly,200803,2008-03-05,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_7Y.YLD
+RTD.M.S0.N.C_U207Y.E,monthly,200804,2008-04-09,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_7Y.YLD
+RTD.M.S0.N.C_U207Y.E,monthly,200805,2008-05-06,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_7Y.YLD
+RTD.M.S0.N.C_U207Y.E,monthly,200806,2008-06-04,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_7Y.YLD
+RTD.M.S0.N.C_U207Y.E,monthly,200807,2008-07-02,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_7Y.YLD
+RTD.M.S0.N.C_U207Y.E,monthly,200808,2008-08-06,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_7Y.YLD
+RTD.M.S0.N.C_U207Y.E,monthly,200809,2008-09-03,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_7Y.YLD
+RTD.M.S0.N.C_U207Y.E,monthly,200810,2008-09-30,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_7Y.YLD
+RTD.M.S0.N.C_U207Y.E,monthly,200811,2008-11-05,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_7Y.YLD
+RTD.M.S0.N.C_U207Y.E,monthly,200812,2008-12-03,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_7Y.YLD
+RTD.M.S0.N.C_U207Y.E,monthly,200901,2009-01-14,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_7Y.YLD
+RTD.M.S0.N.C_U207Y.E,monthly,200902,2009-02-04,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_7Y.YLD
+RTD.M.S0.N.C_U207Y.E,monthly,200903,2009-03-04,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_7Y.YLD
+RTD.M.S0.N.C_U207Y.E,monthly,200904,2009-04-01,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_7Y.YLD
+RTD.M.S0.N.C_U207Y.E,monthly,200905,2009-05-06,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_7Y.YLD
+RTD.M.S0.N.C_U207Y.E,monthly,200906,2009-06-03,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_7Y.YLD
+RTD.M.S0.N.C_U207Y.E,monthly,200907,2009-07-01,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_7Y.YLD
+RTD.M.S0.N.C_U207Y.E,monthly,200908,2009-08-05,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_7Y.YLD
+RTD.M.S0.N.C_U207Y.E,monthly,200909,2009-09-02,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_7Y.YLD
+RTD.M.S0.N.C_U207Y.E,monthly,200910,2009-10-07,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_7Y.YLD
+RTD.M.S0.N.C_U207Y.E,monthly,200911,2009-11-04,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_7Y.YLD
+RTD.M.S0.N.C_U207Y.E,monthly,200912,2009-12-02,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_7Y.YLD
+RTD.M.S0.N.C_U207Y.E,monthly,201001,2010-01-13,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_7Y.YLD
+RTD.M.S0.N.C_U207Y.E,monthly,201002,2010-02-03,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_7Y.YLD
+RTD.M.S0.N.C_U207Y.E,monthly,201003,2010-03-03,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_7Y.YLD
+RTD.M.S0.N.C_U207Y.E,monthly,201004,2010-04-07,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_7Y.YLD
+RTD.M.S0.N.C_U207Y.E,monthly,201005,2010-05-05,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_7Y.YLD
+RTD.M.S0.N.C_U207Y.E,monthly,201006,2010-06-09,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_7Y.YLD
+RTD.M.S0.N.C_U207Y.E,monthly,201007,2010-07-07,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_7Y.YLD
+RTD.M.S0.N.C_U207Y.E,monthly,201008,2010-08-04,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_7Y.YLD
+RTD.M.S0.N.C_U207Y.E,monthly,201009,2010-09-01,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_7Y.YLD
+RTD.M.S0.N.C_U207Y.E,monthly,201010,2010-10-06,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_7Y.YLD
+RTD.M.S0.N.C_U207Y.E,monthly,201011,2010-11-03,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_7Y.YLD
+RTD.M.S0.N.C_U207Y.E,monthly,201012,2010-12-01,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_7Y.YLD
+RTD.M.S0.N.C_U207Y.E,monthly,201101,2011-01-12,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_7Y.YLD
+RTD.M.S0.N.C_U207Y.E,monthly,201102,2011-02-02,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_7Y.YLD
+RTD.M.S0.N.C_U207Y.E,monthly,201103,2011-03-02,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_7Y.YLD
 RTD.M.S0.N.C_U207Y.E,monthly,201104,2011-04-06,old file column empty,0,0,0,FM.M.U2.EUR.4F.BB.U2_7Y.YLD
 RTD.M.S0.N.C_U207Y.E,monthly,201105,2011-05-04,old file column empty,0,0,0,FM.M.U2.EUR.4F.BB.U2_7Y.YLD
 RTD.M.S0.N.C_U207Y.E,monthly,201106,2011-06-08,old file column empty,0,0,0,FM.M.U2.EUR.4F.BB.U2_7Y.YLD
@@ -20916,44 +20916,44 @@ RTD.M.S0.N.C_U210Y.E,monthly,200710,2007-10-02,match,165,165,0,FM.M.U2.EUR.4F.BB
 RTD.M.S0.N.C_U210Y.E,monthly,200711,2007-11-07,match,166,166,0,FM.M.U2.EUR.4F.BB.U2_10Y.YLD
 RTD.M.S0.N.C_U210Y.E,monthly,200712,2007-12-05,match,167,167,0,FM.M.U2.EUR.4F.BB.U2_10Y.YLD
 RTD.M.S0.N.C_U210Y.E,monthly,200801,2008-01-09,match,168,168,0,FM.M.U2.EUR.4F.BB.U2_10Y.YLD
-RTD.M.S0.N.C_U210Y.E,monthly,200802,2008-02-06,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_10Y.YLD
-RTD.M.S0.N.C_U210Y.E,monthly,200803,2008-03-05,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_10Y.YLD
-RTD.M.S0.N.C_U210Y.E,monthly,200804,2008-04-09,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_10Y.YLD
-RTD.M.S0.N.C_U210Y.E,monthly,200805,2008-05-06,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_10Y.YLD
-RTD.M.S0.N.C_U210Y.E,monthly,200806,2008-06-04,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_10Y.YLD
-RTD.M.S0.N.C_U210Y.E,monthly,200807,2008-07-02,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_10Y.YLD
-RTD.M.S0.N.C_U210Y.E,monthly,200808,2008-08-06,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_10Y.YLD
-RTD.M.S0.N.C_U210Y.E,monthly,200809,2008-09-03,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_10Y.YLD
-RTD.M.S0.N.C_U210Y.E,monthly,200810,2008-09-30,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_10Y.YLD
-RTD.M.S0.N.C_U210Y.E,monthly,200811,2008-11-05,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_10Y.YLD
-RTD.M.S0.N.C_U210Y.E,monthly,200812,2008-12-03,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_10Y.YLD
-RTD.M.S0.N.C_U210Y.E,monthly,200901,2009-01-14,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_10Y.YLD
-RTD.M.S0.N.C_U210Y.E,monthly,200902,2009-02-04,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_10Y.YLD
-RTD.M.S0.N.C_U210Y.E,monthly,200903,2009-03-04,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_10Y.YLD
-RTD.M.S0.N.C_U210Y.E,monthly,200904,2009-04-01,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_10Y.YLD
-RTD.M.S0.N.C_U210Y.E,monthly,200905,2009-05-06,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_10Y.YLD
-RTD.M.S0.N.C_U210Y.E,monthly,200906,2009-06-03,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_10Y.YLD
-RTD.M.S0.N.C_U210Y.E,monthly,200907,2009-07-01,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_10Y.YLD
-RTD.M.S0.N.C_U210Y.E,monthly,200908,2009-08-05,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_10Y.YLD
-RTD.M.S0.N.C_U210Y.E,monthly,200909,2009-09-02,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_10Y.YLD
-RTD.M.S0.N.C_U210Y.E,monthly,200910,2009-10-07,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_10Y.YLD
-RTD.M.S0.N.C_U210Y.E,monthly,200911,2009-11-04,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_10Y.YLD
-RTD.M.S0.N.C_U210Y.E,monthly,200912,2009-12-02,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_10Y.YLD
-RTD.M.S0.N.C_U210Y.E,monthly,201001,2010-01-13,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_10Y.YLD
-RTD.M.S0.N.C_U210Y.E,monthly,201002,2010-02-03,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_10Y.YLD
-RTD.M.S0.N.C_U210Y.E,monthly,201003,2010-03-03,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_10Y.YLD
-RTD.M.S0.N.C_U210Y.E,monthly,201004,2010-04-07,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_10Y.YLD
-RTD.M.S0.N.C_U210Y.E,monthly,201005,2010-05-05,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_10Y.YLD
-RTD.M.S0.N.C_U210Y.E,monthly,201006,2010-06-09,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_10Y.YLD
-RTD.M.S0.N.C_U210Y.E,monthly,201007,2010-07-07,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_10Y.YLD
-RTD.M.S0.N.C_U210Y.E,monthly,201008,2010-08-04,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_10Y.YLD
-RTD.M.S0.N.C_U210Y.E,monthly,201009,2010-09-01,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_10Y.YLD
-RTD.M.S0.N.C_U210Y.E,monthly,201010,2010-10-06,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_10Y.YLD
-RTD.M.S0.N.C_U210Y.E,monthly,201011,2010-11-03,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_10Y.YLD
-RTD.M.S0.N.C_U210Y.E,monthly,201012,2010-12-01,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_10Y.YLD
-RTD.M.S0.N.C_U210Y.E,monthly,201101,2011-01-12,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_10Y.YLD
-RTD.M.S0.N.C_U210Y.E,monthly,201102,2011-02-02,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_10Y.YLD
-RTD.M.S0.N.C_U210Y.E,monthly,201103,2011-03-02,old file column empty,0,168,0,FM.M.U2.EUR.4F.BB.U2_10Y.YLD
+RTD.M.S0.N.C_U210Y.E,monthly,200802,2008-02-06,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_10Y.YLD
+RTD.M.S0.N.C_U210Y.E,monthly,200803,2008-03-05,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_10Y.YLD
+RTD.M.S0.N.C_U210Y.E,monthly,200804,2008-04-09,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_10Y.YLD
+RTD.M.S0.N.C_U210Y.E,monthly,200805,2008-05-06,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_10Y.YLD
+RTD.M.S0.N.C_U210Y.E,monthly,200806,2008-06-04,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_10Y.YLD
+RTD.M.S0.N.C_U210Y.E,monthly,200807,2008-07-02,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_10Y.YLD
+RTD.M.S0.N.C_U210Y.E,monthly,200808,2008-08-06,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_10Y.YLD
+RTD.M.S0.N.C_U210Y.E,monthly,200809,2008-09-03,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_10Y.YLD
+RTD.M.S0.N.C_U210Y.E,monthly,200810,2008-09-30,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_10Y.YLD
+RTD.M.S0.N.C_U210Y.E,monthly,200811,2008-11-05,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_10Y.YLD
+RTD.M.S0.N.C_U210Y.E,monthly,200812,2008-12-03,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_10Y.YLD
+RTD.M.S0.N.C_U210Y.E,monthly,200901,2009-01-14,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_10Y.YLD
+RTD.M.S0.N.C_U210Y.E,monthly,200902,2009-02-04,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_10Y.YLD
+RTD.M.S0.N.C_U210Y.E,monthly,200903,2009-03-04,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_10Y.YLD
+RTD.M.S0.N.C_U210Y.E,monthly,200904,2009-04-01,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_10Y.YLD
+RTD.M.S0.N.C_U210Y.E,monthly,200905,2009-05-06,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_10Y.YLD
+RTD.M.S0.N.C_U210Y.E,monthly,200906,2009-06-03,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_10Y.YLD
+RTD.M.S0.N.C_U210Y.E,monthly,200907,2009-07-01,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_10Y.YLD
+RTD.M.S0.N.C_U210Y.E,monthly,200908,2009-08-05,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_10Y.YLD
+RTD.M.S0.N.C_U210Y.E,monthly,200909,2009-09-02,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_10Y.YLD
+RTD.M.S0.N.C_U210Y.E,monthly,200910,2009-10-07,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_10Y.YLD
+RTD.M.S0.N.C_U210Y.E,monthly,200911,2009-11-04,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_10Y.YLD
+RTD.M.S0.N.C_U210Y.E,monthly,200912,2009-12-02,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_10Y.YLD
+RTD.M.S0.N.C_U210Y.E,monthly,201001,2010-01-13,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_10Y.YLD
+RTD.M.S0.N.C_U210Y.E,monthly,201002,2010-02-03,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_10Y.YLD
+RTD.M.S0.N.C_U210Y.E,monthly,201003,2010-03-03,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_10Y.YLD
+RTD.M.S0.N.C_U210Y.E,monthly,201004,2010-04-07,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_10Y.YLD
+RTD.M.S0.N.C_U210Y.E,monthly,201005,2010-05-05,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_10Y.YLD
+RTD.M.S0.N.C_U210Y.E,monthly,201006,2010-06-09,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_10Y.YLD
+RTD.M.S0.N.C_U210Y.E,monthly,201007,2010-07-07,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_10Y.YLD
+RTD.M.S0.N.C_U210Y.E,monthly,201008,2010-08-04,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_10Y.YLD
+RTD.M.S0.N.C_U210Y.E,monthly,201009,2010-09-01,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_10Y.YLD
+RTD.M.S0.N.C_U210Y.E,monthly,201010,2010-10-06,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_10Y.YLD
+RTD.M.S0.N.C_U210Y.E,monthly,201011,2010-11-03,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_10Y.YLD
+RTD.M.S0.N.C_U210Y.E,monthly,201012,2010-12-01,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_10Y.YLD
+RTD.M.S0.N.C_U210Y.E,monthly,201101,2011-01-12,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_10Y.YLD
+RTD.M.S0.N.C_U210Y.E,monthly,201102,2011-02-02,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_10Y.YLD
+RTD.M.S0.N.C_U210Y.E,monthly,201103,2011-03-02,"old file column empty, rebuilt vintage has data",0,168,0,FM.M.U2.EUR.4F.BB.U2_10Y.YLD
 RTD.M.S0.N.C_U210Y.E,monthly,201104,2011-04-06,old file column empty,0,0,0,FM.M.U2.EUR.4F.BB.U2_10Y.YLD
 RTD.M.S0.N.C_U210Y.E,monthly,201105,2011-05-04,old file column empty,0,0,0,FM.M.U2.EUR.4F.BB.U2_10Y.YLD
 RTD.M.S0.N.C_U210Y.E,monthly,201106,2011-06-08,old file column empty,0,0,0,FM.M.U2.EUR.4F.BB.U2_10Y.YLD
@@ -22191,22 +22191,22 @@ RTD.M.S0.N.M_LOAN_U_NG.E,monthly,200201,2002-01-16,old file column empty,0,0,0,B
 RTD.M.S0.N.M_LOAN_U_NG.E,monthly,200202,2002-02-06,old file column empty,0,0,0,BSI.M.U2.Y.U.A20.A.1.U2.2200.Z01.E
 RTD.M.S0.N.M_LOAN_U_NG.E,monthly,200203,2002-03-06,old file column empty,0,0,0,BSI.M.U2.Y.U.A20.A.1.U2.2200.Z01.E
 RTD.M.S0.N.M_LOAN_U_NG.E,monthly,200204,2002-04-03,match,134,134,0,BSI.M.U2.Y.U.A20.A.1.U2.2200.Z01.E
-RTD.M.S0.N.M_LOAN_U_NG.E,monthly,200205,2002-04-30,old file column empty,0,134,0,BSI.M.U2.Y.U.A20.A.1.U2.2200.Z01.E
-RTD.M.S0.N.M_LOAN_U_NG.E,monthly,200206,2002-06-05,old file column empty,0,134,0,BSI.M.U2.Y.U.A20.A.1.U2.2200.Z01.E
-RTD.M.S0.N.M_LOAN_U_NG.E,monthly,200207,2002-07-03,old file column empty,0,134,0,BSI.M.U2.Y.U.A20.A.1.U2.2200.Z01.E
-RTD.M.S0.N.M_LOAN_U_NG.E,monthly,200208,2002-07-31,old file column empty,0,134,0,BSI.M.U2.Y.U.A20.A.1.U2.2200.Z01.E
-RTD.M.S0.N.M_LOAN_U_NG.E,monthly,200209,2002-09-11,old file column empty,0,134,0,BSI.M.U2.Y.U.A20.A.1.U2.2200.Z01.E
-RTD.M.S0.N.M_LOAN_U_NG.E,monthly,200210,2002-10-09,old file column empty,0,134,0,BSI.M.U2.Y.U.A20.A.1.U2.2200.Z01.E
-RTD.M.S0.N.M_LOAN_U_NG.E,monthly,200211,2002-11-06,old file column empty,0,134,0,BSI.M.U2.Y.U.A20.A.1.U2.2200.Z01.E
-RTD.M.S0.N.M_LOAN_U_NG.E,monthly,200212,2002-12-04,old file column empty,0,134,0,BSI.M.U2.Y.U.A20.A.1.U2.2200.Z01.E
-RTD.M.S0.N.M_LOAN_U_NG.E,monthly,200301,2003-01-15,old file column empty,0,134,0,BSI.M.U2.Y.U.A20.A.1.U2.2200.Z01.E
-RTD.M.S0.N.M_LOAN_U_NG.E,monthly,200302,2003-02-05,old file column empty,0,134,0,BSI.M.U2.Y.U.A20.A.1.U2.2200.Z01.E
-RTD.M.S0.N.M_LOAN_U_NG.E,monthly,200303,2003-03-05,old file column empty,0,134,0,BSI.M.U2.Y.U.A20.A.1.U2.2200.Z01.E
-RTD.M.S0.N.M_LOAN_U_NG.E,monthly,200304,2003-04-02,old file column empty,0,134,0,BSI.M.U2.Y.U.A20.A.1.U2.2200.Z01.E
-RTD.M.S0.N.M_LOAN_U_NG.E,monthly,200305,2003-05-07,old file column empty,0,134,0,BSI.M.U2.Y.U.A20.A.1.U2.2200.Z01.E
-RTD.M.S0.N.M_LOAN_U_NG.E,monthly,200306,2003-06-04,old file column empty,0,134,0,BSI.M.U2.Y.U.A20.A.1.U2.2200.Z01.E
-RTD.M.S0.N.M_LOAN_U_NG.E,monthly,200307,2003-07-09,old file column empty,0,134,0,BSI.M.U2.Y.U.A20.A.1.U2.2200.Z01.E
-RTD.M.S0.N.M_LOAN_U_NG.E,monthly,200308,2003-07-30,old file column empty,0,134,0,BSI.M.U2.Y.U.A20.A.1.U2.2200.Z01.E
+RTD.M.S0.N.M_LOAN_U_NG.E,monthly,200205,2002-04-30,"old file column empty, rebuilt vintage has data",0,134,0,BSI.M.U2.Y.U.A20.A.1.U2.2200.Z01.E
+RTD.M.S0.N.M_LOAN_U_NG.E,monthly,200206,2002-06-05,"old file column empty, rebuilt vintage has data",0,134,0,BSI.M.U2.Y.U.A20.A.1.U2.2200.Z01.E
+RTD.M.S0.N.M_LOAN_U_NG.E,monthly,200207,2002-07-03,"old file column empty, rebuilt vintage has data",0,134,0,BSI.M.U2.Y.U.A20.A.1.U2.2200.Z01.E
+RTD.M.S0.N.M_LOAN_U_NG.E,monthly,200208,2002-07-31,"old file column empty, rebuilt vintage has data",0,134,0,BSI.M.U2.Y.U.A20.A.1.U2.2200.Z01.E
+RTD.M.S0.N.M_LOAN_U_NG.E,monthly,200209,2002-09-11,"old file column empty, rebuilt vintage has data",0,134,0,BSI.M.U2.Y.U.A20.A.1.U2.2200.Z01.E
+RTD.M.S0.N.M_LOAN_U_NG.E,monthly,200210,2002-10-09,"old file column empty, rebuilt vintage has data",0,134,0,BSI.M.U2.Y.U.A20.A.1.U2.2200.Z01.E
+RTD.M.S0.N.M_LOAN_U_NG.E,monthly,200211,2002-11-06,"old file column empty, rebuilt vintage has data",0,134,0,BSI.M.U2.Y.U.A20.A.1.U2.2200.Z01.E
+RTD.M.S0.N.M_LOAN_U_NG.E,monthly,200212,2002-12-04,"old file column empty, rebuilt vintage has data",0,134,0,BSI.M.U2.Y.U.A20.A.1.U2.2200.Z01.E
+RTD.M.S0.N.M_LOAN_U_NG.E,monthly,200301,2003-01-15,"old file column empty, rebuilt vintage has data",0,134,0,BSI.M.U2.Y.U.A20.A.1.U2.2200.Z01.E
+RTD.M.S0.N.M_LOAN_U_NG.E,monthly,200302,2003-02-05,"old file column empty, rebuilt vintage has data",0,134,0,BSI.M.U2.Y.U.A20.A.1.U2.2200.Z01.E
+RTD.M.S0.N.M_LOAN_U_NG.E,monthly,200303,2003-03-05,"old file column empty, rebuilt vintage has data",0,134,0,BSI.M.U2.Y.U.A20.A.1.U2.2200.Z01.E
+RTD.M.S0.N.M_LOAN_U_NG.E,monthly,200304,2003-04-02,"old file column empty, rebuilt vintage has data",0,134,0,BSI.M.U2.Y.U.A20.A.1.U2.2200.Z01.E
+RTD.M.S0.N.M_LOAN_U_NG.E,monthly,200305,2003-05-07,"old file column empty, rebuilt vintage has data",0,134,0,BSI.M.U2.Y.U.A20.A.1.U2.2200.Z01.E
+RTD.M.S0.N.M_LOAN_U_NG.E,monthly,200306,2003-06-04,"old file column empty, rebuilt vintage has data",0,134,0,BSI.M.U2.Y.U.A20.A.1.U2.2200.Z01.E
+RTD.M.S0.N.M_LOAN_U_NG.E,monthly,200307,2003-07-09,"old file column empty, rebuilt vintage has data",0,134,0,BSI.M.U2.Y.U.A20.A.1.U2.2200.Z01.E
+RTD.M.S0.N.M_LOAN_U_NG.E,monthly,200308,2003-07-30,"old file column empty, rebuilt vintage has data",0,134,0,BSI.M.U2.Y.U.A20.A.1.U2.2200.Z01.E
 RTD.M.S0.N.M_LOAN_U_NG.E,monthly,200309,2003-09-03,match,151,151,0,BSI.M.U2.Y.U.A20.A.1.U2.2200.Z01.E
 RTD.M.S0.N.M_LOAN_U_NG.E,monthly,200310,2003-10-01,match,152,152,0,BSI.M.U2.Y.U.A20.A.1.U2.2200.Z01.E
 RTD.M.S0.N.M_LOAN_U_NG.E,monthly,200311,2003-11-05,match,153,153,0,BSI.M.U2.Y.U.A20.A.1.U2.2200.Z01.E
@@ -27472,7 +27472,7 @@ RTD.M.S0.N.P_R_TO.E,monthly,200802,2008-02-06,match,353,353,0,RMP.M.I2.0100.E
 RTD.M.S0.N.P_R_TO.E,monthly,200803,2008-03-05,match,354,354,0,RMP.M.I2.0100.E
 RTD.M.S0.N.P_R_TO.E,monthly,200804,2008-04-09,match,355,355,0,RMP.M.I2.0100.E
 RTD.M.S0.N.P_R_TO.E,monthly,200805,2008-05-06,match,356,356,0,RMP.M.I2.0100.E
-RTD.M.S0.N.P_R_TO.E,monthly,200806,2008-06-04,old file column empty,0,356,0,RMP.M.I2.0100.E
+RTD.M.S0.N.P_R_TO.E,monthly,200806,2008-06-04,"old file column empty, rebuilt vintage has data",0,356,0,RMP.M.I2.0100.E
 RTD.M.S0.N.P_R_TO.E,monthly,200807,2008-07-02,match,358,358,0,RMP.M.I2.0100.E
 RTD.M.S0.N.P_R_TO.E,monthly,200808,2008-08-06,match,359,359,0,RMP.M.I2.0100.E
 RTD.M.S0.N.P_R_TO.E,monthly,200809,2008-09-03,match,360,360,0,RMP.M.I2.0100.E
@@ -27480,32 +27480,32 @@ RTD.M.S0.N.P_R_TO.E,monthly,200810,2008-09-30,match,360,360,0,RMP.M.I2.0100.E
 RTD.M.S0.N.P_R_TO.E,monthly,200811,2008-11-05,match,362,362,0,RMP.M.I2.0100.E
 RTD.M.S0.N.P_R_TO.E,monthly,200812,2008-12-03,match,363,363,0,RMP.M.I2.0100.E
 RTD.M.S0.N.P_R_TO.E,monthly,200901,2009-01-14,match,364,364,0,RMP.M.I2.0100.E
-RTD.M.S0.N.P_R_TO.E,monthly,200902,2009-02-04,old file column empty,0,364,0,RMP.M.I2.0100.E
-RTD.M.S0.N.P_R_TO.E,monthly,200903,2009-03-04,old file column empty,0,364,0,RMP.M.I2.0100.E
-RTD.M.S0.N.P_R_TO.E,monthly,200904,2009-04-01,old file column empty,0,364,0,RMP.M.I2.0100.E
-RTD.M.S0.N.P_R_TO.E,monthly,200905,2009-05-06,old file column empty,0,364,0,RMP.M.I2.0100.E
-RTD.M.S0.N.P_R_TO.E,monthly,200906,2009-06-03,old file column empty,0,364,0,RMP.M.I2.0100.E
-RTD.M.S0.N.P_R_TO.E,monthly,200907,2009-07-01,old file column empty,0,364,0,RMP.M.I2.0100.E
-RTD.M.S0.N.P_R_TO.E,monthly,200908,2009-08-05,old file column empty,0,364,0,RMP.M.I2.0100.E
-RTD.M.S0.N.P_R_TO.E,monthly,200909,2009-09-02,old file column empty,0,364,0,RMP.M.I2.0100.E
-RTD.M.S0.N.P_R_TO.E,monthly,200910,2009-10-07,old file column empty,0,364,0,RMP.M.I2.0100.E
-RTD.M.S0.N.P_R_TO.E,monthly,200911,2009-11-04,old file column empty,0,364,0,RMP.M.I2.0100.E
-RTD.M.S0.N.P_R_TO.E,monthly,200912,2009-12-02,old file column empty,0,364,0,RMP.M.I2.0100.E
-RTD.M.S0.N.P_R_TO.E,monthly,201001,2010-01-13,old file column empty,0,364,0,RMP.M.I2.0100.E
-RTD.M.S0.N.P_R_TO.E,monthly,201002,2010-02-03,old file column empty,0,364,0,RMP.M.I2.0100.E
-RTD.M.S0.N.P_R_TO.E,monthly,201003,2010-03-03,old file column empty,0,364,0,RMP.M.I2.0100.E
-RTD.M.S0.N.P_R_TO.E,monthly,201004,2010-04-07,old file column empty,0,364,0,RMP.M.I2.0100.E
-RTD.M.S0.N.P_R_TO.E,monthly,201005,2010-05-05,old file column empty,0,364,0,RMP.M.I2.0100.E
-RTD.M.S0.N.P_R_TO.E,monthly,201006,2010-06-09,old file column empty,0,364,0,RMP.M.I2.0100.E
+RTD.M.S0.N.P_R_TO.E,monthly,200902,2009-02-04,"old file column empty, rebuilt vintage has data",0,364,0,RMP.M.I2.0100.E
+RTD.M.S0.N.P_R_TO.E,monthly,200903,2009-03-04,"old file column empty, rebuilt vintage has data",0,364,0,RMP.M.I2.0100.E
+RTD.M.S0.N.P_R_TO.E,monthly,200904,2009-04-01,"old file column empty, rebuilt vintage has data",0,364,0,RMP.M.I2.0100.E
+RTD.M.S0.N.P_R_TO.E,monthly,200905,2009-05-06,"old file column empty, rebuilt vintage has data",0,364,0,RMP.M.I2.0100.E
+RTD.M.S0.N.P_R_TO.E,monthly,200906,2009-06-03,"old file column empty, rebuilt vintage has data",0,364,0,RMP.M.I2.0100.E
+RTD.M.S0.N.P_R_TO.E,monthly,200907,2009-07-01,"old file column empty, rebuilt vintage has data",0,364,0,RMP.M.I2.0100.E
+RTD.M.S0.N.P_R_TO.E,monthly,200908,2009-08-05,"old file column empty, rebuilt vintage has data",0,364,0,RMP.M.I2.0100.E
+RTD.M.S0.N.P_R_TO.E,monthly,200909,2009-09-02,"old file column empty, rebuilt vintage has data",0,364,0,RMP.M.I2.0100.E
+RTD.M.S0.N.P_R_TO.E,monthly,200910,2009-10-07,"old file column empty, rebuilt vintage has data",0,364,0,RMP.M.I2.0100.E
+RTD.M.S0.N.P_R_TO.E,monthly,200911,2009-11-04,"old file column empty, rebuilt vintage has data",0,364,0,RMP.M.I2.0100.E
+RTD.M.S0.N.P_R_TO.E,monthly,200912,2009-12-02,"old file column empty, rebuilt vintage has data",0,364,0,RMP.M.I2.0100.E
+RTD.M.S0.N.P_R_TO.E,monthly,201001,2010-01-13,"old file column empty, rebuilt vintage has data",0,364,0,RMP.M.I2.0100.E
+RTD.M.S0.N.P_R_TO.E,monthly,201002,2010-02-03,"old file column empty, rebuilt vintage has data",0,364,0,RMP.M.I2.0100.E
+RTD.M.S0.N.P_R_TO.E,monthly,201003,2010-03-03,"old file column empty, rebuilt vintage has data",0,364,0,RMP.M.I2.0100.E
+RTD.M.S0.N.P_R_TO.E,monthly,201004,2010-04-07,"old file column empty, rebuilt vintage has data",0,364,0,RMP.M.I2.0100.E
+RTD.M.S0.N.P_R_TO.E,monthly,201005,2010-05-05,"old file column empty, rebuilt vintage has data",0,364,0,RMP.M.I2.0100.E
+RTD.M.S0.N.P_R_TO.E,monthly,201006,2010-06-09,"old file column empty, rebuilt vintage has data",0,364,0,RMP.M.I2.0100.E
 RTD.M.S0.N.P_R_TO.E,monthly,201007,2010-07-07,match,382,382,0,RMP.M.I2.0100.E
 RTD.M.S0.N.P_R_TO.E,monthly,201008,2010-08-04,match,383,383,0,RMP.M.I2.0100.E
 RTD.M.S0.N.P_R_TO.E,monthly,201009,2010-09-01,match,383,383,0,RMP.M.I2.0100.E
-RTD.M.S0.N.P_R_TO.E,monthly,201010,2010-10-06,old file column empty,0,383,0,RMP.M.I2.0100.E
-RTD.M.S0.N.P_R_TO.E,monthly,201011,2010-11-03,old file column empty,0,383,0,RMP.M.I2.0100.E
-RTD.M.S0.N.P_R_TO.E,monthly,201012,2010-12-01,old file column empty,0,383,0,RMP.M.I2.0100.E
-RTD.M.S0.N.P_R_TO.E,monthly,201101,2011-01-12,old file column empty,0,383,0,RMP.M.I2.0100.E
-RTD.M.S0.N.P_R_TO.E,monthly,201102,2011-02-02,old file column empty,0,383,0,RMP.M.I2.0100.E
-RTD.M.S0.N.P_R_TO.E,monthly,201103,2011-03-02,old file column empty,0,383,0,RMP.M.I2.0100.E
+RTD.M.S0.N.P_R_TO.E,monthly,201010,2010-10-06,"old file column empty, rebuilt vintage has data",0,383,0,RMP.M.I2.0100.E
+RTD.M.S0.N.P_R_TO.E,monthly,201011,2010-11-03,"old file column empty, rebuilt vintage has data",0,383,0,RMP.M.I2.0100.E
+RTD.M.S0.N.P_R_TO.E,monthly,201012,2010-12-01,"old file column empty, rebuilt vintage has data",0,383,0,RMP.M.I2.0100.E
+RTD.M.S0.N.P_R_TO.E,monthly,201101,2011-01-12,"old file column empty, rebuilt vintage has data",0,383,0,RMP.M.I2.0100.E
+RTD.M.S0.N.P_R_TO.E,monthly,201102,2011-02-02,"old file column empty, rebuilt vintage has data",0,383,0,RMP.M.I2.0100.E
+RTD.M.S0.N.P_R_TO.E,monthly,201103,2011-03-02,"old file column empty, rebuilt vintage has data",0,383,0,RMP.M.I2.0100.E
 RTD.M.S0.N.P_R_TO.E,monthly,201104,2011-04-06,old file column empty,0,0,0,RMP.M.I2.0100.E
 RTD.M.S0.N.P_R_TO.E,monthly,201105,2011-05-04,old file column empty,0,0,0,RMP.M.I2.0100.E
 RTD.M.S0.N.P_R_TO.E,monthly,201106,2011-06-08,old file column empty,0,0,0,RMP.M.I2.0100.E
@@ -27640,7 +27640,7 @@ RTD.M.S0.N.P_R_XNRGY.E,monthly,200802,2008-02-06,match,353,353,0,RMP.M.I2.0200.E
 RTD.M.S0.N.P_R_XNRGY.E,monthly,200803,2008-03-05,match,354,354,0,RMP.M.I2.0200.E
 RTD.M.S0.N.P_R_XNRGY.E,monthly,200804,2008-04-09,match,355,355,0,RMP.M.I2.0200.E
 RTD.M.S0.N.P_R_XNRGY.E,monthly,200805,2008-05-06,match,356,356,0,RMP.M.I2.0200.E
-RTD.M.S0.N.P_R_XNRGY.E,monthly,200806,2008-06-04,old file column empty,0,356,0,RMP.M.I2.0200.E
+RTD.M.S0.N.P_R_XNRGY.E,monthly,200806,2008-06-04,"old file column empty, rebuilt vintage has data",0,356,0,RMP.M.I2.0200.E
 RTD.M.S0.N.P_R_XNRGY.E,monthly,200807,2008-07-02,match,358,358,0,RMP.M.I2.0200.E
 RTD.M.S0.N.P_R_XNRGY.E,monthly,200808,2008-08-06,match,359,359,0,RMP.M.I2.0200.E
 RTD.M.S0.N.P_R_XNRGY.E,monthly,200809,2008-09-03,match,360,360,0,RMP.M.I2.0200.E
@@ -27648,32 +27648,32 @@ RTD.M.S0.N.P_R_XNRGY.E,monthly,200810,2008-09-30,match,360,360,0,RMP.M.I2.0200.E
 RTD.M.S0.N.P_R_XNRGY.E,monthly,200811,2008-11-05,match,362,362,0,RMP.M.I2.0200.E
 RTD.M.S0.N.P_R_XNRGY.E,monthly,200812,2008-12-03,match,363,363,0,RMP.M.I2.0200.E
 RTD.M.S0.N.P_R_XNRGY.E,monthly,200901,2009-01-14,match,364,364,0,RMP.M.I2.0200.E
-RTD.M.S0.N.P_R_XNRGY.E,monthly,200902,2009-02-04,old file column empty,0,364,0,RMP.M.I2.0200.E
-RTD.M.S0.N.P_R_XNRGY.E,monthly,200903,2009-03-04,old file column empty,0,364,0,RMP.M.I2.0200.E
-RTD.M.S0.N.P_R_XNRGY.E,monthly,200904,2009-04-01,old file column empty,0,364,0,RMP.M.I2.0200.E
-RTD.M.S0.N.P_R_XNRGY.E,monthly,200905,2009-05-06,old file column empty,0,364,0,RMP.M.I2.0200.E
-RTD.M.S0.N.P_R_XNRGY.E,monthly,200906,2009-06-03,old file column empty,0,364,0,RMP.M.I2.0200.E
-RTD.M.S0.N.P_R_XNRGY.E,monthly,200907,2009-07-01,old file column empty,0,364,0,RMP.M.I2.0200.E
-RTD.M.S0.N.P_R_XNRGY.E,monthly,200908,2009-08-05,old file column empty,0,364,0,RMP.M.I2.0200.E
-RTD.M.S0.N.P_R_XNRGY.E,monthly,200909,2009-09-02,old file column empty,0,364,0,RMP.M.I2.0200.E
-RTD.M.S0.N.P_R_XNRGY.E,monthly,200910,2009-10-07,old file column empty,0,364,0,RMP.M.I2.0200.E
-RTD.M.S0.N.P_R_XNRGY.E,monthly,200911,2009-11-04,old file column empty,0,364,0,RMP.M.I2.0200.E
-RTD.M.S0.N.P_R_XNRGY.E,monthly,200912,2009-12-02,old file column empty,0,364,0,RMP.M.I2.0200.E
-RTD.M.S0.N.P_R_XNRGY.E,monthly,201001,2010-01-13,old file column empty,0,364,0,RMP.M.I2.0200.E
-RTD.M.S0.N.P_R_XNRGY.E,monthly,201002,2010-02-03,old file column empty,0,364,0,RMP.M.I2.0200.E
-RTD.M.S0.N.P_R_XNRGY.E,monthly,201003,2010-03-03,old file column empty,0,364,0,RMP.M.I2.0200.E
-RTD.M.S0.N.P_R_XNRGY.E,monthly,201004,2010-04-07,old file column empty,0,364,0,RMP.M.I2.0200.E
-RTD.M.S0.N.P_R_XNRGY.E,monthly,201005,2010-05-05,old file column empty,0,364,0,RMP.M.I2.0200.E
-RTD.M.S0.N.P_R_XNRGY.E,monthly,201006,2010-06-09,old file column empty,0,364,0,RMP.M.I2.0200.E
+RTD.M.S0.N.P_R_XNRGY.E,monthly,200902,2009-02-04,"old file column empty, rebuilt vintage has data",0,364,0,RMP.M.I2.0200.E
+RTD.M.S0.N.P_R_XNRGY.E,monthly,200903,2009-03-04,"old file column empty, rebuilt vintage has data",0,364,0,RMP.M.I2.0200.E
+RTD.M.S0.N.P_R_XNRGY.E,monthly,200904,2009-04-01,"old file column empty, rebuilt vintage has data",0,364,0,RMP.M.I2.0200.E
+RTD.M.S0.N.P_R_XNRGY.E,monthly,200905,2009-05-06,"old file column empty, rebuilt vintage has data",0,364,0,RMP.M.I2.0200.E
+RTD.M.S0.N.P_R_XNRGY.E,monthly,200906,2009-06-03,"old file column empty, rebuilt vintage has data",0,364,0,RMP.M.I2.0200.E
+RTD.M.S0.N.P_R_XNRGY.E,monthly,200907,2009-07-01,"old file column empty, rebuilt vintage has data",0,364,0,RMP.M.I2.0200.E
+RTD.M.S0.N.P_R_XNRGY.E,monthly,200908,2009-08-05,"old file column empty, rebuilt vintage has data",0,364,0,RMP.M.I2.0200.E
+RTD.M.S0.N.P_R_XNRGY.E,monthly,200909,2009-09-02,"old file column empty, rebuilt vintage has data",0,364,0,RMP.M.I2.0200.E
+RTD.M.S0.N.P_R_XNRGY.E,monthly,200910,2009-10-07,"old file column empty, rebuilt vintage has data",0,364,0,RMP.M.I2.0200.E
+RTD.M.S0.N.P_R_XNRGY.E,monthly,200911,2009-11-04,"old file column empty, rebuilt vintage has data",0,364,0,RMP.M.I2.0200.E
+RTD.M.S0.N.P_R_XNRGY.E,monthly,200912,2009-12-02,"old file column empty, rebuilt vintage has data",0,364,0,RMP.M.I2.0200.E
+RTD.M.S0.N.P_R_XNRGY.E,monthly,201001,2010-01-13,"old file column empty, rebuilt vintage has data",0,364,0,RMP.M.I2.0200.E
+RTD.M.S0.N.P_R_XNRGY.E,monthly,201002,2010-02-03,"old file column empty, rebuilt vintage has data",0,364,0,RMP.M.I2.0200.E
+RTD.M.S0.N.P_R_XNRGY.E,monthly,201003,2010-03-03,"old file column empty, rebuilt vintage has data",0,364,0,RMP.M.I2.0200.E
+RTD.M.S0.N.P_R_XNRGY.E,monthly,201004,2010-04-07,"old file column empty, rebuilt vintage has data",0,364,0,RMP.M.I2.0200.E
+RTD.M.S0.N.P_R_XNRGY.E,monthly,201005,2010-05-05,"old file column empty, rebuilt vintage has data",0,364,0,RMP.M.I2.0200.E
+RTD.M.S0.N.P_R_XNRGY.E,monthly,201006,2010-06-09,"old file column empty, rebuilt vintage has data",0,364,0,RMP.M.I2.0200.E
 RTD.M.S0.N.P_R_XNRGY.E,monthly,201007,2010-07-07,match,382,382,0,RMP.M.I2.0200.E
 RTD.M.S0.N.P_R_XNRGY.E,monthly,201008,2010-08-04,match,383,383,0,RMP.M.I2.0200.E
 RTD.M.S0.N.P_R_XNRGY.E,monthly,201009,2010-09-01,match,383,383,0,RMP.M.I2.0200.E
-RTD.M.S0.N.P_R_XNRGY.E,monthly,201010,2010-10-06,old file column empty,0,383,0,RMP.M.I2.0200.E
-RTD.M.S0.N.P_R_XNRGY.E,monthly,201011,2010-11-03,old file column empty,0,383,0,RMP.M.I2.0200.E
-RTD.M.S0.N.P_R_XNRGY.E,monthly,201012,2010-12-01,old file column empty,0,383,0,RMP.M.I2.0200.E
-RTD.M.S0.N.P_R_XNRGY.E,monthly,201101,2011-01-12,old file column empty,0,383,0,RMP.M.I2.0200.E
-RTD.M.S0.N.P_R_XNRGY.E,monthly,201102,2011-02-02,old file column empty,0,383,0,RMP.M.I2.0200.E
-RTD.M.S0.N.P_R_XNRGY.E,monthly,201103,2011-03-02,old file column empty,0,383,0,RMP.M.I2.0200.E
+RTD.M.S0.N.P_R_XNRGY.E,monthly,201010,2010-10-06,"old file column empty, rebuilt vintage has data",0,383,0,RMP.M.I2.0200.E
+RTD.M.S0.N.P_R_XNRGY.E,monthly,201011,2010-11-03,"old file column empty, rebuilt vintage has data",0,383,0,RMP.M.I2.0200.E
+RTD.M.S0.N.P_R_XNRGY.E,monthly,201012,2010-12-01,"old file column empty, rebuilt vintage has data",0,383,0,RMP.M.I2.0200.E
+RTD.M.S0.N.P_R_XNRGY.E,monthly,201101,2011-01-12,"old file column empty, rebuilt vintage has data",0,383,0,RMP.M.I2.0200.E
+RTD.M.S0.N.P_R_XNRGY.E,monthly,201102,2011-02-02,"old file column empty, rebuilt vintage has data",0,383,0,RMP.M.I2.0200.E
+RTD.M.S0.N.P_R_XNRGY.E,monthly,201103,2011-03-02,"old file column empty, rebuilt vintage has data",0,383,0,RMP.M.I2.0200.E
 RTD.M.S0.N.P_R_XNRGY.E,monthly,201104,2011-04-06,old file column empty,0,0,0,RMP.M.I2.0200.E
 RTD.M.S0.N.P_R_XNRGY.E,monthly,201105,2011-05-04,old file column empty,0,0,0,RMP.M.I2.0200.E
 RTD.M.S0.N.P_R_XNRGY.E,monthly,201106,2011-06-08,old file column empty,0,0,0,RMP.M.I2.0200.E
@@ -32779,10 +32779,10 @@ RTD.M.S0.S.T_MCAP_U.X,monthly,200205,2002-04-30,match,156,156,0,TRD.M.I1.N.M.CAP
 RTD.M.S0.S.T_MCAP_U.X,monthly,200206,2002-06-05,match,156,156,0,TRD.M.I1.N.M.CAP.J1.4.UVX
 RTD.M.S0.S.T_MCAP_U.X,monthly,200207,2002-07-03,match,156,156,0,TRD.M.I1.N.M.CAP.J1.4.UVX
 RTD.M.S0.S.T_MCAP_U.X,monthly,200208,2002-07-31,match,16,16,0,TRD.M.I2.N.M.CAP.J2.4.UVX
-RTD.M.S0.S.T_MCAP_U.X,monthly,200209,2002-09-11,old file column empty,0,16,0,TRD.M.I2.N.M.CAP.J2.4.UVX
-RTD.M.S0.S.T_MCAP_U.X,monthly,200210,2002-10-09,old file column empty,0,16,0,TRD.M.I2.N.M.CAP.J2.4.UVX
-RTD.M.S0.S.T_MCAP_U.X,monthly,200211,2002-11-06,old file column empty,0,16,0,TRD.M.I2.N.M.CAP.J2.4.UVX
-RTD.M.S0.S.T_MCAP_U.X,monthly,200212,2002-12-04,old file column empty,0,16,0,TRD.M.I2.N.M.CAP.J2.4.UVX
+RTD.M.S0.S.T_MCAP_U.X,monthly,200209,2002-09-11,"old file column empty, rebuilt vintage has data",0,16,0,TRD.M.I2.N.M.CAP.J2.4.UVX
+RTD.M.S0.S.T_MCAP_U.X,monthly,200210,2002-10-09,"old file column empty, rebuilt vintage has data",0,16,0,TRD.M.I2.N.M.CAP.J2.4.UVX
+RTD.M.S0.S.T_MCAP_U.X,monthly,200211,2002-11-06,"old file column empty, rebuilt vintage has data",0,16,0,TRD.M.I2.N.M.CAP.J2.4.UVX
+RTD.M.S0.S.T_MCAP_U.X,monthly,200212,2002-12-04,"old file column empty, rebuilt vintage has data",0,16,0,TRD.M.I2.N.M.CAP.J2.4.UVX
 RTD.M.S0.S.T_MCAP_U.X,monthly,200301,2003-01-15,match,164,164,0,TRD.M.I2.N.M.CAP.J2.4.UVX
 RTD.M.S0.S.T_MCAP_U.X,monthly,200302,2003-02-05,match,164,164,0,TRD.M.I2.N.M.CAP.J2.4.UVX
 RTD.M.S0.S.T_MCAP_U.X,monthly,200303,2003-03-05,match,167,167,0,TRD.M.I2.N.M.CAP.J2.4.UVX
@@ -33283,10 +33283,10 @@ RTD.M.S0.S.T_MCOM_U.X,monthly,200205,2002-04-30,match,156,156,0,TRD.M.I1.N.M.COM
 RTD.M.S0.S.T_MCOM_U.X,monthly,200206,2002-06-05,match,156,156,0,TRD.M.I1.N.M.COM.J1.4.UVX
 RTD.M.S0.S.T_MCOM_U.X,monthly,200207,2002-07-03,match,156,156,0,TRD.M.I1.N.M.COM.J1.4.UVX
 RTD.M.S0.S.T_MCOM_U.X,monthly,200208,2002-07-31,match,17,17,0,TRD.M.I2.N.M.COM.J2.4.UVX
-RTD.M.S0.S.T_MCOM_U.X,monthly,200209,2002-09-11,old file column empty,0,17,0,TRD.M.I2.N.M.COM.J2.4.UVX
-RTD.M.S0.S.T_MCOM_U.X,monthly,200210,2002-10-09,old file column empty,0,17,0,TRD.M.I2.N.M.COM.J2.4.UVX
-RTD.M.S0.S.T_MCOM_U.X,monthly,200211,2002-11-06,old file column empty,0,17,0,TRD.M.I2.N.M.COM.J2.4.UVX
-RTD.M.S0.S.T_MCOM_U.X,monthly,200212,2002-12-04,old file column empty,0,17,0,TRD.M.I2.N.M.COM.J2.4.UVX
+RTD.M.S0.S.T_MCOM_U.X,monthly,200209,2002-09-11,"old file column empty, rebuilt vintage has data",0,17,0,TRD.M.I2.N.M.COM.J2.4.UVX
+RTD.M.S0.S.T_MCOM_U.X,monthly,200210,2002-10-09,"old file column empty, rebuilt vintage has data",0,17,0,TRD.M.I2.N.M.COM.J2.4.UVX
+RTD.M.S0.S.T_MCOM_U.X,monthly,200211,2002-11-06,"old file column empty, rebuilt vintage has data",0,17,0,TRD.M.I2.N.M.COM.J2.4.UVX
+RTD.M.S0.S.T_MCOM_U.X,monthly,200212,2002-12-04,"old file column empty, rebuilt vintage has data",0,17,0,TRD.M.I2.N.M.COM.J2.4.UVX
 RTD.M.S0.S.T_MCOM_U.X,monthly,200301,2003-01-15,match,164,164,0,TRD.M.I2.N.M.COM.J2.4.UVX
 RTD.M.S0.S.T_MCOM_U.X,monthly,200302,2003-02-05,match,164,164,0,TRD.M.I2.N.M.COM.J2.4.UVX
 RTD.M.S0.S.T_MCOM_U.X,monthly,200303,2003-03-05,match,167,167,0,TRD.M.I2.N.M.COM.J2.4.UVX
@@ -33787,10 +33787,10 @@ RTD.M.S0.S.T_MINT_U.X,monthly,200205,2002-04-30,match,156,156,0,TRD.M.I1.N.M.INT
 RTD.M.S0.S.T_MINT_U.X,monthly,200206,2002-06-05,match,156,156,0,TRD.M.I1.N.M.INT.J1.4.UVX
 RTD.M.S0.S.T_MINT_U.X,monthly,200207,2002-07-03,match,156,156,0,TRD.M.I1.N.M.INT.J1.4.UVX
 RTD.M.S0.S.T_MINT_U.X,monthly,200208,2002-07-31,match,16,16,0,TRD.M.I2.N.M.INT.J2.4.UVX
-RTD.M.S0.S.T_MINT_U.X,monthly,200209,2002-09-11,old file column empty,0,16,0,TRD.M.I2.N.M.INT.J2.4.UVX
-RTD.M.S0.S.T_MINT_U.X,monthly,200210,2002-10-09,old file column empty,0,16,0,TRD.M.I2.N.M.INT.J2.4.UVX
-RTD.M.S0.S.T_MINT_U.X,monthly,200211,2002-11-06,old file column empty,0,16,0,TRD.M.I2.N.M.INT.J2.4.UVX
-RTD.M.S0.S.T_MINT_U.X,monthly,200212,2002-12-04,old file column empty,0,16,0,TRD.M.I2.N.M.INT.J2.4.UVX
+RTD.M.S0.S.T_MINT_U.X,monthly,200209,2002-09-11,"old file column empty, rebuilt vintage has data",0,16,0,TRD.M.I2.N.M.INT.J2.4.UVX
+RTD.M.S0.S.T_MINT_U.X,monthly,200210,2002-10-09,"old file column empty, rebuilt vintage has data",0,16,0,TRD.M.I2.N.M.INT.J2.4.UVX
+RTD.M.S0.S.T_MINT_U.X,monthly,200211,2002-11-06,"old file column empty, rebuilt vintage has data",0,16,0,TRD.M.I2.N.M.INT.J2.4.UVX
+RTD.M.S0.S.T_MINT_U.X,monthly,200212,2002-12-04,"old file column empty, rebuilt vintage has data",0,16,0,TRD.M.I2.N.M.INT.J2.4.UVX
 RTD.M.S0.S.T_MINT_U.X,monthly,200301,2003-01-15,match,164,164,0,TRD.M.I2.N.M.INT.J2.4.UVX
 RTD.M.S0.S.T_MINT_U.X,monthly,200302,2003-02-05,match,164,164,0,TRD.M.I2.N.M.INT.J2.4.UVX
 RTD.M.S0.S.T_MINT_U.X,monthly,200303,2003-03-05,match,167,167,0,TRD.M.I2.N.M.INT.J2.4.UVX
@@ -34291,10 +34291,10 @@ RTD.M.S0.S.T_MMAN_U.X,monthly,200205,2002-04-30,match,156,156,0,TRD.M.I1.N.M.MAN
 RTD.M.S0.S.T_MMAN_U.X,monthly,200206,2002-06-05,match,156,156,0,TRD.M.I1.N.M.MAN.J1.4.UVX
 RTD.M.S0.S.T_MMAN_U.X,monthly,200207,2002-07-03,match,156,156,0,TRD.M.I1.N.M.MAN.J1.4.UVX
 RTD.M.S0.S.T_MMAN_U.X,monthly,200208,2002-07-31,match,16,16,0,TRD.M.I2.N.M.MAN.J2.4.UVX
-RTD.M.S0.S.T_MMAN_U.X,monthly,200209,2002-09-11,old file column empty,0,16,0,TRD.M.I2.N.M.MAN.J2.4.UVX
-RTD.M.S0.S.T_MMAN_U.X,monthly,200210,2002-10-09,old file column empty,0,16,0,TRD.M.I2.N.M.MAN.J2.4.UVX
-RTD.M.S0.S.T_MMAN_U.X,monthly,200211,2002-11-06,old file column empty,0,16,0,TRD.M.I2.N.M.MAN.J2.4.UVX
-RTD.M.S0.S.T_MMAN_U.X,monthly,200212,2002-12-04,old file column empty,0,16,0,TRD.M.I2.N.M.MAN.J2.4.UVX
+RTD.M.S0.S.T_MMAN_U.X,monthly,200209,2002-09-11,"old file column empty, rebuilt vintage has data",0,16,0,TRD.M.I2.N.M.MAN.J2.4.UVX
+RTD.M.S0.S.T_MMAN_U.X,monthly,200210,2002-10-09,"old file column empty, rebuilt vintage has data",0,16,0,TRD.M.I2.N.M.MAN.J2.4.UVX
+RTD.M.S0.S.T_MMAN_U.X,monthly,200211,2002-11-06,"old file column empty, rebuilt vintage has data",0,16,0,TRD.M.I2.N.M.MAN.J2.4.UVX
+RTD.M.S0.S.T_MMAN_U.X,monthly,200212,2002-12-04,"old file column empty, rebuilt vintage has data",0,16,0,TRD.M.I2.N.M.MAN.J2.4.UVX
 RTD.M.S0.S.T_MMAN_U.X,monthly,200301,2003-01-15,match,164,164,0,TRD.M.I2.N.M.MAN.J2.4.UVX
 RTD.M.S0.S.T_MMAN_U.X,monthly,200302,2003-02-05,match,164,164,0,TRD.M.I2.N.M.MAN.J2.4.UVX
 RTD.M.S0.S.T_MMAN_U.X,monthly,200303,2003-03-05,match,167,167,0,TRD.M.I2.N.M.MAN.J2.4.UVX
@@ -35299,10 +35299,10 @@ RTD.M.S0.S.T_MTTT_U.X,monthly,200205,2002-04-30,match,156,156,0,TRD.M.I1.N.M.TTT
 RTD.M.S0.S.T_MTTT_U.X,monthly,200206,2002-06-05,match,156,156,0,TRD.M.I1.N.M.TTT.J1.4.UVX
 RTD.M.S0.S.T_MTTT_U.X,monthly,200207,2002-07-03,match,156,156,0,TRD.M.I1.N.M.TTT.J1.4.UVX
 RTD.M.S0.S.T_MTTT_U.X,monthly,200208,2002-07-31,match,17,17,0,TRD.M.I2.N.M.TTT.J2.4.UVX
-RTD.M.S0.S.T_MTTT_U.X,monthly,200209,2002-09-11,old file column empty,0,17,0,TRD.M.I2.N.M.TTT.J2.4.UVX
-RTD.M.S0.S.T_MTTT_U.X,monthly,200210,2002-10-09,old file column empty,0,17,0,TRD.M.I2.N.M.TTT.J2.4.UVX
-RTD.M.S0.S.T_MTTT_U.X,monthly,200211,2002-11-06,old file column empty,0,17,0,TRD.M.I2.N.M.TTT.J2.4.UVX
-RTD.M.S0.S.T_MTTT_U.X,monthly,200212,2002-12-04,old file column empty,0,17,0,TRD.M.I2.N.M.TTT.J2.4.UVX
+RTD.M.S0.S.T_MTTT_U.X,monthly,200209,2002-09-11,"old file column empty, rebuilt vintage has data",0,17,0,TRD.M.I2.N.M.TTT.J2.4.UVX
+RTD.M.S0.S.T_MTTT_U.X,monthly,200210,2002-10-09,"old file column empty, rebuilt vintage has data",0,17,0,TRD.M.I2.N.M.TTT.J2.4.UVX
+RTD.M.S0.S.T_MTTT_U.X,monthly,200211,2002-11-06,"old file column empty, rebuilt vintage has data",0,17,0,TRD.M.I2.N.M.TTT.J2.4.UVX
+RTD.M.S0.S.T_MTTT_U.X,monthly,200212,2002-12-04,"old file column empty, rebuilt vintage has data",0,17,0,TRD.M.I2.N.M.TTT.J2.4.UVX
 RTD.M.S0.S.T_MTTT_U.X,monthly,200301,2003-01-15,match,164,164,0,TRD.M.I2.N.M.TTT.J2.4.UVX
 RTD.M.S0.S.T_MTTT_U.X,monthly,200302,2003-02-05,match,166,166,0,TRD.M.I2.N.M.TTT.J2.4.UVX
 RTD.M.S0.S.T_MTTT_U.X,monthly,200303,2003-03-05,match,167,167,0,TRD.M.I2.N.M.TTT.J2.4.UVX
@@ -35803,10 +35803,10 @@ RTD.M.S0.S.T_XCAP_U.X,monthly,200205,2002-04-30,match,156,156,0,TRD.M.I1.N.X.CAP
 RTD.M.S0.S.T_XCAP_U.X,monthly,200206,2002-06-05,match,156,156,0,TRD.M.I1.N.X.CAP.J1.4.UVX
 RTD.M.S0.S.T_XCAP_U.X,monthly,200207,2002-07-03,match,156,156,0,TRD.M.I1.N.X.CAP.J1.4.UVX
 RTD.M.S0.S.T_XCAP_U.X,monthly,200208,2002-07-31,match,16,16,0,TRD.M.I2.N.X.CAP.J2.4.UVX
-RTD.M.S0.S.T_XCAP_U.X,monthly,200209,2002-09-11,old file column empty,0,16,0,TRD.M.I2.N.X.CAP.J2.4.UVX
-RTD.M.S0.S.T_XCAP_U.X,monthly,200210,2002-10-09,old file column empty,0,16,0,TRD.M.I2.N.X.CAP.J2.4.UVX
-RTD.M.S0.S.T_XCAP_U.X,monthly,200211,2002-11-06,old file column empty,0,16,0,TRD.M.I2.N.X.CAP.J2.4.UVX
-RTD.M.S0.S.T_XCAP_U.X,monthly,200212,2002-12-04,old file column empty,0,16,0,TRD.M.I2.N.X.CAP.J2.4.UVX
+RTD.M.S0.S.T_XCAP_U.X,monthly,200209,2002-09-11,"old file column empty, rebuilt vintage has data",0,16,0,TRD.M.I2.N.X.CAP.J2.4.UVX
+RTD.M.S0.S.T_XCAP_U.X,monthly,200210,2002-10-09,"old file column empty, rebuilt vintage has data",0,16,0,TRD.M.I2.N.X.CAP.J2.4.UVX
+RTD.M.S0.S.T_XCAP_U.X,monthly,200211,2002-11-06,"old file column empty, rebuilt vintage has data",0,16,0,TRD.M.I2.N.X.CAP.J2.4.UVX
+RTD.M.S0.S.T_XCAP_U.X,monthly,200212,2002-12-04,"old file column empty, rebuilt vintage has data",0,16,0,TRD.M.I2.N.X.CAP.J2.4.UVX
 RTD.M.S0.S.T_XCAP_U.X,monthly,200301,2003-01-15,match,164,164,0,TRD.M.I2.N.X.CAP.J2.4.UVX
 RTD.M.S0.S.T_XCAP_U.X,monthly,200302,2003-02-05,match,164,164,0,TRD.M.I2.N.X.CAP.J2.4.UVX
 RTD.M.S0.S.T_XCAP_U.X,monthly,200303,2003-03-05,match,167,167,0,TRD.M.I2.N.X.CAP.J2.4.UVX
@@ -36307,10 +36307,10 @@ RTD.M.S0.S.T_XCOM_U.X,monthly,200205,2002-04-30,match,156,156,0,TRD.M.I1.N.X.COM
 RTD.M.S0.S.T_XCOM_U.X,monthly,200206,2002-06-05,match,156,156,0,TRD.M.I1.N.X.COM.J1.4.UVX
 RTD.M.S0.S.T_XCOM_U.X,monthly,200207,2002-07-03,match,156,156,0,TRD.M.I1.N.X.COM.J1.4.UVX
 RTD.M.S0.S.T_XCOM_U.X,monthly,200208,2002-07-31,match,17,17,0,TRD.M.I2.N.X.COM.J2.4.UVX
-RTD.M.S0.S.T_XCOM_U.X,monthly,200209,2002-09-11,old file column empty,0,17,0,TRD.M.I2.N.X.COM.J2.4.UVX
-RTD.M.S0.S.T_XCOM_U.X,monthly,200210,2002-10-09,old file column empty,0,17,0,TRD.M.I2.N.X.COM.J2.4.UVX
-RTD.M.S0.S.T_XCOM_U.X,monthly,200211,2002-11-06,old file column empty,0,17,0,TRD.M.I2.N.X.COM.J2.4.UVX
-RTD.M.S0.S.T_XCOM_U.X,monthly,200212,2002-12-04,old file column empty,0,17,0,TRD.M.I2.N.X.COM.J2.4.UVX
+RTD.M.S0.S.T_XCOM_U.X,monthly,200209,2002-09-11,"old file column empty, rebuilt vintage has data",0,17,0,TRD.M.I2.N.X.COM.J2.4.UVX
+RTD.M.S0.S.T_XCOM_U.X,monthly,200210,2002-10-09,"old file column empty, rebuilt vintage has data",0,17,0,TRD.M.I2.N.X.COM.J2.4.UVX
+RTD.M.S0.S.T_XCOM_U.X,monthly,200211,2002-11-06,"old file column empty, rebuilt vintage has data",0,17,0,TRD.M.I2.N.X.COM.J2.4.UVX
+RTD.M.S0.S.T_XCOM_U.X,monthly,200212,2002-12-04,"old file column empty, rebuilt vintage has data",0,17,0,TRD.M.I2.N.X.COM.J2.4.UVX
 RTD.M.S0.S.T_XCOM_U.X,monthly,200301,2003-01-15,match,164,164,0,TRD.M.I2.N.X.COM.J2.4.UVX
 RTD.M.S0.S.T_XCOM_U.X,monthly,200302,2003-02-05,match,164,164,0,TRD.M.I2.N.X.COM.J2.4.UVX
 RTD.M.S0.S.T_XCOM_U.X,monthly,200303,2003-03-05,match,167,167,0,TRD.M.I2.N.X.COM.J2.4.UVX
@@ -36811,10 +36811,10 @@ RTD.M.S0.S.T_XINT_U.X,monthly,200205,2002-04-30,match,156,156,0,TRD.M.I1.N.X.INT
 RTD.M.S0.S.T_XINT_U.X,monthly,200206,2002-06-05,match,156,156,0,TRD.M.I1.N.X.INT.J1.4.UVX
 RTD.M.S0.S.T_XINT_U.X,monthly,200207,2002-07-03,match,156,156,0,TRD.M.I1.N.X.INT.J1.4.UVX
 RTD.M.S0.S.T_XINT_U.X,monthly,200208,2002-07-31,match,17,17,0,TRD.M.I2.N.X.INT.J2.4.UVX
-RTD.M.S0.S.T_XINT_U.X,monthly,200209,2002-09-11,old file column empty,0,17,0,TRD.M.I2.N.X.INT.J2.4.UVX
-RTD.M.S0.S.T_XINT_U.X,monthly,200210,2002-10-09,old file column empty,0,17,0,TRD.M.I2.N.X.INT.J2.4.UVX
-RTD.M.S0.S.T_XINT_U.X,monthly,200211,2002-11-06,old file column empty,0,17,0,TRD.M.I2.N.X.INT.J2.4.UVX
-RTD.M.S0.S.T_XINT_U.X,monthly,200212,2002-12-04,old file column empty,0,17,0,TRD.M.I2.N.X.INT.J2.4.UVX
+RTD.M.S0.S.T_XINT_U.X,monthly,200209,2002-09-11,"old file column empty, rebuilt vintage has data",0,17,0,TRD.M.I2.N.X.INT.J2.4.UVX
+RTD.M.S0.S.T_XINT_U.X,monthly,200210,2002-10-09,"old file column empty, rebuilt vintage has data",0,17,0,TRD.M.I2.N.X.INT.J2.4.UVX
+RTD.M.S0.S.T_XINT_U.X,monthly,200211,2002-11-06,"old file column empty, rebuilt vintage has data",0,17,0,TRD.M.I2.N.X.INT.J2.4.UVX
+RTD.M.S0.S.T_XINT_U.X,monthly,200212,2002-12-04,"old file column empty, rebuilt vintage has data",0,17,0,TRD.M.I2.N.X.INT.J2.4.UVX
 RTD.M.S0.S.T_XINT_U.X,monthly,200301,2003-01-15,match,164,164,0,TRD.M.I2.N.X.INT.J2.4.UVX
 RTD.M.S0.S.T_XINT_U.X,monthly,200302,2003-02-05,match,164,164,0,TRD.M.I2.N.X.INT.J2.4.UVX
 RTD.M.S0.S.T_XINT_U.X,monthly,200303,2003-03-05,match,167,167,0,TRD.M.I2.N.X.INT.J2.4.UVX
@@ -37315,10 +37315,10 @@ RTD.M.S0.S.T_XMAN_U.X,monthly,200205,2002-04-30,match,156,156,0,TRD.M.I1.N.X.MAN
 RTD.M.S0.S.T_XMAN_U.X,monthly,200206,2002-06-05,match,156,156,0,TRD.M.I1.N.X.MAN.J1.4.UVX
 RTD.M.S0.S.T_XMAN_U.X,monthly,200207,2002-07-03,match,156,156,0,TRD.M.I1.N.X.MAN.J1.4.UVX
 RTD.M.S0.S.T_XMAN_U.X,monthly,200208,2002-07-31,match,17,17,0,TRD.M.I2.N.X.MAN.J2.4.UVX
-RTD.M.S0.S.T_XMAN_U.X,monthly,200209,2002-09-11,old file column empty,0,17,0,TRD.M.I2.N.X.MAN.J2.4.UVX
-RTD.M.S0.S.T_XMAN_U.X,monthly,200210,2002-10-09,old file column empty,0,17,0,TRD.M.I2.N.X.MAN.J2.4.UVX
-RTD.M.S0.S.T_XMAN_U.X,monthly,200211,2002-11-06,old file column empty,0,17,0,TRD.M.I2.N.X.MAN.J2.4.UVX
-RTD.M.S0.S.T_XMAN_U.X,monthly,200212,2002-12-04,old file column empty,0,17,0,TRD.M.I2.N.X.MAN.J2.4.UVX
+RTD.M.S0.S.T_XMAN_U.X,monthly,200209,2002-09-11,"old file column empty, rebuilt vintage has data",0,17,0,TRD.M.I2.N.X.MAN.J2.4.UVX
+RTD.M.S0.S.T_XMAN_U.X,monthly,200210,2002-10-09,"old file column empty, rebuilt vintage has data",0,17,0,TRD.M.I2.N.X.MAN.J2.4.UVX
+RTD.M.S0.S.T_XMAN_U.X,monthly,200211,2002-11-06,"old file column empty, rebuilt vintage has data",0,17,0,TRD.M.I2.N.X.MAN.J2.4.UVX
+RTD.M.S0.S.T_XMAN_U.X,monthly,200212,2002-12-04,"old file column empty, rebuilt vintage has data",0,17,0,TRD.M.I2.N.X.MAN.J2.4.UVX
 RTD.M.S0.S.T_XMAN_U.X,monthly,200301,2003-01-15,match,164,164,0,TRD.M.I2.N.X.MAN.J2.4.UVX
 RTD.M.S0.S.T_XMAN_U.X,monthly,200302,2003-02-05,match,164,164,0,TRD.M.I2.N.X.MAN.J2.4.UVX
 RTD.M.S0.S.T_XMAN_U.X,monthly,200303,2003-03-05,match,167,167,0,TRD.M.I2.N.X.MAN.J2.4.UVX
@@ -37819,10 +37819,10 @@ RTD.M.S0.S.T_XTTT_U.X,monthly,200205,2002-04-30,match,156,156,0,TRD.M.I1.N.X.TTT
 RTD.M.S0.S.T_XTTT_U.X,monthly,200206,2002-06-05,match,156,156,0,TRD.M.I1.N.X.TTT.J1.4.UVX
 RTD.M.S0.S.T_XTTT_U.X,monthly,200207,2002-07-03,match,156,156,0,TRD.M.I1.N.X.TTT.J1.4.UVX
 RTD.M.S0.S.T_XTTT_U.X,monthly,200208,2002-07-31,match,17,17,0,TRD.M.I2.N.X.TTT.J2.4.UVX
-RTD.M.S0.S.T_XTTT_U.X,monthly,200209,2002-09-11,old file column empty,0,17,0,TRD.M.I2.N.X.TTT.J2.4.UVX
-RTD.M.S0.S.T_XTTT_U.X,monthly,200210,2002-10-09,old file column empty,0,17,0,TRD.M.I2.N.X.TTT.J2.4.UVX
-RTD.M.S0.S.T_XTTT_U.X,monthly,200211,2002-11-06,old file column empty,0,17,0,TRD.M.I2.N.X.TTT.J2.4.UVX
-RTD.M.S0.S.T_XTTT_U.X,monthly,200212,2002-12-04,old file column empty,0,17,0,TRD.M.I2.N.X.TTT.J2.4.UVX
+RTD.M.S0.S.T_XTTT_U.X,monthly,200209,2002-09-11,"old file column empty, rebuilt vintage has data",0,17,0,TRD.M.I2.N.X.TTT.J2.4.UVX
+RTD.M.S0.S.T_XTTT_U.X,monthly,200210,2002-10-09,"old file column empty, rebuilt vintage has data",0,17,0,TRD.M.I2.N.X.TTT.J2.4.UVX
+RTD.M.S0.S.T_XTTT_U.X,monthly,200211,2002-11-06,"old file column empty, rebuilt vintage has data",0,17,0,TRD.M.I2.N.X.TTT.J2.4.UVX
+RTD.M.S0.S.T_XTTT_U.X,monthly,200212,2002-12-04,"old file column empty, rebuilt vintage has data",0,17,0,TRD.M.I2.N.X.TTT.J2.4.UVX
 RTD.M.S0.S.T_XTTT_U.X,monthly,200301,2003-01-15,match,164,164,0,TRD.M.I2.N.X.TTT.J2.4.UVX
 RTD.M.S0.S.T_XTTT_U.X,monthly,200302,2003-02-05,match,166,166,0,TRD.M.I2.N.X.TTT.J2.4.UVX
 RTD.M.S0.S.T_XTTT_U.X,monthly,200303,2003-03-05,match,167,167,0,TRD.M.I2.N.X.TTT.J2.4.UVX

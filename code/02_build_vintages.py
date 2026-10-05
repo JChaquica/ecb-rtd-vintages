@@ -52,7 +52,9 @@ def load_change_log(path: Path) -> pd.DataFrame:
                                    "VALID_FROM", "VALID_TO"],
                     dtype={"KEY": str, "TIME_PERIOD": str, "ACTION": str,
                            "VALID_FROM": str, "VALID_TO": str})
-    # Keep only the day: all freezes happen at 15:30 CET, so the time adds nothing.
+    # Keep only the day. Every row is stamped 15:30:00, except on 20 January and
+    # 8 September 2021, when a removal at 15:30:00 is followed by its new value at
+    # 15:30:01. The sort below puts those two in the same order.
     h["date"] = h["VALID_FROM"].where(h["ACTION"] == "Replace", h["VALID_TO"]).str[:10]
     # Sort so that, within the same date, Delete (0) comes before Replace (1).
     h["order"] = (h["ACTION"] == "Replace").astype(int)

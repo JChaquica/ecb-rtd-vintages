@@ -1,0 +1,9 @@
+series:                278
+series with 1 vintage: 0
+workbooks opened:      556
+dates compared:        132,333
+values compared:       132,329
+exactly equal:         128,154
+largest relative diff: 5.299e-16
+  at RTD.M.S0.N.M_M3BM_V_NC.A 2026-09-09 2007-01-01: 10.055999608506095 vs 10.0559996085061
+mismatches over 1e-14: 0

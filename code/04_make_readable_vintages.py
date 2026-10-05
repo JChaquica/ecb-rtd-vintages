@@ -7,7 +7,7 @@ Layout:  data/processed/vintages/<Indicator>/<Variable>/vintage_<DATE>.xlsx
     vintages/Unemployment/Unemployment rate/vintage_2008-06-04.xlsx
 
 Each workbook is one variable as it was known on one date. It has two sheets, the
-same two as an ALFRED download (see agents/EXAMPLE VINTAGE FORMAT.xlsx):
+same two as a vintage downloaded from ALFRED:
 
   README                 what the series is: title, source, units, frequency ...
   Vintage <DATE>         two columns: observation_date and the values, with the
