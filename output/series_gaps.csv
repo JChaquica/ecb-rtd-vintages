@@ -1,0 +1,629 @@
+﻿Folder,Variable,Frequency,Problem,First vintage affected,Last vintage affected,Vintages affected,Still affected in the 2026-09-09 vintage,Last period in those vintages,ECB series key
+Balance of payments,"Capital account, credit",Monthly,behind,2023-06-14,2023-06-14,1,no,2022-12,RTD.M.S0.N.X_KA1C_A1.E
+Balance of payments,"Capital account, debit",Monthly,behind,2023-06-14,2023-06-14,1,no,2022-12,RTD.M.S0.N.X_KA1D_A1.E
+Balance of payments,Current account balance,Monthly,behind,2023-06-14,2023-06-14,1,no,2022-12,RTD.M.S0.N.X_XA1N_A1.E
+Balance of payments,Current account balance,Monthly,behind,2025-09-10,2026-09-09,8,yes,2025-03,RTD.M.S0.N.X_XA1N_A1.E
+Balance of payments,"Current account, credit",Monthly,behind,2023-06-14,2023-06-14,1,no,2022-12,RTD.M.S0.N.X_XI1C_A1.E
+Balance of payments,"Current account, credit",Monthly,behind,2025-09-10,2026-09-09,8,yes,2025-03,RTD.M.S0.N.X_XI1C_A1.E
+Balance of payments,"Current account, debit",Monthly,behind,2023-06-14,2023-06-14,1,no,2022-12,RTD.M.S0.N.X_XI1D_A1.E
+Balance of payments,"Current account, debit",Monthly,behind,2025-09-10,2026-09-09,8,yes,2025-03,RTD.M.S0.N.X_XI1D_A1.E
+Balance of payments,"Goods, credit",Monthly,behind,2023-06-14,2023-06-14,1,no,2022-12,RTD.M.S0.N.X_XA1C_A1.E
+Balance of payments,"Goods, credit",Monthly,behind,2025-09-10,2026-09-09,8,yes,2025-03,RTD.M.S0.N.X_XA1C_A1.E
+Balance of payments,"Goods, debit",Monthly,behind,2023-06-14,2023-06-14,1,no,2022-12,RTD.M.S0.N.X_XA1D_A1.E
+Balance of payments,"Goods, debit",Monthly,behind,2025-09-10,2026-09-09,8,yes,2025-03,RTD.M.S0.N.X_XA1D_A1.E
+Balance of payments,"Primary income, credit",Monthly,behind,2023-06-14,2023-06-14,1,no,2022-12,RTD.M.S0.N.X_XS1C_A1.E
+Balance of payments,"Primary income, credit",Monthly,behind,2025-09-10,2026-09-09,8,yes,2025-03,RTD.M.S0.N.X_XS1C_A1.E
+Balance of payments,"Primary income, debit",Monthly,behind,2023-06-14,2023-06-14,1,no,2022-12,RTD.M.S0.N.X_XS1D_A1.E
+Balance of payments,"Primary income, debit",Monthly,behind,2025-09-10,2026-09-09,8,yes,2025-03,RTD.M.S0.N.X_XS1D_A1.E
+Balance of payments,"Secondary income, credit",Monthly,behind,2023-06-14,2023-06-14,1,no,2022-12,RTD.M.S0.N.X_XT1C_A1.E
+Balance of payments,"Secondary income, credit",Monthly,behind,2025-09-10,2026-09-09,8,yes,2025-03,RTD.M.S0.N.X_XT1C_A1.E
+Balance of payments,"Secondary income, debit",Monthly,behind,2023-06-14,2023-06-14,1,no,2022-12,RTD.M.S0.N.X_XT1D_A1.E
+Balance of payments,"Secondary income, debit",Monthly,behind,2025-09-10,2026-09-09,8,yes,2025-03,RTD.M.S0.N.X_XT1D_A1.E
+Balance of payments,"Services, credit",Monthly,behind,2023-06-14,2023-06-14,1,no,2022-12,RTD.M.S0.N.X_XG1C_A1.E
+Balance of payments,"Services, credit",Monthly,behind,2025-09-10,2026-09-09,8,yes,2025-03,RTD.M.S0.N.X_XG1C_A1.E
+Balance of payments,"Services, debit",Monthly,behind,2023-06-14,2023-06-14,1,no,2022-12,RTD.M.S0.N.X_XG1D_A1.E
+Balance of payments,"Services, debit",Monthly,behind,2025-09-10,2026-09-09,8,yes,2025-03,RTD.M.S0.N.X_XG1D_A1.E
+Commodity prices,"Oil price, Brent crude",Monthly,behind,2025-03-05,2026-09-09,12,yes,2024-11,RTD.M.S0.N.P_OILBR.E
+Commodity prices,"Raw material prices, excluding energy",Monthly,behind,2009-04-01,2010-06-09,15,no,2008-12,RTD.M.S0.N.P_R_XNRGY.E
+Commodity prices,"Raw material prices, excluding energy",Monthly,behind,2010-11-03,2011-03-02,5,no,2010-07,RTD.M.S0.N.P_R_XNRGY.E
+Commodity prices,"Raw material prices, excluding energy",Monthly,no observations,2011-04-06,2024-03-06,119,no,,RTD.M.S0.N.P_R_XNRGY.E
+Commodity prices,"Raw material prices, excluding energy",Monthly,behind,2025-03-05,2026-09-09,12,yes,2024-11,RTD.M.S0.N.P_R_XNRGY.E
+Commodity prices,"Raw material prices, total",Monthly,behind,2009-04-01,2010-06-09,15,no,2008-12,RTD.M.S0.N.P_R_TO.E
+Commodity prices,"Raw material prices, total",Monthly,behind,2010-11-03,2011-03-02,5,no,2010-07,RTD.M.S0.N.P_R_TO.E
+Commodity prices,"Raw material prices, total",Monthly,no observations,2011-04-06,2024-03-06,119,no,,RTD.M.S0.N.P_R_TO.E
+Commodity prices,"Raw material prices, total",Monthly,behind,2025-03-05,2026-09-09,12,yes,2024-11,RTD.M.S0.N.P_R_TO.E
+Construction prices,"Construction prices, residential buildings",Quarterly,behind,2001-04-10,2001-05-08,2,no,2000-Q2,RTD.Q.S0.N.P_CO_RESB.X
+Construction prices,"Construction prices, residential buildings",Quarterly,behind,2005-08-03,2005-08-03,1,no,2004-Q4,RTD.Q.S0.N.P_CO_RESB.X
+Construction prices,"Construction prices, residential buildings",Quarterly,behind,2006-02-01,2006-04-04,3,no,2005-Q2,RTD.Q.S0.N.P_CO_RESB.X
+Construction prices,"Construction prices, residential buildings",Quarterly,behind,2007-04-11,2007-04-11,1,no,2006-Q3,RTD.Q.S0.N.P_CO_RESB.X
+Construction prices,"Construction prices, residential buildings",Quarterly,behind,2007-10-02,2009-01-14,16,no,2006-Q4,RTD.Q.S0.N.P_CO_RESB.X
+Construction prices,"Construction prices, residential buildings",Quarterly,behind,2009-08-05,2009-08-05,1,no,2008-Q4,RTD.Q.S0.N.P_CO_RESB.X
+Construction prices,"Construction prices, residential buildings",Quarterly,behind,2010-09-01,2011-03-02,7,no,2009-Q4,RTD.Q.S0.N.P_CO_RESB.X
+Construction prices,"Construction prices, residential buildings",Quarterly,behind,2022-06-08,2025-06-04,25,no,2021-Q3,RTD.Q.S0.N.P_CO_RESB.X
+Consumer prices (HICP),"Consumer prices (CPI), all items - Japan",Monthly,behind,2025-09-10,2026-09-09,8,yes,2025-04,RTD.M.JP.N.P_C_OV.X
+Consumer prices (HICP),"Consumer prices (CPI), all items - United States",Monthly,behind,2003-07-09,2003-07-09,1,no,2003-03,RTD.M.US.N.P_C_OV.X
+Consumer prices (HICP),"HICP, excluding energy and unprocessed food",Monthly,behind,2025-09-10,2026-09-09,8,yes,2025-05,RTD.M.S0.N.P_C_XEFUN.X
+Employment,Employees,Quarterly,behind,2024-03-06,2025-06-04,11,no,2023-Q2,RTD.Q.S0.N.L_EMP_TO.M
+Employment,"Employment, agriculture",Quarterly,behind,2024-03-06,2025-06-04,11,no,2023-Q2,RTD.Q.S0.N.L_TEMP_AHFF.M
+Employment,"Employment, arts and other services",Quarterly,behind,2024-03-06,2025-06-04,11,no,2023-Q2,RTD.Q.S0.N.L_TEMP_ARTOSER.M
+Employment,"Employment, construction",Quarterly,behind,2024-03-06,2025-06-04,11,no,2023-Q2,RTD.Q.S0.N.L_TEMP_CONST.M
+Employment,"Employment, finance and insurance",Quarterly,behind,2024-03-06,2025-06-04,11,no,2023-Q2,RTD.Q.S0.N.L_TEMP_FININS.M
+Employment,"Employment, industry",Quarterly,behind,2024-03-06,2025-06-04,11,no,2023-Q2,RTD.Q.S0.N.L_TEMP_INDTO.M
+Employment,"Employment, information and communication",Quarterly,behind,2024-03-06,2025-06-04,11,no,2023-Q2,RTD.Q.S0.N.L_TEMP_INFCOM.M
+Employment,"Employment, professional and business services",Quarterly,behind,2024-03-06,2025-06-04,11,no,2023-Q2,RTD.Q.S0.N.L_TEMP_SCADM.M
+Employment,"Employment, public admin, education and health",Quarterly,behind,2024-03-06,2025-06-04,11,no,2023-Q2,RTD.Q.S0.N.L_TEMP_DEFEDU.M
+Employment,"Employment, real estate",Quarterly,behind,2024-03-06,2025-06-04,11,no,2023-Q2,RTD.Q.S0.N.L_TEMP_REST.M
+Employment,"Employment, total (not adjusted)",Quarterly,behind,2024-03-06,2025-06-04,11,no,2023-Q2,RTD.Q.S0.N.L_TEMP_TO.M
+Employment,"Employment, total (seasonally adjusted)",Quarterly,behind,2024-04-10,2025-06-04,10,no,2023-Q2,RTD.Q.S0.S.L_TEMP_TO.M
+Employment,"Employment, trade, transport and hospitality",Quarterly,behind,2024-03-06,2025-06-04,11,no,2023-Q2,RTD.Q.S0.N.L_TEMP_WSHRTC.M
+Employment,Self-employed,Quarterly,behind,2024-03-06,2025-06-04,11,no,2023-Q2,RTD.Q.S0.N.L_SEMP_TO.M
+Exchange rates,"Euro nominal effective exchange rate, broad group",Monthly,behind,2004-11-03,2004-12-01,2,no,2004-07,RTD.M.S0.N.E_EN00_BGR.X
+Exchange rates,"Euro nominal effective exchange rate, broad group",Monthly,behind,2023-03-15,2025-06-04,19,no,2022-11,RTD.M.S0.N.E_EN00_BGR.X
+Exchange rates,"Euro nominal effective exchange rate, narrow group",Monthly,behind,2023-03-15,2025-06-04,19,no,2022-11,RTD.M.S0.N.E_EN00_NGR.X
+Exchange rates,"Euro real effective exchange rate (CPI deflated), broad group",Monthly,behind,2004-11-03,2004-12-01,2,no,2004-07,RTD.M.S0.N.E_ERC0_BGR.X
+Exchange rates,"Euro real effective exchange rate (CPI deflated), broad group",Monthly,behind,2023-03-15,2025-06-04,19,no,2022-11,RTD.M.S0.N.E_ERC0_BGR.X
+Exchange rates,"Euro real effective exchange rate (CPI deflated), narrow group",Monthly,behind,2023-03-15,2025-06-04,19,no,2022-11,RTD.M.S0.N.E_ERC0_NGR.X
+Exchange rates,"Euro real effective exchange rate (PPI deflated), narrow group",Monthly,behind,2023-03-15,2025-06-04,19,no,2022-11,RTD.M.S0.N.E_ERP0_NGR.X
+Exchange rates,"Euro real effective exchange rate (ULC deflated), narrow group",Quarterly,behind,2023-05-03,2025-06-04,18,no,2022-Q2,RTD.Q.S0.N.E_ERU1_NGR.X
+GDP,Real GDP - Japan,Quarterly,behind,2003-07-09,2003-07-09,1,no,2002-Q4,RTD.Q.JP.Y.G_GDPM_TO_C.X
+GDP,Real GDP - Japan,Quarterly,behind,2025-10-29,2026-09-09,7,yes,2025-Q1,RTD.Q.JP.Y.G_GDPM_TO_C.X
+GDP,Real GDP - United States,Quarterly,behind,2025-10-29,2026-09-09,7,yes,2025-Q1,RTD.Q.US.Y.G_GDPM_TO_C.U
+GDP expenditure components,"Domestic demand, deflator",Quarterly,no observations,2014-11-05,2014-12-03,2,no,,RTD.Q.S0.S.G_DDIS_TO_D.X
+GDP expenditure components,"Government consumption, deflator",Quarterly,no observations,2014-11-05,2014-12-03,2,no,,RTD.Q.S0.S.G_FCGG_TO_D.X
+GDP expenditure components,"Investment, deflator",Quarterly,no observations,2014-11-05,2014-12-03,2,no,,RTD.Q.S0.S.G_GFCF_TO_D.X
+GDP expenditure components,"Private consumption, deflator",Quarterly,no observations,2014-11-05,2014-12-03,2,no,,RTD.Q.S0.S.G_FCHI_TO_D.X
+Goods exports,"Goods exports, capital goods, unit value index",Monthly,behind,2002-07-03,2002-07-03,1,no,2001-12,RTD.M.S0.S.T_XCAP_U.X
+Goods exports,"Goods exports, capital goods, unit value index",Monthly,behind,2002-10-09,2002-12-04,3,no,2002-04,RTD.M.S0.S.T_XCAP_U.X
+Goods exports,"Goods exports, capital goods, unit value index",Monthly,behind,2010-01-13,2010-01-13,1,no,2009-07,RTD.M.S0.S.T_XCAP_U.X
+Goods exports,"Goods exports, capital goods, unit value index",Monthly,behind,2025-09-10,2026-09-09,8,yes,2025-02,RTD.M.S0.S.T_XCAP_U.X
+Goods exports,"Goods exports, capital goods, value",Monthly,behind,2010-01-13,2010-01-13,1,no,2009-07,RTD.M.S0.S.T_XCAP.E
+Goods exports,"Goods exports, capital goods, volume index",Monthly,behind,2002-07-03,2002-07-03,1,no,2001-12,RTD.M.S0.S.T_XCAP_V.X
+Goods exports,"Goods exports, capital goods, volume index",Monthly,behind,2002-09-11,2002-12-04,4,no,2001-12,RTD.M.S0.S.T_XCAP_V.X
+Goods exports,"Goods exports, capital goods, volume index",Monthly,behind,2010-01-13,2010-01-13,1,no,2009-07,RTD.M.S0.S.T_XCAP_V.X
+Goods exports,"Goods exports, consumer goods, unit value index",Monthly,behind,2002-07-03,2002-07-03,1,no,2001-12,RTD.M.S0.S.T_XCOM_U.X
+Goods exports,"Goods exports, consumer goods, unit value index",Monthly,behind,2002-11-06,2002-12-04,2,no,2002-05,RTD.M.S0.S.T_XCOM_U.X
+Goods exports,"Goods exports, consumer goods, unit value index",Monthly,behind,2010-01-13,2010-01-13,1,no,2009-07,RTD.M.S0.S.T_XCOM_U.X
+Goods exports,"Goods exports, consumer goods, unit value index",Monthly,behind,2025-09-10,2026-09-09,8,yes,2025-02,RTD.M.S0.S.T_XCOM_U.X
+Goods exports,"Goods exports, consumer goods, value",Monthly,behind,2010-01-13,2010-01-13,1,no,2009-07,RTD.M.S0.S.T_XCOM.E
+Goods exports,"Goods exports, consumer goods, volume index",Monthly,behind,2002-07-03,2002-07-03,1,no,2001-12,RTD.M.S0.S.T_XCOM_V.X
+Goods exports,"Goods exports, consumer goods, volume index",Monthly,behind,2002-09-11,2002-12-04,4,no,2001-12,RTD.M.S0.S.T_XCOM_V.X
+Goods exports,"Goods exports, consumer goods, volume index",Monthly,behind,2010-01-13,2010-01-13,1,no,2009-07,RTD.M.S0.S.T_XCOM_V.X
+Goods exports,"Goods exports, intermediate goods, unit value index",Monthly,behind,2002-07-03,2002-07-03,1,no,2001-12,RTD.M.S0.S.T_XINT_U.X
+Goods exports,"Goods exports, intermediate goods, unit value index",Monthly,behind,2002-11-06,2002-12-04,2,no,2002-05,RTD.M.S0.S.T_XINT_U.X
+Goods exports,"Goods exports, intermediate goods, unit value index",Monthly,behind,2010-01-13,2010-01-13,1,no,2009-07,RTD.M.S0.S.T_XINT_U.X
+Goods exports,"Goods exports, intermediate goods, unit value index",Monthly,behind,2025-09-10,2026-09-09,8,yes,2025-02,RTD.M.S0.S.T_XINT_U.X
+Goods exports,"Goods exports, intermediate goods, value",Monthly,behind,2010-01-13,2010-01-13,1,no,2009-07,RTD.M.S0.S.T_XINT.E
+Goods exports,"Goods exports, intermediate goods, volume index",Monthly,behind,2002-07-03,2002-07-03,1,no,2001-12,RTD.M.S0.S.T_XINT_V.X
+Goods exports,"Goods exports, intermediate goods, volume index",Monthly,behind,2002-09-11,2002-12-04,4,no,2001-12,RTD.M.S0.S.T_XINT_V.X
+Goods exports,"Goods exports, intermediate goods, volume index",Monthly,behind,2010-01-13,2010-01-13,1,no,2009-07,RTD.M.S0.S.T_XINT_V.X
+Goods exports,"Goods exports, manufactured goods, unit value index",Monthly,behind,2002-07-03,2002-07-03,1,no,2001-12,RTD.M.S0.S.T_XMAN_U.X
+Goods exports,"Goods exports, manufactured goods, unit value index",Monthly,behind,2002-11-06,2002-12-04,2,no,2002-05,RTD.M.S0.S.T_XMAN_U.X
+Goods exports,"Goods exports, manufactured goods, unit value index",Monthly,behind,2025-09-10,2026-09-09,8,yes,2025-02,RTD.M.S0.S.T_XMAN_U.X
+Goods exports,"Goods exports, manufactured goods, value",Monthly,behind,2002-04-03,2002-04-03,1,no,2001-11,RTD.M.S0.S.T_XMAN.E
+Goods exports,"Goods exports, manufactured goods, value",Monthly,behind,2003-07-09,2003-07-09,1,no,2003-02,RTD.M.S0.S.T_XMAN.E
+Goods exports,"Goods exports, manufactured goods, value",Monthly,behind,2023-06-14,2023-06-14,1,no,2022-12,RTD.M.S0.S.T_XMAN.E
+Goods exports,"Goods exports, manufactured goods, volume index",Monthly,behind,2002-07-03,2002-07-03,1,no,2001-12,RTD.M.S0.S.T_XMAN_V.X
+Goods exports,"Goods exports, manufactured goods, volume index",Monthly,behind,2002-09-11,2002-12-04,4,no,2001-12,RTD.M.S0.S.T_XMAN_V.X
+Goods exports,"Goods exports, total, unit value index (not adjusted)",Monthly,behind,2002-06-05,2002-07-03,2,no,2001-12,RTD.M.S0.N.T_XTTT_U.X
+Goods exports,"Goods exports, total, unit value index (not adjusted)",Monthly,behind,2002-09-11,2002-12-04,4,no,2001-12,RTD.M.S0.N.T_XTTT_U.X
+Goods exports,"Goods exports, total, unit value index (not adjusted)",Monthly,behind,2025-09-10,2026-09-09,8,yes,2025-02,RTD.M.S0.N.T_XTTT_U.X
+Goods exports,"Goods exports, total, unit value index (seasonally adjusted)",Monthly,behind,2002-06-05,2002-07-03,2,no,2001-12,RTD.M.S0.S.T_XTTT_U.X
+Goods exports,"Goods exports, total, unit value index (seasonally adjusted)",Monthly,behind,2002-11-06,2002-12-04,2,no,2002-05,RTD.M.S0.S.T_XTTT_U.X
+Goods exports,"Goods exports, total, unit value index (seasonally adjusted)",Monthly,behind,2025-09-10,2026-09-09,8,yes,2025-02,RTD.M.S0.S.T_XTTT_U.X
+Goods exports,"Goods exports, total, value (not adjusted)",Monthly,behind,2003-07-09,2003-07-09,1,no,2003-02,RTD.M.S0.N.T_XTTT.X
+Goods exports,"Goods exports, total, value (not adjusted)",Monthly,behind,2023-06-14,2023-06-14,1,no,2022-12,RTD.M.S0.N.T_XTTT.X
+Goods exports,"Goods exports, total, value (seasonally adjusted)",Monthly,behind,2003-07-09,2003-07-09,1,no,2003-02,RTD.M.S0.S.T_XTTT.E
+Goods exports,"Goods exports, total, value (seasonally adjusted)",Monthly,behind,2023-06-14,2023-06-14,1,no,2022-12,RTD.M.S0.S.T_XTTT.E
+Goods exports,"Goods exports, total, volume index (not adjusted)",Monthly,behind,2002-07-03,2002-12-04,6,no,2001-12,RTD.M.S0.N.T_XTTT_V.X
+Goods exports,"Goods exports, total, volume index (seasonally adjusted)",Monthly,behind,2002-07-03,2002-07-03,1,no,2001-12,RTD.M.S0.S.T_XTTT_V.X
+Goods exports,"Goods exports, total, volume index (seasonally adjusted)",Monthly,behind,2002-09-11,2002-12-04,4,no,2001-12,RTD.M.S0.S.T_XTTT_V.X
+Goods imports,"Goods imports, capital goods, unit value index",Monthly,behind,2002-07-03,2002-07-03,1,no,2001-12,RTD.M.S0.S.T_MCAP_U.X
+Goods imports,"Goods imports, capital goods, unit value index",Monthly,behind,2002-10-09,2002-12-04,3,no,2002-04,RTD.M.S0.S.T_MCAP_U.X
+Goods imports,"Goods imports, capital goods, unit value index",Monthly,behind,2010-01-13,2010-01-13,1,no,2009-07,RTD.M.S0.S.T_MCAP_U.X
+Goods imports,"Goods imports, capital goods, unit value index",Monthly,behind,2025-09-10,2026-09-09,8,yes,2025-02,RTD.M.S0.S.T_MCAP_U.X
+Goods imports,"Goods imports, capital goods, value",Monthly,behind,2010-01-13,2010-01-13,1,no,2009-07,RTD.M.S0.S.T_MCAP.E
+Goods imports,"Goods imports, capital goods, volume index",Monthly,behind,2002-07-03,2002-07-03,1,no,2001-12,RTD.M.S0.S.T_MCAP_V.X
+Goods imports,"Goods imports, capital goods, volume index",Monthly,behind,2002-09-11,2002-12-04,4,no,2001-12,RTD.M.S0.S.T_MCAP_V.X
+Goods imports,"Goods imports, capital goods, volume index",Monthly,behind,2010-01-13,2010-01-13,1,no,2009-07,RTD.M.S0.S.T_MCAP_V.X
+Goods imports,"Goods imports, consumer goods, unit value index",Monthly,behind,2002-07-03,2002-07-03,1,no,2001-12,RTD.M.S0.S.T_MCOM_U.X
+Goods imports,"Goods imports, consumer goods, unit value index",Monthly,behind,2002-11-06,2002-12-04,2,no,2002-05,RTD.M.S0.S.T_MCOM_U.X
+Goods imports,"Goods imports, consumer goods, unit value index",Monthly,behind,2010-01-13,2010-01-13,1,no,2009-07,RTD.M.S0.S.T_MCOM_U.X
+Goods imports,"Goods imports, consumer goods, unit value index",Monthly,behind,2025-09-10,2026-09-09,8,yes,2025-02,RTD.M.S0.S.T_MCOM_U.X
+Goods imports,"Goods imports, consumer goods, value",Monthly,behind,2010-01-13,2010-01-13,1,no,2009-07,RTD.M.S0.S.T_MCOM.E
+Goods imports,"Goods imports, consumer goods, volume index",Monthly,behind,2002-07-03,2002-07-03,1,no,2001-12,RTD.M.S0.S.T_MCOM_V.X
+Goods imports,"Goods imports, consumer goods, volume index",Monthly,behind,2002-09-11,2002-12-04,4,no,2001-12,RTD.M.S0.S.T_MCOM_V.X
+Goods imports,"Goods imports, consumer goods, volume index",Monthly,behind,2010-01-13,2010-01-13,1,no,2009-07,RTD.M.S0.S.T_MCOM_V.X
+Goods imports,"Goods imports, intermediate goods, unit value index",Monthly,behind,2002-07-03,2002-07-03,1,no,2001-12,RTD.M.S0.S.T_MINT_U.X
+Goods imports,"Goods imports, intermediate goods, unit value index",Monthly,behind,2002-10-09,2002-12-04,3,no,2002-04,RTD.M.S0.S.T_MINT_U.X
+Goods imports,"Goods imports, intermediate goods, unit value index",Monthly,behind,2010-01-13,2010-01-13,1,no,2009-07,RTD.M.S0.S.T_MINT_U.X
+Goods imports,"Goods imports, intermediate goods, unit value index",Monthly,behind,2025-09-10,2026-09-09,8,yes,2025-02,RTD.M.S0.S.T_MINT_U.X
+Goods imports,"Goods imports, intermediate goods, value",Monthly,behind,2010-01-13,2010-01-13,1,no,2009-07,RTD.M.S0.S.T_MINT.E
+Goods imports,"Goods imports, intermediate goods, volume index",Monthly,behind,2002-07-03,2002-07-03,1,no,2001-12,RTD.M.S0.S.T_MINT_V.X
+Goods imports,"Goods imports, intermediate goods, volume index",Monthly,behind,2002-09-11,2002-12-04,4,no,2001-12,RTD.M.S0.S.T_MINT_V.X
+Goods imports,"Goods imports, intermediate goods, volume index",Monthly,behind,2010-01-13,2010-01-13,1,no,2009-07,RTD.M.S0.S.T_MINT_V.X
+Goods imports,"Goods imports, manufactured goods, unit value index",Monthly,behind,2002-07-03,2002-07-03,1,no,2001-12,RTD.M.S0.S.T_MMAN_U.X
+Goods imports,"Goods imports, manufactured goods, unit value index",Monthly,behind,2002-10-09,2002-12-04,3,no,2002-04,RTD.M.S0.S.T_MMAN_U.X
+Goods imports,"Goods imports, manufactured goods, unit value index",Monthly,behind,2025-09-10,2026-09-09,8,yes,2025-02,RTD.M.S0.S.T_MMAN_U.X
+Goods imports,"Goods imports, manufactured goods, value",Monthly,behind,2002-04-03,2002-04-03,1,no,2001-11,RTD.M.S0.S.T_MMAN.E
+Goods imports,"Goods imports, manufactured goods, value",Monthly,behind,2003-07-09,2003-07-09,1,no,2003-02,RTD.M.S0.S.T_MMAN.E
+Goods imports,"Goods imports, manufactured goods, value",Monthly,behind,2023-06-14,2023-06-14,1,no,2022-12,RTD.M.S0.S.T_MMAN.E
+Goods imports,"Goods imports, manufactured goods, volume index",Monthly,behind,2002-07-03,2002-07-03,1,no,2001-12,RTD.M.S0.S.T_MMAN_V.X
+Goods imports,"Goods imports, manufactured goods, volume index",Monthly,behind,2002-09-11,2002-12-04,4,no,2001-12,RTD.M.S0.S.T_MMAN_V.X
+Goods imports,"Goods imports, oil, unit value index",Monthly,behind,2002-07-03,2003-01-15,7,no,2001-12,RTD.M.S0.S.T_MOIL_U.X
+Goods imports,"Goods imports, oil, unit value index",Monthly,behind,2010-01-13,2010-01-13,1,no,2009-07,RTD.M.S0.S.T_MOIL_U.X
+Goods imports,"Goods imports, oil, unit value index",Monthly,behind,2025-09-10,2026-09-09,8,yes,2025-02,RTD.M.S0.S.T_MOIL_U.X
+Goods imports,"Goods imports, oil, value",Monthly,behind,2007-04-11,2007-04-11,1,no,2006-10,RTD.M.S0.S.T_MOIL.E
+Goods imports,"Goods imports, oil, value",Monthly,behind,2008-04-09,2008-04-09,1,no,2007-10,RTD.M.S0.S.T_MOIL.E
+Goods imports,"Goods imports, oil, value",Monthly,behind,2010-01-13,2010-01-13,1,no,2009-07,RTD.M.S0.S.T_MOIL.E
+Goods imports,"Goods imports, oil, volume index",Monthly,behind,2002-07-03,2002-07-03,1,no,2001-12,RTD.M.S0.S.T_MOIL_V.X
+Goods imports,"Goods imports, oil, volume index",Monthly,behind,2002-09-11,2003-01-15,5,no,2001-12,RTD.M.S0.S.T_MOIL_V.X
+Goods imports,"Goods imports, oil, volume index",Monthly,behind,2007-04-11,2007-04-11,1,no,2006-10,RTD.M.S0.S.T_MOIL_V.X
+Goods imports,"Goods imports, oil, volume index",Monthly,behind,2010-01-13,2010-01-13,1,no,2009-07,RTD.M.S0.S.T_MOIL_V.X
+Goods imports,"Goods imports, total, unit value index (not adjusted)",Monthly,behind,2002-06-05,2002-07-03,2,no,2001-12,RTD.M.S0.N.T_MTTT_U.X
+Goods imports,"Goods imports, total, unit value index (not adjusted)",Monthly,behind,2002-09-11,2002-12-04,4,no,2001-12,RTD.M.S0.N.T_MTTT_U.X
+Goods imports,"Goods imports, total, unit value index (not adjusted)",Monthly,behind,2025-09-10,2026-09-09,8,yes,2025-02,RTD.M.S0.N.T_MTTT_U.X
+Goods imports,"Goods imports, total, unit value index (seasonally adjusted)",Monthly,behind,2002-06-05,2002-07-03,2,no,2001-12,RTD.M.S0.S.T_MTTT_U.X
+Goods imports,"Goods imports, total, unit value index (seasonally adjusted)",Monthly,behind,2002-11-06,2002-12-04,2,no,2002-05,RTD.M.S0.S.T_MTTT_U.X
+Goods imports,"Goods imports, total, unit value index (seasonally adjusted)",Monthly,behind,2025-09-10,2026-09-09,8,yes,2025-02,RTD.M.S0.S.T_MTTT_U.X
+Goods imports,"Goods imports, total, value (not adjusted)",Monthly,behind,2003-07-09,2003-07-09,1,no,2003-02,RTD.M.S0.N.T_MTTT.X
+Goods imports,"Goods imports, total, value (not adjusted)",Monthly,behind,2023-06-14,2023-06-14,1,no,2022-12,RTD.M.S0.N.T_MTTT.X
+Goods imports,"Goods imports, total, value (seasonally adjusted)",Monthly,behind,2003-07-09,2003-07-09,1,no,2003-02,RTD.M.S0.S.T_MTTT.E
+Goods imports,"Goods imports, total, value (seasonally adjusted)",Monthly,behind,2023-06-14,2023-06-14,1,no,2022-12,RTD.M.S0.S.T_MTTT.E
+Goods imports,"Goods imports, total, volume index (not adjusted)",Monthly,behind,2002-07-03,2002-12-04,6,no,2001-12,RTD.M.S0.N.T_MTTT_V.X
+Goods imports,"Goods imports, total, volume index (seasonally adjusted)",Monthly,behind,2002-07-03,2002-07-03,1,no,2001-12,RTD.M.S0.S.T_MTTT_V.X
+Goods imports,"Goods imports, total, volume index (seasonally adjusted)",Monthly,behind,2002-09-11,2002-12-04,4,no,2001-12,RTD.M.S0.S.T_MTTT_V.X
+Government finance,Central government balance,Annual,behind,2001-02-28,2001-02-28,1,no,1999,RTD.A.S0.N.F_UMD_CCG_D0.F
+Government finance,Central government balance,Annual,behind,2002-02-06,2002-02-06,1,no,2000,RTD.A.S0.N.F_UMD_CCG_D0.F
+Government finance,Central government balance,Annual,behind,2003-02-05,2003-02-05,1,no,2001,RTD.A.S0.N.F_UMD_CCG_D0.F
+Government finance,Central government balance,Annual,behind,2004-02-04,2004-02-04,1,no,2002,RTD.A.S0.N.F_UMD_CCG_D0.F
+Government finance,Central government balance,Annual,behind,2005-02-02,2005-02-02,1,no,2003,RTD.A.S0.N.F_UMD_CCG_D0.F
+Government finance,Central government balance,Annual,behind,2006-02-01,2006-02-01,1,no,2004,RTD.A.S0.N.F_UMD_CCG_D0.F
+Government finance,Central government balance,Annual,behind,2007-02-07,2007-02-07,1,no,2005,RTD.A.S0.N.F_UMD_CCG_D0.F
+Government finance,Central government balance,Annual,behind,2008-02-06,2008-02-06,1,no,2006,RTD.A.S0.N.F_UMD_CCG_D0.F
+Government finance,Central government balance,Annual,behind,2009-02-04,2009-02-04,1,no,2007,RTD.A.S0.N.F_UMD_CCG_D0.F
+Government finance,Central government balance,Annual,behind,2010-02-03,2010-02-03,1,no,2008,RTD.A.S0.N.F_UMD_CCG_D0.F
+Government finance,Central government balance,Annual,behind,2011-02-02,2011-02-02,1,no,2009,RTD.A.S0.N.F_UMD_CCG_D0.F
+Government finance,Central government balance,Annual,behind,2012-02-08,2012-02-08,1,no,2010,RTD.A.S0.N.F_UMD_CCG_D0.F
+Government finance,Central government balance,Annual,behind,2013-02-06,2013-02-06,1,no,2011,RTD.A.S0.N.F_UMD_CCG_D0.F
+Government finance,Central government balance,Annual,behind,2014-02-05,2014-02-05,1,no,2012,RTD.A.S0.N.F_UMD_CCG_D0.F
+Government finance,Central government balance,Annual,behind,2022-02-02,2022-02-02,1,no,2020,RTD.A.S0.N.F_UMD_CCG_D0.F
+Government finance,Central government balance,Annual,behind,2022-06-08,2022-06-08,1,no,2020,RTD.A.S0.N.F_UMD_CCG_D0.F
+Government finance,Central government balance,Annual,behind,2023-02-01,2023-02-01,1,no,2021,RTD.A.S0.N.F_UMD_CCG_D0.F
+Government finance,Central government balance,Annual,behind,2023-05-03,2023-06-14,2,no,2021,RTD.A.S0.N.F_UMD_CCG_D0.F
+Government finance,Central government balance,Annual,behind,2026-02-04,2026-02-04,1,no,2024,RTD.A.S0.N.F_UMD_CCG_D0.F
+Government finance,General government balance,Annual,behind,2001-02-28,2001-02-28,1,no,1999,RTD.A.S0.N.F_UMD_CGG_D0.F
+Government finance,General government balance,Annual,behind,2002-02-06,2002-02-06,1,no,2000,RTD.A.S0.N.F_UMD_CGG_D0.F
+Government finance,General government balance,Annual,behind,2003-02-05,2003-02-05,1,no,2001,RTD.A.S0.N.F_UMD_CGG_D0.F
+Government finance,General government balance,Annual,behind,2004-02-04,2004-02-04,1,no,2002,RTD.A.S0.N.F_UMD_CGG_D0.F
+Government finance,General government balance,Annual,behind,2005-02-02,2005-02-02,1,no,2003,RTD.A.S0.N.F_UMD_CGG_D0.F
+Government finance,General government balance,Annual,behind,2006-02-01,2006-02-01,1,no,2004,RTD.A.S0.N.F_UMD_CGG_D0.F
+Government finance,General government balance,Annual,behind,2007-02-07,2007-02-07,1,no,2005,RTD.A.S0.N.F_UMD_CGG_D0.F
+Government finance,General government balance,Annual,behind,2008-02-06,2008-02-06,1,no,2006,RTD.A.S0.N.F_UMD_CGG_D0.F
+Government finance,General government balance,Annual,behind,2009-02-04,2009-02-04,1,no,2007,RTD.A.S0.N.F_UMD_CGG_D0.F
+Government finance,General government balance,Annual,behind,2010-02-03,2010-02-03,1,no,2008,RTD.A.S0.N.F_UMD_CGG_D0.F
+Government finance,General government balance,Annual,behind,2011-02-02,2011-02-02,1,no,2009,RTD.A.S0.N.F_UMD_CGG_D0.F
+Government finance,General government balance,Annual,behind,2012-02-08,2012-02-08,1,no,2010,RTD.A.S0.N.F_UMD_CGG_D0.F
+Government finance,General government balance,Annual,behind,2013-02-06,2013-02-06,1,no,2011,RTD.A.S0.N.F_UMD_CGG_D0.F
+Government finance,General government balance,Annual,behind,2014-02-05,2014-02-05,1,no,2012,RTD.A.S0.N.F_UMD_CGG_D0.F
+Government finance,General government balance,Annual,behind,2022-02-02,2022-02-02,1,no,2020,RTD.A.S0.N.F_UMD_CGG_D0.F
+Government finance,General government balance,Annual,behind,2022-06-08,2022-06-08,1,no,2020,RTD.A.S0.N.F_UMD_CGG_D0.F
+Government finance,General government balance,Annual,behind,2023-02-01,2023-02-01,1,no,2021,RTD.A.S0.N.F_UMD_CGG_D0.F
+Government finance,General government balance,Annual,behind,2023-05-03,2023-06-14,2,no,2021,RTD.A.S0.N.F_UMD_CGG_D0.F
+Government finance,General government balance,Annual,behind,2026-02-04,2026-02-04,1,no,2024,RTD.A.S0.N.F_UMD_CGG_D0.F
+Government finance,General government primary balance,Annual,behind,2001-02-28,2001-02-28,1,no,1999,RTD.A.S0.N.F_UMS_CGG_D0.F
+Government finance,General government primary balance,Annual,behind,2002-02-06,2002-02-06,1,no,2000,RTD.A.S0.N.F_UMS_CGG_D0.F
+Government finance,General government primary balance,Annual,behind,2003-02-05,2003-02-05,1,no,2001,RTD.A.S0.N.F_UMS_CGG_D0.F
+Government finance,General government primary balance,Annual,behind,2004-02-04,2004-02-04,1,no,2002,RTD.A.S0.N.F_UMS_CGG_D0.F
+Government finance,General government primary balance,Annual,behind,2005-02-02,2005-02-02,1,no,2003,RTD.A.S0.N.F_UMS_CGG_D0.F
+Government finance,General government primary balance,Annual,behind,2006-02-01,2006-02-01,1,no,2004,RTD.A.S0.N.F_UMS_CGG_D0.F
+Government finance,General government primary balance,Annual,behind,2007-02-07,2007-02-07,1,no,2005,RTD.A.S0.N.F_UMS_CGG_D0.F
+Government finance,General government primary balance,Annual,behind,2008-02-06,2008-02-06,1,no,2006,RTD.A.S0.N.F_UMS_CGG_D0.F
+Government finance,General government primary balance,Annual,behind,2009-02-04,2009-02-04,1,no,2007,RTD.A.S0.N.F_UMS_CGG_D0.F
+Government finance,General government primary balance,Annual,behind,2010-02-03,2010-02-03,1,no,2008,RTD.A.S0.N.F_UMS_CGG_D0.F
+Government finance,General government primary balance,Annual,behind,2011-02-02,2011-02-02,1,no,2009,RTD.A.S0.N.F_UMS_CGG_D0.F
+Government finance,General government primary balance,Annual,behind,2012-02-08,2012-02-08,1,no,2010,RTD.A.S0.N.F_UMS_CGG_D0.F
+Government finance,General government primary balance,Annual,behind,2013-02-06,2013-02-06,1,no,2011,RTD.A.S0.N.F_UMS_CGG_D0.F
+Government finance,General government primary balance,Annual,behind,2014-02-05,2014-02-05,1,no,2012,RTD.A.S0.N.F_UMS_CGG_D0.F
+Government finance,General government primary balance,Annual,behind,2022-02-02,2022-02-02,1,no,2020,RTD.A.S0.N.F_UMS_CGG_D0.F
+Government finance,General government primary balance,Annual,behind,2022-06-08,2022-06-08,1,no,2020,RTD.A.S0.N.F_UMS_CGG_D0.F
+Government finance,General government primary balance,Annual,behind,2023-02-01,2023-02-01,1,no,2021,RTD.A.S0.N.F_UMS_CGG_D0.F
+Government finance,General government primary balance,Annual,behind,2023-05-03,2023-06-14,2,no,2021,RTD.A.S0.N.F_UMS_CGG_D0.F
+Government finance,General government primary balance,Annual,behind,2026-02-04,2026-02-04,1,no,2024,RTD.A.S0.N.F_UMS_CGG_D0.F
+Government finance,Government collective consumption,Annual,behind,2001-02-28,2001-02-28,1,no,1999,RTD.A.S0.N.F_CEC_CGG_D0.F
+Government finance,Government collective consumption,Annual,behind,2002-02-06,2002-02-06,1,no,2000,RTD.A.S0.N.F_CEC_CGG_D0.F
+Government finance,Government collective consumption,Annual,behind,2003-02-05,2003-02-05,1,no,2001,RTD.A.S0.N.F_CEC_CGG_D0.F
+Government finance,Government collective consumption,Annual,behind,2004-02-04,2004-02-04,1,no,2002,RTD.A.S0.N.F_CEC_CGG_D0.F
+Government finance,Government collective consumption,Annual,behind,2005-02-02,2005-02-02,1,no,2003,RTD.A.S0.N.F_CEC_CGG_D0.F
+Government finance,Government collective consumption,Annual,behind,2006-02-01,2006-02-01,1,no,2004,RTD.A.S0.N.F_CEC_CGG_D0.F
+Government finance,Government collective consumption,Annual,behind,2007-02-07,2007-02-07,1,no,2005,RTD.A.S0.N.F_CEC_CGG_D0.F
+Government finance,Government collective consumption,Annual,behind,2008-02-06,2008-02-06,1,no,2006,RTD.A.S0.N.F_CEC_CGG_D0.F
+Government finance,Government collective consumption,Annual,behind,2009-02-04,2009-02-04,1,no,2007,RTD.A.S0.N.F_CEC_CGG_D0.F
+Government finance,Government collective consumption,Annual,behind,2010-02-03,2010-02-03,1,no,2008,RTD.A.S0.N.F_CEC_CGG_D0.F
+Government finance,Government collective consumption,Annual,behind,2011-02-02,2011-02-02,1,no,2009,RTD.A.S0.N.F_CEC_CGG_D0.F
+Government finance,Government collective consumption,Annual,behind,2012-02-08,2012-02-08,1,no,2010,RTD.A.S0.N.F_CEC_CGG_D0.F
+Government finance,Government collective consumption,Annual,behind,2013-02-06,2013-02-06,1,no,2011,RTD.A.S0.N.F_CEC_CGG_D0.F
+Government finance,Government collective consumption,Annual,behind,2014-02-05,2014-02-05,1,no,2012,RTD.A.S0.N.F_CEC_CGG_D0.F
+Government finance,Government collective consumption,Annual,behind,2022-02-02,2022-02-02,1,no,2020,RTD.A.S0.N.F_CEC_CGG_D0.F
+Government finance,Government collective consumption,Annual,behind,2022-06-08,2022-06-08,1,no,2020,RTD.A.S0.N.F_CEC_CGG_D0.F
+Government finance,Government collective consumption,Annual,behind,2023-02-01,2023-02-01,1,no,2021,RTD.A.S0.N.F_CEC_CGG_D0.F
+Government finance,Government collective consumption,Annual,behind,2023-05-03,2023-06-14,2,no,2021,RTD.A.S0.N.F_CEC_CGG_D0.F
+Government finance,Government collective consumption,Annual,behind,2026-02-04,2026-02-04,1,no,2024,RTD.A.S0.N.F_CEC_CGG_D0.F
+Government finance,Government collective consumption,Annual,behind,2026-04-29,2026-09-09,3,yes,2024,RTD.A.S0.N.F_CEC_CGG_D0.F
+Government finance,Government compensation of employees,Annual,behind,2001-02-28,2001-02-28,1,no,1999,RTD.A.S0.N.F_COE_CGG_D0.F
+Government finance,Government compensation of employees,Annual,behind,2002-02-06,2002-02-06,1,no,2000,RTD.A.S0.N.F_COE_CGG_D0.F
+Government finance,Government compensation of employees,Annual,behind,2003-02-05,2003-02-05,1,no,2001,RTD.A.S0.N.F_COE_CGG_D0.F
+Government finance,Government compensation of employees,Annual,behind,2004-02-04,2004-02-04,1,no,2002,RTD.A.S0.N.F_COE_CGG_D0.F
+Government finance,Government compensation of employees,Annual,behind,2005-02-02,2005-02-02,1,no,2003,RTD.A.S0.N.F_COE_CGG_D0.F
+Government finance,Government compensation of employees,Annual,behind,2006-02-01,2006-02-01,1,no,2004,RTD.A.S0.N.F_COE_CGG_D0.F
+Government finance,Government compensation of employees,Annual,behind,2007-02-07,2007-02-07,1,no,2005,RTD.A.S0.N.F_COE_CGG_D0.F
+Government finance,Government compensation of employees,Annual,behind,2008-02-06,2008-02-06,1,no,2006,RTD.A.S0.N.F_COE_CGG_D0.F
+Government finance,Government compensation of employees,Annual,behind,2009-02-04,2009-02-04,1,no,2007,RTD.A.S0.N.F_COE_CGG_D0.F
+Government finance,Government compensation of employees,Annual,behind,2010-02-03,2010-02-03,1,no,2008,RTD.A.S0.N.F_COE_CGG_D0.F
+Government finance,Government compensation of employees,Annual,behind,2011-02-02,2011-02-02,1,no,2009,RTD.A.S0.N.F_COE_CGG_D0.F
+Government finance,Government compensation of employees,Annual,behind,2012-02-08,2012-02-08,1,no,2010,RTD.A.S0.N.F_COE_CGG_D0.F
+Government finance,Government compensation of employees,Annual,behind,2013-02-06,2013-02-06,1,no,2011,RTD.A.S0.N.F_COE_CGG_D0.F
+Government finance,Government compensation of employees,Annual,behind,2014-02-05,2014-02-05,1,no,2012,RTD.A.S0.N.F_COE_CGG_D0.F
+Government finance,Government compensation of employees,Annual,behind,2022-02-02,2022-02-02,1,no,2020,RTD.A.S0.N.F_COE_CGG_D0.F
+Government finance,Government compensation of employees,Annual,behind,2022-06-08,2022-06-08,1,no,2020,RTD.A.S0.N.F_COE_CGG_D0.F
+Government finance,Government compensation of employees,Annual,behind,2023-02-01,2023-02-01,1,no,2021,RTD.A.S0.N.F_COE_CGG_D0.F
+Government finance,Government compensation of employees,Annual,behind,2023-05-03,2023-06-14,2,no,2021,RTD.A.S0.N.F_COE_CGG_D0.F
+Government finance,Government compensation of employees,Annual,behind,2026-02-04,2026-02-04,1,no,2024,RTD.A.S0.N.F_COE_CGG_D0.F
+Government finance,Government consumption of fixed capital,Annual,behind,2001-02-28,2001-02-28,1,no,1999,RTD.A.S0.N.F_CFC_CGG_D0.F
+Government finance,Government consumption of fixed capital,Annual,behind,2002-02-06,2002-02-06,1,no,2000,RTD.A.S0.N.F_CFC_CGG_D0.F
+Government finance,Government consumption of fixed capital,Annual,behind,2003-02-05,2003-02-05,1,no,2001,RTD.A.S0.N.F_CFC_CGG_D0.F
+Government finance,Government consumption of fixed capital,Annual,behind,2004-02-04,2004-02-04,1,no,2002,RTD.A.S0.N.F_CFC_CGG_D0.F
+Government finance,Government consumption of fixed capital,Annual,behind,2005-02-02,2005-02-02,1,no,2003,RTD.A.S0.N.F_CFC_CGG_D0.F
+Government finance,Government consumption of fixed capital,Annual,behind,2006-02-01,2006-02-01,1,no,2004,RTD.A.S0.N.F_CFC_CGG_D0.F
+Government finance,Government consumption of fixed capital,Annual,behind,2007-02-07,2007-02-07,1,no,2005,RTD.A.S0.N.F_CFC_CGG_D0.F
+Government finance,Government consumption of fixed capital,Annual,behind,2008-02-06,2008-02-06,1,no,2006,RTD.A.S0.N.F_CFC_CGG_D0.F
+Government finance,Government consumption of fixed capital,Annual,behind,2009-02-04,2009-02-04,1,no,2007,RTD.A.S0.N.F_CFC_CGG_D0.F
+Government finance,Government consumption of fixed capital,Annual,behind,2010-02-03,2010-02-03,1,no,2008,RTD.A.S0.N.F_CFC_CGG_D0.F
+Government finance,Government consumption of fixed capital,Annual,behind,2011-02-02,2011-02-02,1,no,2009,RTD.A.S0.N.F_CFC_CGG_D0.F
+Government finance,Government consumption of fixed capital,Annual,behind,2012-02-08,2012-02-08,1,no,2010,RTD.A.S0.N.F_CFC_CGG_D0.F
+Government finance,Government consumption of fixed capital,Annual,behind,2013-02-06,2013-02-06,1,no,2011,RTD.A.S0.N.F_CFC_CGG_D0.F
+Government finance,Government consumption of fixed capital,Annual,behind,2014-02-05,2014-02-05,1,no,2012,RTD.A.S0.N.F_CFC_CGG_D0.F
+Government finance,Government consumption of fixed capital,Annual,behind,2022-02-02,2022-02-02,1,no,2020,RTD.A.S0.N.F_CFC_CGG_D0.F
+Government finance,Government consumption of fixed capital,Annual,behind,2022-06-08,2022-06-08,1,no,2020,RTD.A.S0.N.F_CFC_CGG_D0.F
+Government finance,Government consumption of fixed capital,Annual,behind,2023-02-01,2023-02-01,1,no,2021,RTD.A.S0.N.F_CFC_CGG_D0.F
+Government finance,Government consumption of fixed capital,Annual,behind,2023-05-03,2023-06-14,2,no,2021,RTD.A.S0.N.F_CFC_CGG_D0.F
+Government finance,Government consumption of fixed capital,Annual,behind,2026-02-04,2026-02-04,1,no,2024,RTD.A.S0.N.F_CFC_CGG_D0.F
+Government finance,Government consumption of fixed capital,Annual,behind,2026-04-29,2026-09-09,3,yes,2024,RTD.A.S0.N.F_CFC_CGG_D0.F
+Government finance,Government final consumption,Annual,behind,2001-02-28,2001-02-28,1,no,1999,RTD.A.S0.N.F_CEF_CGG_D0.F
+Government finance,Government final consumption,Annual,behind,2002-02-06,2002-02-06,1,no,2000,RTD.A.S0.N.F_CEF_CGG_D0.F
+Government finance,Government final consumption,Annual,behind,2003-02-05,2003-02-05,1,no,2001,RTD.A.S0.N.F_CEF_CGG_D0.F
+Government finance,Government final consumption,Annual,behind,2004-02-04,2004-02-04,1,no,2002,RTD.A.S0.N.F_CEF_CGG_D0.F
+Government finance,Government final consumption,Annual,behind,2005-02-02,2005-02-02,1,no,2003,RTD.A.S0.N.F_CEF_CGG_D0.F
+Government finance,Government final consumption,Annual,behind,2006-02-01,2006-02-01,1,no,2004,RTD.A.S0.N.F_CEF_CGG_D0.F
+Government finance,Government final consumption,Annual,behind,2007-02-07,2007-02-07,1,no,2005,RTD.A.S0.N.F_CEF_CGG_D0.F
+Government finance,Government final consumption,Annual,behind,2008-02-06,2008-02-06,1,no,2006,RTD.A.S0.N.F_CEF_CGG_D0.F
+Government finance,Government final consumption,Annual,behind,2009-02-04,2009-02-04,1,no,2007,RTD.A.S0.N.F_CEF_CGG_D0.F
+Government finance,Government final consumption,Annual,behind,2010-02-03,2010-02-03,1,no,2008,RTD.A.S0.N.F_CEF_CGG_D0.F
+Government finance,Government final consumption,Annual,behind,2011-02-02,2011-02-02,1,no,2009,RTD.A.S0.N.F_CEF_CGG_D0.F
+Government finance,Government final consumption,Annual,behind,2012-02-08,2012-02-08,1,no,2010,RTD.A.S0.N.F_CEF_CGG_D0.F
+Government finance,Government final consumption,Annual,behind,2013-02-06,2013-02-06,1,no,2011,RTD.A.S0.N.F_CEF_CGG_D0.F
+Government finance,Government final consumption,Annual,behind,2014-02-05,2014-02-05,1,no,2012,RTD.A.S0.N.F_CEF_CGG_D0.F
+Government finance,Government final consumption,Annual,behind,2022-02-02,2022-02-02,1,no,2020,RTD.A.S0.N.F_CEF_CGG_D0.F
+Government finance,Government final consumption,Annual,behind,2022-06-08,2022-06-08,1,no,2020,RTD.A.S0.N.F_CEF_CGG_D0.F
+Government finance,Government final consumption,Annual,behind,2023-02-01,2023-02-01,1,no,2021,RTD.A.S0.N.F_CEF_CGG_D0.F
+Government finance,Government final consumption,Annual,behind,2023-05-03,2023-06-14,2,no,2021,RTD.A.S0.N.F_CEF_CGG_D0.F
+Government finance,Government final consumption,Annual,behind,2026-02-04,2026-02-04,1,no,2024,RTD.A.S0.N.F_CEF_CGG_D0.F
+Government finance,Government final consumption,Annual,behind,2026-04-29,2026-09-09,3,yes,2024,RTD.A.S0.N.F_CEF_CGG_D0.F
+Government finance,Government individual consumption,Annual,behind,2001-02-28,2001-02-28,1,no,1999,RTD.A.S0.N.F_CEI_CGG_D0.F
+Government finance,Government individual consumption,Annual,behind,2002-02-06,2002-02-06,1,no,2000,RTD.A.S0.N.F_CEI_CGG_D0.F
+Government finance,Government individual consumption,Annual,behind,2003-02-05,2003-02-05,1,no,2001,RTD.A.S0.N.F_CEI_CGG_D0.F
+Government finance,Government individual consumption,Annual,behind,2004-02-04,2004-02-04,1,no,2002,RTD.A.S0.N.F_CEI_CGG_D0.F
+Government finance,Government individual consumption,Annual,behind,2005-02-02,2005-02-02,1,no,2003,RTD.A.S0.N.F_CEI_CGG_D0.F
+Government finance,Government individual consumption,Annual,behind,2006-02-01,2006-02-01,1,no,2004,RTD.A.S0.N.F_CEI_CGG_D0.F
+Government finance,Government individual consumption,Annual,behind,2007-02-07,2007-02-07,1,no,2005,RTD.A.S0.N.F_CEI_CGG_D0.F
+Government finance,Government individual consumption,Annual,behind,2008-02-06,2008-02-06,1,no,2006,RTD.A.S0.N.F_CEI_CGG_D0.F
+Government finance,Government individual consumption,Annual,behind,2009-02-04,2009-02-04,1,no,2007,RTD.A.S0.N.F_CEI_CGG_D0.F
+Government finance,Government individual consumption,Annual,behind,2010-02-03,2010-02-03,1,no,2008,RTD.A.S0.N.F_CEI_CGG_D0.F
+Government finance,Government individual consumption,Annual,behind,2011-02-02,2011-02-02,1,no,2009,RTD.A.S0.N.F_CEI_CGG_D0.F
+Government finance,Government individual consumption,Annual,behind,2012-02-08,2012-02-08,1,no,2010,RTD.A.S0.N.F_CEI_CGG_D0.F
+Government finance,Government individual consumption,Annual,behind,2013-02-06,2013-02-06,1,no,2011,RTD.A.S0.N.F_CEI_CGG_D0.F
+Government finance,Government individual consumption,Annual,behind,2014-02-05,2014-02-05,1,no,2012,RTD.A.S0.N.F_CEI_CGG_D0.F
+Government finance,Government individual consumption,Annual,behind,2022-02-02,2022-02-02,1,no,2020,RTD.A.S0.N.F_CEI_CGG_D0.F
+Government finance,Government individual consumption,Annual,behind,2022-06-08,2022-06-08,1,no,2020,RTD.A.S0.N.F_CEI_CGG_D0.F
+Government finance,Government individual consumption,Annual,behind,2023-02-01,2023-02-01,1,no,2021,RTD.A.S0.N.F_CEI_CGG_D0.F
+Government finance,Government individual consumption,Annual,behind,2023-05-03,2023-06-14,2,no,2021,RTD.A.S0.N.F_CEI_CGG_D0.F
+Government finance,Government individual consumption,Annual,behind,2026-02-04,2026-02-04,1,no,2024,RTD.A.S0.N.F_CEI_CGG_D0.F
+Government finance,Government individual consumption,Annual,behind,2026-04-29,2026-09-09,3,yes,2024,RTD.A.S0.N.F_CEI_CGG_D0.F
+Government finance,Government intermediate consumption,Annual,behind,2001-02-28,2001-02-28,1,no,1999,RTD.A.S0.N.F_INC_CGG_D0.F
+Government finance,Government intermediate consumption,Annual,behind,2002-02-06,2002-02-06,1,no,2000,RTD.A.S0.N.F_INC_CGG_D0.F
+Government finance,Government intermediate consumption,Annual,behind,2003-02-05,2003-02-05,1,no,2001,RTD.A.S0.N.F_INC_CGG_D0.F
+Government finance,Government intermediate consumption,Annual,behind,2004-02-04,2004-02-04,1,no,2002,RTD.A.S0.N.F_INC_CGG_D0.F
+Government finance,Government intermediate consumption,Annual,behind,2005-02-02,2005-02-02,1,no,2003,RTD.A.S0.N.F_INC_CGG_D0.F
+Government finance,Government intermediate consumption,Annual,behind,2006-02-01,2006-02-01,1,no,2004,RTD.A.S0.N.F_INC_CGG_D0.F
+Government finance,Government intermediate consumption,Annual,behind,2007-02-07,2007-02-07,1,no,2005,RTD.A.S0.N.F_INC_CGG_D0.F
+Government finance,Government intermediate consumption,Annual,behind,2008-02-06,2008-02-06,1,no,2006,RTD.A.S0.N.F_INC_CGG_D0.F
+Government finance,Government intermediate consumption,Annual,behind,2009-02-04,2009-02-04,1,no,2007,RTD.A.S0.N.F_INC_CGG_D0.F
+Government finance,Government intermediate consumption,Annual,behind,2010-02-03,2010-02-03,1,no,2008,RTD.A.S0.N.F_INC_CGG_D0.F
+Government finance,Government intermediate consumption,Annual,behind,2011-02-02,2011-02-02,1,no,2009,RTD.A.S0.N.F_INC_CGG_D0.F
+Government finance,Government intermediate consumption,Annual,behind,2012-02-08,2012-02-08,1,no,2010,RTD.A.S0.N.F_INC_CGG_D0.F
+Government finance,Government intermediate consumption,Annual,behind,2013-02-06,2013-02-06,1,no,2011,RTD.A.S0.N.F_INC_CGG_D0.F
+Government finance,Government intermediate consumption,Annual,behind,2014-02-05,2014-02-05,1,no,2012,RTD.A.S0.N.F_INC_CGG_D0.F
+Government finance,Government intermediate consumption,Annual,behind,2022-02-02,2022-02-02,1,no,2020,RTD.A.S0.N.F_INC_CGG_D0.F
+Government finance,Government intermediate consumption,Annual,behind,2022-06-08,2022-06-08,1,no,2020,RTD.A.S0.N.F_INC_CGG_D0.F
+Government finance,Government intermediate consumption,Annual,behind,2023-02-01,2023-02-01,1,no,2021,RTD.A.S0.N.F_INC_CGG_D0.F
+Government finance,Government intermediate consumption,Annual,behind,2023-05-03,2023-06-14,2,no,2021,RTD.A.S0.N.F_INC_CGG_D0.F
+Government finance,Government intermediate consumption,Annual,behind,2026-02-04,2026-02-04,1,no,2024,RTD.A.S0.N.F_INC_CGG_D0.F
+Government finance,Government revenue from sales,Annual,behind,2001-02-28,2001-02-28,1,no,1999,RTD.A.S0.N.F_SAL_C0_DGG.F
+Government finance,Government revenue from sales,Annual,behind,2002-02-06,2002-02-06,1,no,2000,RTD.A.S0.N.F_SAL_C0_DGG.F
+Government finance,Government revenue from sales,Annual,behind,2003-02-05,2003-02-05,1,no,2001,RTD.A.S0.N.F_SAL_C0_DGG.F
+Government finance,Government revenue from sales,Annual,behind,2004-02-04,2004-02-04,1,no,2002,RTD.A.S0.N.F_SAL_C0_DGG.F
+Government finance,Government revenue from sales,Annual,behind,2005-02-02,2005-02-02,1,no,2003,RTD.A.S0.N.F_SAL_C0_DGG.F
+Government finance,Government revenue from sales,Annual,behind,2006-02-01,2006-02-01,1,no,2004,RTD.A.S0.N.F_SAL_C0_DGG.F
+Government finance,Government revenue from sales,Annual,behind,2007-02-07,2007-02-07,1,no,2005,RTD.A.S0.N.F_SAL_C0_DGG.F
+Government finance,Government revenue from sales,Annual,behind,2008-02-06,2008-02-06,1,no,2006,RTD.A.S0.N.F_SAL_C0_DGG.F
+Government finance,Government revenue from sales,Annual,behind,2009-02-04,2009-02-04,1,no,2007,RTD.A.S0.N.F_SAL_C0_DGG.F
+Government finance,Government revenue from sales,Annual,behind,2010-02-03,2010-02-03,1,no,2008,RTD.A.S0.N.F_SAL_C0_DGG.F
+Government finance,Government revenue from sales,Annual,behind,2011-02-02,2011-02-02,1,no,2009,RTD.A.S0.N.F_SAL_C0_DGG.F
+Government finance,Government revenue from sales,Annual,behind,2012-02-08,2012-02-08,1,no,2010,RTD.A.S0.N.F_SAL_C0_DGG.F
+Government finance,Government revenue from sales,Annual,behind,2013-02-06,2013-02-06,1,no,2011,RTD.A.S0.N.F_SAL_C0_DGG.F
+Government finance,Government revenue from sales,Annual,behind,2014-02-05,2014-02-05,1,no,2012,RTD.A.S0.N.F_SAL_C0_DGG.F
+Government finance,Government revenue from sales,Annual,behind,2022-02-02,2022-02-02,1,no,2020,RTD.A.S0.N.F_SAL_C0_DGG.F
+Government finance,Government revenue from sales,Annual,behind,2022-06-08,2022-06-08,1,no,2020,RTD.A.S0.N.F_SAL_C0_DGG.F
+Government finance,Government revenue from sales,Annual,behind,2023-02-01,2023-02-01,1,no,2021,RTD.A.S0.N.F_SAL_C0_DGG.F
+Government finance,Government revenue from sales,Annual,behind,2023-05-03,2023-06-14,2,no,2021,RTD.A.S0.N.F_SAL_C0_DGG.F
+Government finance,Government revenue from sales,Annual,behind,2026-02-04,2026-09-09,5,yes,2024,RTD.A.S0.N.F_SAL_C0_DGG.F
+Government finance,Government social transfers in kind,Annual,behind,2001-02-28,2001-02-28,1,no,1999,RTD.A.S0.N.F_STM_CGG_DH.F
+Government finance,Government social transfers in kind,Annual,behind,2002-02-06,2002-02-06,1,no,2000,RTD.A.S0.N.F_STM_CGG_DH.F
+Government finance,Government social transfers in kind,Annual,behind,2003-02-05,2003-02-05,1,no,2001,RTD.A.S0.N.F_STM_CGG_DH.F
+Government finance,Government social transfers in kind,Annual,behind,2004-02-04,2004-02-04,1,no,2002,RTD.A.S0.N.F_STM_CGG_DH.F
+Government finance,Government social transfers in kind,Annual,behind,2005-02-02,2005-02-02,1,no,2003,RTD.A.S0.N.F_STM_CGG_DH.F
+Government finance,Government social transfers in kind,Annual,behind,2006-02-01,2006-02-01,1,no,2004,RTD.A.S0.N.F_STM_CGG_DH.F
+Government finance,Government social transfers in kind,Annual,behind,2007-02-07,2007-02-07,1,no,2005,RTD.A.S0.N.F_STM_CGG_DH.F
+Government finance,Government social transfers in kind,Annual,behind,2008-02-06,2008-02-06,1,no,2006,RTD.A.S0.N.F_STM_CGG_DH.F
+Government finance,Government social transfers in kind,Annual,behind,2009-02-04,2009-02-04,1,no,2007,RTD.A.S0.N.F_STM_CGG_DH.F
+Government finance,Government social transfers in kind,Annual,behind,2010-02-03,2010-02-03,1,no,2008,RTD.A.S0.N.F_STM_CGG_DH.F
+Government finance,Government social transfers in kind,Annual,behind,2011-02-02,2011-02-02,1,no,2009,RTD.A.S0.N.F_STM_CGG_DH.F
+Government finance,Government social transfers in kind,Annual,behind,2012-02-08,2012-02-08,1,no,2010,RTD.A.S0.N.F_STM_CGG_DH.F
+Government finance,Government social transfers in kind,Annual,behind,2013-02-06,2013-02-06,1,no,2011,RTD.A.S0.N.F_STM_CGG_DH.F
+Government finance,Government social transfers in kind,Annual,behind,2014-02-05,2014-02-05,1,no,2012,RTD.A.S0.N.F_STM_CGG_DH.F
+Government finance,Government social transfers in kind,Annual,behind,2022-02-02,2022-02-02,1,no,2020,RTD.A.S0.N.F_STM_CGG_DH.F
+Government finance,Government social transfers in kind,Annual,behind,2022-06-08,2022-06-08,1,no,2020,RTD.A.S0.N.F_STM_CGG_DH.F
+Government finance,Government social transfers in kind,Annual,behind,2023-02-01,2023-02-01,1,no,2021,RTD.A.S0.N.F_STM_CGG_DH.F
+Government finance,Government social transfers in kind,Annual,behind,2023-05-03,2023-06-14,2,no,2021,RTD.A.S0.N.F_STM_CGG_DH.F
+Government finance,Government social transfers in kind,Annual,behind,2026-02-04,2026-02-04,1,no,2024,RTD.A.S0.N.F_STM_CGG_DH.F
+Government finance,Government social transfers in kind,Annual,behind,2026-04-29,2026-09-09,3,yes,2024,RTD.A.S0.N.F_STM_CGG_DH.F
+Government finance,Local government balance,Annual,behind,2001-02-28,2001-02-28,1,no,1999,RTD.A.S0.N.F_DEF_CLG_D0.F
+Government finance,Local government balance,Annual,behind,2002-02-06,2002-02-06,1,no,2000,RTD.A.S0.N.F_DEF_CLG_D0.F
+Government finance,Local government balance,Annual,behind,2003-02-05,2003-02-05,1,no,2001,RTD.A.S0.N.F_DEF_CLG_D0.F
+Government finance,Local government balance,Annual,behind,2004-02-04,2004-02-04,1,no,2002,RTD.A.S0.N.F_DEF_CLG_D0.F
+Government finance,Local government balance,Annual,behind,2005-02-02,2005-02-02,1,no,2003,RTD.A.S0.N.F_DEF_CLG_D0.F
+Government finance,Local government balance,Annual,behind,2006-02-01,2006-02-01,1,no,2004,RTD.A.S0.N.F_DEF_CLG_D0.F
+Government finance,Local government balance,Annual,behind,2007-02-07,2007-02-07,1,no,2005,RTD.A.S0.N.F_DEF_CLG_D0.F
+Government finance,Local government balance,Annual,behind,2008-02-06,2008-02-06,1,no,2006,RTD.A.S0.N.F_DEF_CLG_D0.F
+Government finance,Local government balance,Annual,behind,2009-02-04,2009-02-04,1,no,2007,RTD.A.S0.N.F_DEF_CLG_D0.F
+Government finance,Local government balance,Annual,behind,2010-02-03,2010-02-03,1,no,2008,RTD.A.S0.N.F_DEF_CLG_D0.F
+Government finance,Local government balance,Annual,behind,2011-02-02,2011-02-02,1,no,2009,RTD.A.S0.N.F_DEF_CLG_D0.F
+Government finance,Local government balance,Annual,behind,2012-02-08,2012-02-08,1,no,2010,RTD.A.S0.N.F_DEF_CLG_D0.F
+Government finance,Local government balance,Annual,behind,2013-02-06,2013-02-06,1,no,2011,RTD.A.S0.N.F_DEF_CLG_D0.F
+Government finance,Local government balance,Annual,behind,2014-02-05,2014-02-05,1,no,2012,RTD.A.S0.N.F_DEF_CLG_D0.F
+Government finance,Local government balance,Annual,behind,2022-02-02,2022-02-02,1,no,2020,RTD.A.S0.N.F_DEF_CLG_D0.F
+Government finance,Local government balance,Annual,behind,2022-06-08,2022-06-08,1,no,2020,RTD.A.S0.N.F_DEF_CLG_D0.F
+Government finance,Local government balance,Annual,behind,2023-02-01,2023-02-01,1,no,2021,RTD.A.S0.N.F_DEF_CLG_D0.F
+Government finance,Local government balance,Annual,behind,2023-05-03,2023-06-14,2,no,2021,RTD.A.S0.N.F_DEF_CLG_D0.F
+Government finance,Local government balance,Annual,behind,2026-02-04,2026-02-04,1,no,2024,RTD.A.S0.N.F_DEF_CLG_D0.F
+Government finance,Social security funds balance,Annual,behind,2001-02-28,2001-02-28,1,no,1999,RTD.A.S0.N.F_DEF_CSF_D0.F
+Government finance,Social security funds balance,Annual,behind,2002-02-06,2002-02-06,1,no,2000,RTD.A.S0.N.F_DEF_CSF_D0.F
+Government finance,Social security funds balance,Annual,behind,2003-02-05,2003-02-05,1,no,2001,RTD.A.S0.N.F_DEF_CSF_D0.F
+Government finance,Social security funds balance,Annual,behind,2004-02-04,2004-02-04,1,no,2002,RTD.A.S0.N.F_DEF_CSF_D0.F
+Government finance,Social security funds balance,Annual,behind,2005-02-02,2005-02-02,1,no,2003,RTD.A.S0.N.F_DEF_CSF_D0.F
+Government finance,Social security funds balance,Annual,behind,2006-02-01,2006-02-01,1,no,2004,RTD.A.S0.N.F_DEF_CSF_D0.F
+Government finance,Social security funds balance,Annual,behind,2007-02-07,2007-02-07,1,no,2005,RTD.A.S0.N.F_DEF_CSF_D0.F
+Government finance,Social security funds balance,Annual,behind,2008-02-06,2008-02-06,1,no,2006,RTD.A.S0.N.F_DEF_CSF_D0.F
+Government finance,Social security funds balance,Annual,behind,2009-02-04,2009-02-04,1,no,2007,RTD.A.S0.N.F_DEF_CSF_D0.F
+Government finance,Social security funds balance,Annual,behind,2010-02-03,2010-02-03,1,no,2008,RTD.A.S0.N.F_DEF_CSF_D0.F
+Government finance,Social security funds balance,Annual,behind,2011-02-02,2011-02-02,1,no,2009,RTD.A.S0.N.F_DEF_CSF_D0.F
+Government finance,Social security funds balance,Annual,behind,2012-02-08,2012-02-08,1,no,2010,RTD.A.S0.N.F_DEF_CSF_D0.F
+Government finance,Social security funds balance,Annual,behind,2013-02-06,2013-02-06,1,no,2011,RTD.A.S0.N.F_DEF_CSF_D0.F
+Government finance,Social security funds balance,Annual,behind,2014-02-05,2014-02-05,1,no,2012,RTD.A.S0.N.F_DEF_CSF_D0.F
+Government finance,Social security funds balance,Annual,behind,2022-02-02,2022-02-02,1,no,2020,RTD.A.S0.N.F_DEF_CSF_D0.F
+Government finance,Social security funds balance,Annual,behind,2022-06-08,2022-06-08,1,no,2020,RTD.A.S0.N.F_DEF_CSF_D0.F
+Government finance,Social security funds balance,Annual,behind,2023-02-01,2023-02-01,1,no,2021,RTD.A.S0.N.F_DEF_CSF_D0.F
+Government finance,Social security funds balance,Annual,behind,2023-05-03,2023-06-14,2,no,2021,RTD.A.S0.N.F_DEF_CSF_D0.F
+Government finance,Social security funds balance,Annual,behind,2026-02-04,2026-02-04,1,no,2024,RTD.A.S0.N.F_DEF_CSF_D0.F
+Government finance,State government balance,Annual,behind,2001-02-28,2001-02-28,1,no,1999,RTD.A.S0.N.F_DEF_CSG_D0.F
+Government finance,State government balance,Annual,behind,2002-02-06,2002-02-06,1,no,2000,RTD.A.S0.N.F_DEF_CSG_D0.F
+Government finance,State government balance,Annual,behind,2003-02-05,2003-02-05,1,no,2001,RTD.A.S0.N.F_DEF_CSG_D0.F
+Government finance,State government balance,Annual,behind,2004-02-04,2004-02-04,1,no,2002,RTD.A.S0.N.F_DEF_CSG_D0.F
+Government finance,State government balance,Annual,behind,2005-02-02,2005-02-02,1,no,2003,RTD.A.S0.N.F_DEF_CSG_D0.F
+Government finance,State government balance,Annual,behind,2006-02-01,2006-02-01,1,no,2004,RTD.A.S0.N.F_DEF_CSG_D0.F
+Government finance,State government balance,Annual,behind,2007-02-07,2007-02-07,1,no,2005,RTD.A.S0.N.F_DEF_CSG_D0.F
+Government finance,State government balance,Annual,behind,2008-02-06,2008-02-06,1,no,2006,RTD.A.S0.N.F_DEF_CSG_D0.F
+Government finance,State government balance,Annual,behind,2009-02-04,2009-02-04,1,no,2007,RTD.A.S0.N.F_DEF_CSG_D0.F
+Government finance,State government balance,Annual,behind,2010-02-03,2010-02-03,1,no,2008,RTD.A.S0.N.F_DEF_CSG_D0.F
+Government finance,State government balance,Annual,behind,2011-02-02,2011-02-02,1,no,2009,RTD.A.S0.N.F_DEF_CSG_D0.F
+Government finance,State government balance,Annual,behind,2012-02-08,2012-02-08,1,no,2010,RTD.A.S0.N.F_DEF_CSG_D0.F
+Government finance,State government balance,Annual,behind,2013-02-06,2013-02-06,1,no,2011,RTD.A.S0.N.F_DEF_CSG_D0.F
+Government finance,State government balance,Annual,behind,2014-02-05,2014-02-05,1,no,2012,RTD.A.S0.N.F_DEF_CSG_D0.F
+Government finance,State government balance,Annual,behind,2022-02-02,2022-02-02,1,no,2020,RTD.A.S0.N.F_DEF_CSG_D0.F
+Government finance,State government balance,Annual,behind,2022-06-08,2022-06-08,1,no,2020,RTD.A.S0.N.F_DEF_CSG_D0.F
+Government finance,State government balance,Annual,behind,2023-02-01,2023-02-01,1,no,2021,RTD.A.S0.N.F_DEF_CSG_D0.F
+Government finance,State government balance,Annual,behind,2023-05-03,2023-06-14,2,no,2021,RTD.A.S0.N.F_DEF_CSG_D0.F
+Government finance,State government balance,Annual,behind,2026-02-04,2026-02-04,1,no,2024,RTD.A.S0.N.F_DEF_CSG_D0.F
+Gross value added,"Taxes less subsidies on products, nominal",Quarterly,behind,2025-09-10,2026-09-09,8,yes,2024-Q4,RTD.Q.S0.S.G_TLSP_TO_U.E
+Industrial production,"Industrial production, capital goods",Monthly,behind,2001-05-08,2001-05-08,1,no,2000-12,RTD.M.S0.W.I_CAPGO.X
+Industrial production,"Industrial production, capital goods",Monthly,behind,2026-02-04,2026-09-09,5,yes,2025-08,RTD.M.S0.W.I_CAPGO.X
+Industrial production,"Industrial production, construction",Monthly,behind,2004-12-01,2004-12-01,1,no,2004-06,RTD.M.S0.W.I_CONST.X
+Industrial production,"Industrial production, construction",Monthly,behind,2005-03-02,2005-03-02,1,no,2004-09,RTD.M.S0.W.I_CONST.X
+Industrial production,"Industrial production, construction",Monthly,behind,2005-06-01,2005-06-01,1,no,2004-12,RTD.M.S0.W.I_CONST.X
+Industrial production,"Industrial production, construction",Monthly,behind,2006-03-01,2006-03-01,1,no,2005-09,RTD.M.S0.W.I_CONST.X
+Industrial production,"Industrial production, construction",Monthly,behind,2006-06-07,2006-06-07,1,no,2005-12,RTD.M.S0.W.I_CONST.X
+Industrial production,"Industrial production, construction",Monthly,behind,2006-12-06,2006-12-06,1,no,2006-06,RTD.M.S0.W.I_CONST.X
+Industrial production,"Industrial production, construction",Monthly,behind,2026-02-04,2026-09-09,5,yes,2025-08,RTD.M.S0.W.I_CONST.X
+Industrial production,"Industrial production, consumer goods",Monthly,behind,2001-05-08,2001-05-08,1,no,2000-12,RTD.M.S0.W.I_CONGO.X
+Industrial production,"Industrial production, consumer goods",Monthly,behind,2026-02-04,2026-09-09,5,yes,2025-08,RTD.M.S0.W.I_CONGO.X
+Industrial production,"Industrial production, durable consumer goods",Monthly,behind,2001-05-08,2001-05-08,1,no,2000-12,RTD.M.S0.W.I_DCOGO.X
+Industrial production,"Industrial production, durable consumer goods",Monthly,behind,2025-09-10,2026-09-09,8,yes,2025-03,RTD.M.S0.W.I_DCOGO.X
+Industrial production,"Industrial production, energy",Monthly,behind,2026-02-04,2026-09-09,5,yes,2025-08,RTD.M.S0.W.I_ENERG.X
+Industrial production,"Industrial production, excl. construction (seasonally adjusted)",Monthly,behind,2001-05-08,2001-05-08,1,no,2000-12,RTD.M.S0.Y.I_XCONS.X
+Industrial production,"Industrial production, excl. construction (seasonally adjusted)",Monthly,behind,2026-02-04,2026-09-09,5,yes,2025-08,RTD.M.S0.Y.I_XCONS.X
+Industrial production,"Industrial production, excl. construction (working day adjusted)",Monthly,behind,2001-05-08,2001-05-08,1,no,2000-12,RTD.M.S0.W.I_XCONS.X
+Industrial production,"Industrial production, excl. construction (working day adjusted)",Monthly,behind,2026-02-04,2026-09-09,5,yes,2025-08,RTD.M.S0.W.I_XCONS.X
+Industrial production,"Industrial production, excl. construction and energy",Monthly,behind,2025-09-10,2026-09-09,8,yes,2025-03,RTD.M.S0.W.I_XCOEN.X
+Industrial production,"Industrial production, incl. construction",Monthly,behind,2001-01-03,2001-01-03,1,no,2000-06,RTD.M.S0.W.I_INDTO.X
+Industrial production,"Industrial production, incl. construction",Monthly,behind,2004-12-01,2004-12-01,1,no,2004-06,RTD.M.S0.W.I_INDTO.X
+Industrial production,"Industrial production, incl. construction",Monthly,behind,2005-03-02,2005-03-02,1,no,2004-09,RTD.M.S0.W.I_INDTO.X
+Industrial production,"Industrial production, incl. construction",Monthly,behind,2005-06-01,2005-06-01,1,no,2004-12,RTD.M.S0.W.I_INDTO.X
+Industrial production,"Industrial production, incl. construction",Monthly,behind,2006-03-01,2006-03-01,1,no,2005-09,RTD.M.S0.W.I_INDTO.X
+Industrial production,"Industrial production, incl. construction",Monthly,behind,2006-06-07,2006-06-07,1,no,2005-12,RTD.M.S0.W.I_INDTO.X
+Industrial production,"Industrial production, incl. construction",Monthly,behind,2006-12-06,2006-12-06,1,no,2006-06,RTD.M.S0.W.I_INDTO.X
+Industrial production,"Industrial production, incl. construction",Monthly,behind,2025-09-10,2026-09-09,8,yes,2025-03,RTD.M.S0.W.I_INDTO.X
+Industrial production,"Industrial production, intermediate goods",Monthly,behind,2001-05-08,2001-05-08,1,no,2000-12,RTD.M.S0.W.I_INTGO.X
+Industrial production,"Industrial production, intermediate goods",Monthly,behind,2026-02-04,2026-09-09,5,yes,2025-08,RTD.M.S0.W.I_INTGO.X
+Industrial production,"Industrial production, manufacturing",Monthly,behind,2001-05-08,2001-05-08,1,no,2000-12,RTD.M.S0.W.I_MANUF.X
+Industrial production,"Industrial production, manufacturing",Monthly,behind,2026-02-04,2026-09-09,5,yes,2025-08,RTD.M.S0.W.I_MANUF.X
+Industrial production,"Industrial production, manufacturing - Japan",Monthly,behind,2025-09-10,2026-09-09,8,yes,2025-04,RTD.M.JP.N.I_MANUF.X
+Industrial production,"Industrial production, manufacturing - United States",Monthly,behind,2003-07-09,2003-07-09,1,no,2003-03,RTD.M.US.Y.I_MANUF.X
+Industrial production,"Industrial production, manufacturing - United States",Monthly,behind,2021-07-21,2021-09-08,2,no,2021-03,RTD.M.US.Y.I_MANUF.X
+Industrial production,"Industrial production, manufacturing - United States",Monthly,behind,2025-09-10,2026-09-09,8,yes,2025-04,RTD.M.US.Y.I_MANUF.X
+Industrial production,"Industrial production, non-durable consumer goods",Monthly,behind,2001-05-08,2001-05-08,1,no,2000-12,RTD.M.S0.W.I_NCOGO.X
+Industrial production,"Industrial production, non-durable consumer goods",Monthly,behind,2025-09-10,2026-09-09,8,yes,2025-03,RTD.M.S0.W.I_NCOGO.X
+Interest rates and bond yields,Eonia,Monthly,behind,2001-10-10,2001-10-10,1,no,2000-09,RTD.M.S0.N.C_EONIA.E
+Interest rates and bond yields,Eonia,Monthly,behind,2022-04-13,2026-09-09,35,yes,2021-12,RTD.M.S0.N.C_EONIA.E
+Interest rates and bond yields,Euribor 1-month,Monthly,behind,2001-10-10,2001-10-10,1,no,2000-09,RTD.M.S0.N.C_EUR1M.E
+Interest rates and bond yields,Euribor 1-year,Monthly,behind,2001-10-10,2001-10-10,1,no,2000-09,RTD.M.S0.N.C_EUR1Y.E
+Interest rates and bond yields,Euribor 3-month,Monthly,behind,2001-10-10,2001-10-10,1,no,2000-09,RTD.M.S0.N.C_EUR3M.E
+Interest rates and bond yields,Euribor 6-month,Monthly,behind,2001-10-10,2001-10-10,1,no,2000-09,RTD.M.S0.N.C_EUR6M.E
+Interest rates and bond yields,Euro area government bond yield 10-year,Monthly,behind,2001-10-10,2001-10-10,1,no,2000-09,RTD.M.S0.N.C_U210Y.E
+Interest rates and bond yields,Euro area government bond yield 10-year,Monthly,behind,2008-04-09,2011-03-02,36,no,2007-12,RTD.M.S0.N.C_U210Y.E
+Interest rates and bond yields,Euro area government bond yield 10-year,Monthly,no observations,2011-04-06,2024-03-06,119,no,,RTD.M.S0.N.C_U210Y.E
+Interest rates and bond yields,Euro area government bond yield 10-year,Monthly,behind,2025-03-05,2026-09-09,12,yes,2024-11,RTD.M.S0.N.C_U210Y.E
+Interest rates and bond yields,Euro area government bond yield 2-year,Monthly,behind,2001-10-10,2001-10-10,1,no,2000-09,RTD.M.S0.N.C_U202Y.E
+Interest rates and bond yields,Euro area government bond yield 2-year,Monthly,behind,2008-04-09,2011-03-02,36,no,2007-12,RTD.M.S0.N.C_U202Y.E
+Interest rates and bond yields,Euro area government bond yield 2-year,Monthly,no observations,2011-04-06,2024-03-06,119,no,,RTD.M.S0.N.C_U202Y.E
+Interest rates and bond yields,Euro area government bond yield 2-year,Monthly,behind,2025-03-05,2026-09-09,12,yes,2024-11,RTD.M.S0.N.C_U202Y.E
+Interest rates and bond yields,Euro area government bond yield 3-year,Monthly,behind,2001-10-10,2001-10-10,1,no,2000-09,RTD.M.S0.N.C_U203Y.E
+Interest rates and bond yields,Euro area government bond yield 3-year,Monthly,behind,2008-04-09,2011-03-02,36,no,2007-12,RTD.M.S0.N.C_U203Y.E
+Interest rates and bond yields,Euro area government bond yield 3-year,Monthly,no observations,2011-04-06,2024-03-06,119,no,,RTD.M.S0.N.C_U203Y.E
+Interest rates and bond yields,Euro area government bond yield 3-year,Monthly,behind,2025-03-05,2026-09-09,12,yes,2024-11,RTD.M.S0.N.C_U203Y.E
+Interest rates and bond yields,Euro area government bond yield 5-year,Monthly,behind,2001-10-10,2001-10-10,1,no,2000-09,RTD.M.S0.N.C_U205Y.E
+Interest rates and bond yields,Euro area government bond yield 5-year,Monthly,behind,2008-04-09,2011-03-02,36,no,2007-12,RTD.M.S0.N.C_U205Y.E
+Interest rates and bond yields,Euro area government bond yield 5-year,Monthly,no observations,2011-04-06,2024-03-06,119,no,,RTD.M.S0.N.C_U205Y.E
+Interest rates and bond yields,Euro area government bond yield 5-year,Monthly,behind,2025-03-05,2026-09-09,12,yes,2024-11,RTD.M.S0.N.C_U205Y.E
+Interest rates and bond yields,Euro area government bond yield 7-year,Monthly,behind,2001-10-10,2001-10-10,1,no,2000-09,RTD.M.S0.N.C_U207Y.E
+Interest rates and bond yields,Euro area government bond yield 7-year,Monthly,behind,2008-04-09,2011-03-02,36,no,2007-12,RTD.M.S0.N.C_U207Y.E
+Interest rates and bond yields,Euro area government bond yield 7-year,Monthly,no observations,2011-04-06,2024-03-06,119,no,,RTD.M.S0.N.C_U207Y.E
+Interest rates and bond yields,Euro area government bond yield 7-year,Monthly,behind,2025-03-05,2026-09-09,12,yes,2024-11,RTD.M.S0.N.C_U207Y.E
+Interest rates and bond yields,Japanese yen Libor 3-month,Monthly,behind,2001-10-10,2001-10-10,1,no,2000-09,RTD.M.S0.N.C_JPL3M.J
+Interest rates and bond yields,Japanese yen Libor 3-month,Monthly,behind,2023-05-03,2026-09-09,27,yes,2023-01,RTD.M.S0.N.C_JPL3M.J
+Interest rates and bond yields,US dollar Libor 3-month,Monthly,behind,2001-10-10,2001-10-10,1,no,2000-09,RTD.M.S0.N.C_USL3M.U
+Interest rates and bond yields,US dollar Libor 3-month,Monthly,behind,2025-01-29,2026-09-09,13,yes,2024-09,RTD.M.S0.N.C_USL3M.U
+Labour costs,"Labour cost index, construction",Quarterly,behind,2009-09-02,2011-03-02,19,no,2008-Q4,RTD.Q.S0.W.L_H_CONST.X
+Labour costs,"Labour cost index, construction",Quarterly,behind,2026-02-04,2026-09-09,5,yes,2025-Q1,RTD.Q.S0.W.L_H_CONST.X
+Labour costs,"Labour cost index, industry excluding construction",Quarterly,behind,2026-02-04,2026-09-09,5,yes,2025-Q1,RTD.Q.S0.W.L_H_XCONS.X
+Labour costs,"Labour cost index, services",Quarterly,behind,2007-09-05,2007-09-05,1,no,2006-Q4,RTD.Q.S0.W.L_H_SERV.X
+Labour costs,"Labour cost index, services",Quarterly,behind,2009-09-02,2011-03-02,19,no,2008-Q4,RTD.Q.S0.W.L_H_SERV.X
+Labour costs,"Labour cost index, services",Quarterly,behind,2026-02-04,2026-09-09,5,yes,2025-Q1,RTD.Q.S0.W.L_H_SERV.X
+Labour costs,"Labour cost index, total (seasonally adjusted)",Quarterly,behind,2009-09-02,2009-09-02,1,no,2008-Q4,RTD.Q.S0.Y.L_H_WXAFG.X
+Labour costs,"Labour cost index, total (seasonally adjusted)",Quarterly,behind,2026-02-04,2026-09-09,5,yes,2025-Q1,RTD.Q.S0.Y.L_H_WXAFG.X
+Loans and credit,Credit to the private sector (seasonally adjusted),Monthly,behind,2025-09-10,2026-09-09,8,yes,2025-04,RTD.M.S0.Y.M_LOANSEC_U_NG.E
+Loans and credit,Loans to the private sector (not adjusted),Monthly,behind,2002-07-03,2003-07-30,14,no,2002-02,RTD.M.S0.N.M_LOAN_U_NG.E
+Loans and credit,Loans to the private sector (seasonally adjusted),Monthly,behind,2025-09-10,2026-09-09,8,yes,2025-04,RTD.M.S0.Y.M_LOAN_U_NG.E
+Money supply,Base money,Monthly,behind,2025-09-10,2026-09-09,8,yes,2025-04,RTD.M.S0.N.M_M3BM_C_WN.E
+Money supply,M1 (seasonally adjusted),Monthly,behind,2025-09-10,2026-09-09,8,yes,2025-04,RTD.M.S0.Y.M_M1_V_NC.E
+Money supply,M2 (seasonally adjusted),Monthly,behind,2025-09-10,2026-09-09,8,yes,2025-04,RTD.M.S0.Y.M_M2_V_NC.E
+Money supply,M2 - Japan,Monthly,behind,2003-07-09,2003-07-09,1,no,2003-03,RTD.M.JP.Y.M_M2.J
+Money supply,M2 - Japan,Monthly,behind,2006-05-03,2006-05-03,1,no,2006-01,RTD.M.JP.Y.M_M2.J
+Money supply,M2 - Japan,Monthly,behind,2012-10-03,2012-10-03,1,no,2012-06,RTD.M.JP.Y.M_M2.J
+Money supply,M2 - Japan,Monthly,behind,2025-09-10,2026-09-09,8,yes,2025-04,RTD.M.JP.Y.M_M2.J
+Money supply,M2 - United States,Monthly,behind,2021-06-09,2023-03-15,15,no,2021-01,RTD.M.US.Y.M_M2.U
+Money supply,M2 - United States,Monthly,behind,2025-09-10,2026-09-09,8,yes,2025-04,RTD.M.US.Y.M_M2.U
+Money supply,M3 (seasonally adjusted),Monthly,behind,2025-09-10,2026-09-09,8,yes,2025-04,RTD.M.S0.Y.M_M3_V_NC.E
+Money supply,M3 annual growth rate (not adjusted),Monthly,behind,2025-09-10,2026-09-09,8,yes,2025-04,RTD.M.S0.N.M_M3BM_V_NC.A
+New car registrations,New car registrations (working day adjusted),Monthly,behind,2003-06-04,2003-12-03,7,no,2003-01,RTD.M.S0.W.I_NCARS.Q
+New car registrations,New car registrations (working day adjusted),Monthly,behind,2023-05-03,2026-09-09,27,yes,2022-12,RTD.M.S0.W.I_NCARS.Q
+Producer prices,"Producer prices, capital goods",Monthly,behind,2026-02-04,2026-09-09,5,yes,2025-08,RTD.M.S0.N.P_P_CAPGO_DS.X
+Producer prices,"Producer prices, consumer goods",Monthly,behind,2026-02-04,2026-09-09,5,yes,2025-08,RTD.M.S0.N.P_P_CONGO_DS.X
+Producer prices,"Producer prices, durable consumer goods",Monthly,no observations,2015-01-21,2024-03-06,74,no,,RTD.M.S0.N.P_P_DCOGO_DS.X
+Producer prices,"Producer prices, durable consumer goods",Monthly,behind,2025-09-10,2026-09-09,8,yes,2025-03,RTD.M.S0.N.P_P_DCOGO_DS.X
+Producer prices,"Producer prices, energy",Monthly,behind,2026-02-04,2026-09-09,5,yes,2025-08,RTD.M.S0.N.P_P_ENERG_DS.X
+Producer prices,"Producer prices, excl. construction",Monthly,behind,2026-02-04,2026-09-09,5,yes,2025-08,RTD.M.S0.N.P_P_XCONS_DS.X
+Producer prices,"Producer prices, excl. construction and energy",Monthly,behind,2026-02-04,2026-09-09,5,yes,2025-08,RTD.M.S0.N.P_P_XCOEN_DS.X
+Producer prices,"Producer prices, intermediate goods",Monthly,behind,2026-02-04,2026-09-09,5,yes,2025-08,RTD.M.S0.N.P_P_INTGO_DS.X
+Producer prices,"Producer prices, manufacturing",Monthly,behind,2026-02-04,2026-09-09,5,yes,2025-08,RTD.M.S0.N.P_P_MANUF_DS.X
+Producer prices,"Producer prices, non-durable consumer goods",Monthly,no observations,2015-01-21,2024-03-06,74,no,,RTD.M.S0.N.P_P_NCOGO_DS.X
+Producer prices,"Producer prices, non-durable consumer goods",Monthly,behind,2025-03-05,2026-09-09,12,yes,2024-10,RTD.M.S0.N.P_P_NCOGO_DS.X
+Retail sales,"Retail sales, food, beverages and tobacco, real",Monthly,behind,2001-05-08,2001-05-08,1,no,2000-12,RTD.M.S0.Y.O_RTFOBETD.X
+Retail sales,"Retail sales, food, beverages and tobacco, real",Monthly,behind,2026-02-04,2026-09-09,5,yes,2025-08,RTD.M.S0.Y.O_RTFOBETD.X
+Retail sales,"Retail sales, household equipment, real",Monthly,behind,2021-06-09,2026-09-09,42,yes,2020-12,RTD.M.S0.Y.O_RTHOUSED.X
+Retail sales,"Retail sales, non-food, real",Monthly,behind,2001-05-08,2001-05-08,1,no,2000-12,RTD.M.S0.Y.O_RTNONFOD.X
+Retail sales,"Retail sales, non-food, real",Monthly,behind,2026-02-04,2026-09-09,5,yes,2025-08,RTD.M.S0.Y.O_RTNONFOD.X
+Retail sales,"Retail sales, textiles and clothing, real",Monthly,behind,2022-10-26,2026-09-09,31,yes,2022-04,RTD.M.S0.Y.O_RTTEXCLD.X
+Retail sales,"Retail sales, total, nominal",Monthly,behind,2001-05-08,2001-05-08,1,no,2000-12,RTD.M.S0.Y.O_RTXMOTV.X
+Retail sales,"Retail sales, total, nominal",Monthly,behind,2025-09-10,2026-09-09,8,yes,2025-03,RTD.M.S0.Y.O_RTXMOTV.X
+Retail sales,"Retail sales, total, real",Monthly,behind,2001-05-08,2001-05-08,1,no,2000-12,RTD.M.S0.Y.O_RTXMOTVD.X
+Retail sales,"Retail sales, total, real",Monthly,behind,2026-02-04,2026-09-09,5,yes,2025-08,RTD.M.S0.Y.O_RTXMOTVD.X
+Stock prices,Euro Stoxx (broad),Monthly,behind,2001-10-10,2001-10-10,1,no,2000-09,RTD.M.S0.N.C_DJESB.X
+Stock prices,Euro Stoxx 50,Monthly,behind,2001-10-10,2001-10-10,1,no,2000-09,RTD.M.S0.N.C_DJE50.X
+Stock prices,Euro Stoxx basic materials,Monthly,behind,2001-10-10,2001-10-10,1,no,2000-09,RTD.M.S0.N.C_DJEBM.X
+Stock prices,Euro Stoxx cyclical goods,Monthly,behind,2001-10-10,2001-10-10,1,no,2000-09,RTD.M.S0.N.C_DJECG.X
+Stock prices,Euro Stoxx energy,Monthly,behind,2001-10-10,2001-10-10,1,no,2000-09,RTD.M.S0.N.C_DJEEN.X
+Stock prices,Euro Stoxx financials,Monthly,behind,2001-10-10,2001-10-10,1,no,2000-09,RTD.M.S0.N.C_DJEFI.X
+Stock prices,Euro Stoxx healthcare,Monthly,behind,2001-10-10,2001-10-10,1,no,2000-09,RTD.M.S0.N.C_DJEHC.X
+Stock prices,Euro Stoxx industrials,Monthly,behind,2001-10-10,2001-10-10,1,no,2000-09,RTD.M.S0.N.C_DJEIG.X
+Stock prices,Euro Stoxx non-cyclical goods,Monthly,behind,2001-10-10,2001-10-10,1,no,2000-09,RTD.M.S0.N.C_DJENG.X
+Stock prices,Euro Stoxx technology,Monthly,behind,2001-10-10,2001-10-10,1,no,2000-09,RTD.M.S0.N.C_DJETE.X
+Stock prices,Euro Stoxx telecommunications,Monthly,behind,2001-10-10,2001-10-10,1,no,2000-09,RTD.M.S0.N.C_DJETC.X
+Stock prices,Euro Stoxx utilities,Monthly,behind,2001-10-10,2001-10-10,1,no,2000-09,RTD.M.S0.N.C_DJEUT.X
+Stock prices,Nikkei 225,Monthly,behind,2001-10-10,2001-10-10,1,no,2000-09,RTD.M.S0.N.C_NIKKE.X
+Stock prices,S&P 500,Monthly,behind,2001-10-10,2001-10-10,1,no,2000-09,RTD.M.S0.N.C_SP500.X
+Surveys,"Construction Survey, Assessment of order books",Monthly,no observations,2023-02-01,2023-06-14,4,no,,RTD.M.S0.S.Y_COAOB.F
+Surveys,"Construction Survey, Assessment of order books",Monthly,behind,2025-09-10,2026-09-09,8,yes,2025-05,RTD.M.S0.S.Y_COAOB.F
+Surveys,"Construction Survey, Construction Confidence Indicator",Monthly,no observations,2023-02-01,2023-06-14,4,no,,RTD.M.S0.S.Y_COCCI.F
+Surveys,"Construction Survey, Employment expectations for the months ahead",Monthly,no observations,2023-02-01,2023-06-14,4,no,,RTD.M.S0.S.Y_COEEX.F
+Surveys,"Construction Survey, Employment expectations for the months ahead",Monthly,behind,2025-09-10,2026-09-09,8,yes,2025-05,RTD.M.S0.S.Y_COEEX.F
+Surveys,"Consumer Survey, Consumer Confidence Indicator",Monthly,no observations,2023-02-01,2023-06-14,4,no,,RTD.M.S0.S.Y_CSCCI.F
+Surveys,"Consumer Survey, Financial situation over next 12 months",Monthly,no observations,2023-02-01,2023-06-14,4,no,,RTD.M.S0.S.Y_CSF12.F
+Surveys,"Consumer Survey, Financial situation over next 12 months",Monthly,behind,2025-09-10,2026-09-09,8,yes,2025-05,RTD.M.S0.S.Y_CSF12.F
+Surveys,"Consumer Survey, General economic situation over next 12 months",Monthly,no observations,2023-02-01,2023-06-14,4,no,,RTD.M.S0.S.Y_CSG12.F
+Surveys,"Consumer Survey, General economic situation over next 12 months",Monthly,behind,2025-09-10,2026-09-09,8,yes,2025-05,RTD.M.S0.S.Y_CSG12.F
+Surveys,"Consumer Survey, Savings over next 12 months",Monthly,no observations,2023-02-01,2023-06-14,4,no,,RTD.M.S0.S.Y_CSS12.F
+Surveys,"Consumer Survey, Savings over next 12 months",Monthly,behind,2025-09-10,2026-09-09,8,yes,2025-05,RTD.M.S0.S.Y_CSS12.F
+Surveys,"Consumer Survey, Unemployment expectations over next 12 months",Monthly,no observations,2023-02-01,2023-06-14,4,no,,RTD.M.S0.S.Y_CSU12.F
+Surveys,"Consumer Survey, Unemployment expectations over next 12 months",Monthly,behind,2025-09-10,2026-09-09,8,yes,2025-05,RTD.M.S0.S.Y_CSU12.F
+Surveys,Economic Sentiment Indicator,Monthly,no observations,2023-02-01,2023-06-14,4,no,,RTD.M.S0.S.Y_ESIND.F
+Surveys,"Industry Survey, Assessment of order-book levels",Monthly,no observations,2023-02-01,2023-06-14,4,no,,RTD.M.S0.S.Y_ISAOB.F
+Surveys,"Industry Survey, Assessment of order-book levels",Monthly,behind,2025-09-10,2026-09-09,8,yes,2025-05,RTD.M.S0.S.Y_ISAOB.F
+Surveys,"Industry Survey, Assessment of stocks of finished products",Monthly,no observations,2023-02-01,2023-06-14,4,no,,RTD.M.S0.S.Y_ISASP.F
+Surveys,"Industry Survey, Assessment of stocks of finished products",Monthly,behind,2025-09-10,2026-09-09,8,yes,2025-05,RTD.M.S0.S.Y_ISASP.F
+Surveys,"Industry Survey, Current level of capacity utilization",Quarterly,behind,2023-05-03,2023-06-14,2,no,2022-Q4,RTD.Q.S0.S.Y_ISLCU.F
+Surveys,"Industry Survey, Industrial Confidence Indicator",Monthly,no observations,2023-02-01,2023-06-14,4,no,,RTD.M.S0.S.Y_ISICI.F
+Surveys,"Industry Survey, Production expectations for the months ahead",Monthly,no observations,2023-02-01,2023-06-14,4,no,,RTD.M.S0.S.Y_ISPEX.F
+Surveys,"Industry Survey, Production expectations for the months ahead",Monthly,behind,2025-09-10,2026-09-09,8,yes,2025-05,RTD.M.S0.S.Y_ISPEX.F
+Surveys,"Retail Trade Survey, Assessment of stocks",Monthly,no observations,2023-02-01,2023-06-14,4,no,,RTD.M.S0.S.Y_RSAOS.F
+Surveys,"Retail Trade Survey, Assessment of stocks",Monthly,behind,2025-09-10,2026-09-09,8,yes,2025-05,RTD.M.S0.S.Y_RSAOS.F
+Surveys,"Retail Trade Survey, Expected business situation",Monthly,no observations,2023-02-01,2023-06-14,4,no,,RTD.M.S0.S.Y_RSBEX.F
+Surveys,"Retail Trade Survey, Expected business situation",Monthly,behind,2025-09-10,2026-09-09,8,yes,2025-05,RTD.M.S0.S.Y_RSBEX.F
+Surveys,"Retail Trade Survey, Present business situation",Monthly,no observations,2023-02-01,2023-06-14,4,no,,RTD.M.S0.S.Y_RSPBS.F
+Surveys,"Retail Trade Survey, Present business situation",Monthly,behind,2025-09-10,2026-09-09,8,yes,2025-05,RTD.M.S0.S.Y_RSPBS.F
+Surveys,"Retail Trade Survey, Retail Confidence Indicator",Monthly,no observations,2023-02-01,2023-06-14,4,no,,RTD.M.S0.S.Y_RSRCI.F
+Surveys,"Service Survey, Assessment of the business climate",Monthly,no observations,2023-02-01,2023-06-14,4,no,,RTD.M.S0.S.Y_SSABC.F
+Surveys,"Service Survey, Assessment of the business climate",Monthly,behind,2025-09-10,2026-09-09,8,yes,2025-05,RTD.M.S0.S.Y_SSABC.F
+Surveys,"Service Survey, Evolution of demand expected in the months ahead",Monthly,no observations,2023-02-01,2023-06-14,4,no,,RTD.M.S0.S.Y_SSEDE.F
+Surveys,"Service Survey, Evolution of demand expected in the months ahead",Monthly,behind,2025-09-10,2026-09-09,8,yes,2025-05,RTD.M.S0.S.Y_SSEDE.F
+Surveys,"Service Survey, Evolution of demand in recent months",Monthly,no observations,2023-02-01,2023-06-14,4,no,,RTD.M.S0.S.Y_SSEDR.F
+Surveys,"Service Survey, Evolution of demand in recent months",Monthly,behind,2025-09-10,2026-09-09,8,yes,2025-05,RTD.M.S0.S.Y_SSEDR.F
+Surveys,"Service Survey, Service Confidence Indicator",Monthly,no observations,2023-02-01,2023-06-14,4,no,,RTD.M.S0.S.Y_SSSCI.F
+Unemployment,Unemployed persons,Monthly,behind,2024-06-05,2025-06-04,9,no,2024-01,RTD.M.S0.S.L_UNETO.M
+Unemployment,"Unemployed persons, 25 and over",Monthly,behind,2024-06-05,2025-06-04,9,no,2024-01,RTD.M.S0.S.L_FMO25.M
+Unemployment,"Unemployed persons, men",Monthly,behind,2024-06-05,2025-06-04,9,no,2024-01,RTD.M.S0.S.L_MATOT.M
+Unemployment,"Unemployed persons, under 25",Monthly,behind,2024-06-05,2025-06-04,9,no,2024-01,RTD.M.S0.S.L_FMU25.M
+Unemployment,"Unemployed persons, women",Monthly,behind,2024-06-05,2025-06-04,9,no,2024-01,RTD.M.S0.S.L_FETOT.M
+Unemployment,Unemployment rate,Monthly,behind,2024-06-05,2025-06-04,9,no,2024-01,RTD.M.S0.S.L_UNETO.F
+Unemployment,Unemployment rate - Japan,Monthly,behind,2003-07-09,2003-07-09,1,no,2003-02,RTD.M.JP.Y.L_UNETO.F
+Unemployment,Unemployment rate - Japan,Monthly,behind,2003-12-03,2004-01-14,2,no,2003-07,RTD.M.JP.Y.L_UNETO.F
+Unemployment,Unemployment rate - Japan,Monthly,behind,2004-10-06,2005-10-05,13,no,2004-05,RTD.M.JP.Y.L_UNETO.F
+Unemployment,Unemployment rate - Japan,Monthly,behind,2007-09-05,2007-10-02,2,no,2007-04,RTD.M.JP.Y.L_UNETO.F
+Unemployment,Unemployment rate - Japan,Monthly,behind,2008-02-06,2008-02-06,1,no,2007-09,RTD.M.JP.Y.L_UNETO.F
+Unemployment,Unemployment rate - Japan,Monthly,behind,2008-06-04,2008-06-04,1,no,2008-01,RTD.M.JP.Y.L_UNETO.F
+Unemployment,Unemployment rate - Japan,Monthly,behind,2024-06-05,2026-09-09,18,yes,2023-12,RTD.M.JP.Y.L_UNETO.F
+Unemployment,Unemployment rate - United States,Monthly,behind,2025-09-10,2026-09-09,8,yes,2025-04,RTD.M.US.Y.L_UNETO.F
+Unemployment,"Unemployment rate, 25 and over",Monthly,behind,2024-06-05,2025-06-04,9,no,2024-01,RTD.M.S0.S.L_FMO25.F
+Unemployment,"Unemployment rate, men",Monthly,behind,2024-06-05,2025-06-04,9,no,2024-01,RTD.M.S0.S.L_MATOT.F
+Unemployment,"Unemployment rate, under 25",Monthly,behind,2024-06-05,2025-06-04,9,no,2024-01,RTD.M.S0.S.L_FMU25.F
+Unemployment,"Unemployment rate, women",Monthly,behind,2024-06-05,2025-06-04,9,no,2024-01,RTD.M.S0.S.L_FETOT.F
+Unit labour costs,"Unit labour costs, agriculture",Quarterly,behind,2005-10-05,2005-10-05,1,no,2004-Q4,RTD.Q.S0.S.L_ULC_AHFF.X
+Unit labour costs,"Unit labour costs, manufacturing - United States",Quarterly,behind,2025-12-17,2026-09-09,6,yes,2025-Q1,RTD.Q.US.Y.L_ULC_MANUF.X

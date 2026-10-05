@@ -1,0 +1,14 @@
+__pycache__/
+*.part
+~$*.xlsx
+.vscode/
+
+# The data are not kept in version control: 1.4 GB in 67,532 files. Rebuild them
+# with the scripts in code/, in order, as README.md says. The small files that
+# describe the data are kept, so code/06_vintage_picker.py and anyone reading the
+# repository can see what the 278 series and 261 vintages are.
+data/raw/history/
+data/raw/old_files/
+data/processed/raw_vintages/
+data/processed/vintages/*
+!data/processed/vintages/_variable_list.csv

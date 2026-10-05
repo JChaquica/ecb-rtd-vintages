@@ -1,0 +1,44 @@
+latest vintage: 2026-09-09
+series: 278
+
+ 171  usable (up to date in the latest vintage)
+ 107  not usable (behind in the latest vintage)
+
+not usable, by the vintage at which the ECB last changed them:
+   1  2023-03-15
+   3  2024-03-06
+   2  2024-04-10
+   1  2024-10-16
+   9  2024-12-11
+   1  2025-04-16
+  72  2025-06-04
+  18  2025-10-29
+
+not usable, by indicator:
+  15  Surveys
+  14  Industrial production
+  11  Balance of payments
+   9  Producer prices
+   8  Interest rates and bond yields
+   7  Goods imports
+   7  Money supply
+   6  Goods exports
+   6  Government finance
+   6  Retail sales
+   4  Labour costs
+   3  Commodity prices
+   2  Consumer prices (HICP)
+   2  GDP
+   2  Loans and credit
+   2  Unemployment
+   1  Gross value added
+   1  New car registrations
+   1  Unit labour costs
+
+ 153  series behind or without observations for two or more vintages in a row since 2015
+
+series affected per vintage:
+      2015: 9 to 9
+      2020: 9 to 9
+      2023: 21 to 76
+      2026: 102 to 115
