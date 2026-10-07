@@ -5,3 +5,6 @@
 # their SHA-256 matches the one in their folder's manifest.csv.
 data/raw/eurostat/** -text
 data/raw/ecb_calendar/** -text
+
+# Windows runs .bat files most reliably with CRLF line endings, whatever the checkout.
+*.bat text eol=crlf

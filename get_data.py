@@ -288,7 +288,9 @@ def minutes(seconds: float) -> str:
 
 
 def megabytes(n: float) -> str:
-    return f"{n / 1e6:,.1f} MB" if n < 1e7 else f"{n / 1e6:,.0f} MB"
+    if n < 1e5:
+        return "under 0.1 MB"
+    return f"about {n / 1e6:,.1f} MB" if n < 1e7 else f"about {n / 1e6:,.0f} MB"
 
 
 def command_line(keys: list[str], cat: pd.DataFrame, a: argparse.Namespace) -> str:
@@ -396,7 +398,7 @@ def run(a: argparse.Namespace, cat: pd.DataFrame) -> int:
         print(f"  series        {len(keys)}: {names}")
         print(f"  form          {', '.join(forms)}")
         if build:
-            print(f"  vintages      {describe_years(a.vintages)} ({n_vintages} vintage dates)")
+            print(f"  vintages      {describe_years(a.vintages)} ({n_vintages} vintage date{'s' * (n_vintages != 1)})")
             print(f"  observations  {describe_years(a.observations)}")
         if to_get:
             lo = max(1, round(len(to_get) / download.PARALLEL_REQUESTS))
@@ -407,7 +409,7 @@ def run(a: argparse.Namespace, cat: pd.DataFrame) -> int:
         if build:
             files = ([f"{len(keys)} table{'s' * (len(keys) != 1)}"] * ("tables" in forms)
                      + [f"up to {n_books:,} workbooks"] * ("workbooks" in forms))
-            print(f"  writes        {' and '.join(files)}, about {megabytes(size)}, "
+            print(f"  writes        {' and '.join(files)}, {megabytes(size)}, "
                   f"in data/processed/")
         print(f"\nThe same without the questions:\n  {command_line(keys, cat, a)}")
         if ask("\nGo ahead? [Y/n] ").lower().startswith("n"):

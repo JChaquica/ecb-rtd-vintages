@@ -107,6 +107,12 @@ python get_data.py --all                                      # everything
 `--refresh` downloads again logs that are already on disk, to add the vintages the ECB has
 published since. `python get_data.py --help` lists every option.
 
+**Without typing commands (Windows).** Download the repository (on GitHub: *Code*, then
+*Download ZIP*), unzip it and double-click `get_data.bat`. It asks the same four questions in a
+window. The first time, it installs the packages the code needs into a `.venv` folder beside it,
+which takes a minute or two. It needs Python 3.12 or later, from
+[python.org](https://www.python.org/downloads/).
+
 **How long it takes.** The ECB's server answers in seconds for a series it has been asked for
 recently and takes one to three minutes for one it has not; `get_data.py` sends up to four
 requests at a time. Real GDP and HICP inflation, downloaded into an empty copy of the repository
@@ -314,6 +320,7 @@ Checks 02, 03, 05 and 06 need the full build (`python get_data.py --all`) and 01
 
 ```
 get_data.py                  the one command: choose series, years and form; download and build
+get_data.bat                 the same, by double-click on Windows
 code/common.py               where everything is, and the list of series
 code/download.py             downloads a series' log from the ECB and checks it is whole
 code/vintages.py             turns a log into one column per vintage
