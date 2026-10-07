@@ -2,13 +2,16 @@ __pycache__/
 *.part
 ~$*.xlsx
 .vscode/
+.venv/
+venv/
 
-# The data are not kept in version control: 1.2 GB, most of it in 67,532 workbooks. Rebuild them
-# with the scripts in code/, in order, as README.md says. The small files that
-# describe the data are kept, so code/06_vintage_picker.py and anyone reading the
-# repository can see what the 278 series and 261 vintages are.
+# The data are not kept in version control: 1.3 GB in all, most of it in 67,532
+# workbooks. get_data.py downloads the ECB's logs and builds from them what is
+# asked for (see README.md). The small files that describe the data are kept: the
+# list of series, the vintage dates and the fingerprints of the published build.
 data/raw/history/
 data/raw/old_files/
 data/processed/raw_vintages/
-data/processed/vintages/*
-!data/processed/vintages/_variable_list.csv
+data/processed/vintages/
+data/processed/contents.csv
+data/processed/not_up_to_date.csv

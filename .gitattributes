@@ -1,0 +1,7 @@
+# Text files are stored with LF line endings.
+* text=auto
+
+# Files downloaded for the checks are kept exactly as the server sent them, so that
+# their SHA-256 matches the one in their folder's manifest.csv.
+data/raw/eurostat/** -text
+data/raw/ecb_calendar/** -text

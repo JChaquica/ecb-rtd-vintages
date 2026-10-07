@@ -1,0 +1,19 @@
+files in rtdb38.zip: 43
+  Excel workbooks: 41
+  other files: le38/le38.zip, le38/read me.doc
+workbooks with vintage columns: 38
+workbooks without: Copy of AWM12UP5.xls, legend.xls, positions.xls
+
+last vintage in the header, last vintage with numbers, number of workbooks:
+last_vintage  last_vintage_with_data
+2009-06-01    2009-06-01                36
+2008-09-01    2005-12-01                 1
+2009-06-01    2008-01-01                 1
+
+workbooks with vintages before January 2001:
+workbook  vintages_before_2001 first_vintage
+ IPP.xls                    15    1999-10-01
+
+workbooks with vintage dates stored as numbers:
+workbook  dates_stored_as_numbers numbers_first numbers_last
+ yed.xls                       12    2004-09-01   2005-08-01

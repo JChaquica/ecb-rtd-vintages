@@ -1,0 +1,39 @@
+decisions in the ECB's calendar: 275, 2001-01-04 to 2026-09-10
+vintages: 261, 2001-01-03 to 2026-09-09
+
+vintages on the working day before a decision: 248 of 261
+   from 2015: 93 of 93
+decisions from 2015 with a vintage on the working day before: 93 of 94
+   no vintage for the decision of 2026-07-23: no series changed between the vintages of 10 June and 9 September 2026
+
+before 2015, vintages not on the working day before a decision: 13
+   2001-05-08  next decision 2001-05-10, 2 days later
+   2001-09-13  next decision 2001-09-13, 0 days later
+   2002-01-16  next decision 2002-02-07, 22 days later
+   2002-04-30  next decision 2002-05-02, 2 days later
+   2003-01-15  next decision 2003-02-06, 22 days later
+   2004-01-14  next decision 2004-02-05, 22 days later
+   2006-04-04  next decision 2006-04-06, 2 days later
+   2006-10-31  next decision 2006-11-02, 2 days later
+   2007-05-08  next decision 2007-05-10, 2 days later
+   2007-10-02  next decision 2007-10-04, 2 days later
+   2008-05-06  next decision 2008-05-08, 2 days later
+   2008-09-30  next decision 2008-10-02, 2 days later
+   2013-04-30  next decision 2013-05-02, 2 days later
+before 2015, decisions with no vintage of their own: 16
+   2001-01-18  between the vintages of 2001-01-03 and 2001-01-31
+   2001-02-15  between the vintages of 2001-01-31 and 2001-02-28
+   2001-03-15  between the vintages of 2001-02-28 and 2001-04-10
+   2001-03-29  between the vintages of 2001-02-28 and 2001-04-10
+   2001-04-26  between the vintages of 2001-04-10 and 2001-05-08
+   2001-05-23  between the vintages of 2001-05-08 and 2001-06-06
+   2001-06-21  between the vintages of 2001-06-06 and 2001-07-04
+   2001-07-19  between the vintages of 2001-07-04 and 2001-08-01
+   2001-08-30  between the vintages of 2001-08-01 and 2001-09-13
+   2001-09-17  between the vintages of 2001-09-13 and 2001-10-10
+   2001-09-27  between the vintages of 2001-09-13 and 2001-10-10
+   2001-10-25  between the vintages of 2001-10-10 and 2001-11-07
+   2002-01-03  between the vintages of 2001-12-05 and 2002-01-16
+   2003-01-09  between the vintages of 2002-12-04 and 2003-01-15
+   2004-01-08  between the vintages of 2003-12-03 and 2004-01-14
+   2008-10-08  between the vintages of 2008-09-30 and 2008-11-05

@@ -1,0 +1,133 @@
+compared 46704 (series, old file) pairs for 278 series
+
+status counts:
+status
+match                                              42132
+old file column empty                               4276
+old file column empty, rebuilt vintage has data      296
+
+pairs where the old file has data: 42132, of which match: 42132
+values in matching pairs (all identical): 6,616,172
+series matching in every file where their column has data: 278 of 278
+pairs where the old file's column is empty but the rebuilt vintage has data: 296, in 20 series, 52,509 values
+
+series that fail in some file (key, files with data, matched):
+none
+
+columns of the old files that hold data but match no RTD series, so are not in the web service: 44 (annual 6, quarterly 31, monthly 7); their old codes:
+  annual     MUFA.A.JP.N.P50.G.X.Z5.ZZZZ.JP.1100.M.J
+  annual     MUFA.A.JP.N.B8G.G.X.JP.1100.Z5.ZZZZ.M.J
+  annual     MUFA.A.JP.N.P50.G.X.Z5.ZZZZ.JP.1415.M.J
+  annual     MUFA.A.JP.N.B8G.G.X.JP.1415.Z5.ZZZZ.M.J
+  annual     MUFA.A.JP.N.P50.G.X.Z5.ZZZZ.JP.1415.M.J
+  annual     MUFA.A.JP.N.B8G.G.X.JP.1415.Z5.ZZZZ.M.J
+  quarterly  ESA.Q.I2.S.1000.TOTEMP.0000.YJ_K.N.P.E
+  quarterly  ESA.Q.I2.S.1000.TOTEMP.0000.YL_P.N.P.E
+  quarterly  ESA.Q.I2.S.1000.UNLACO.0000.YJ_K.D.U.I
+  quarterly  ESA.Q.I2.S.1000.UNLACO.0000.YL_P.D.U.I
+  quarterly  GST.Q.US.N.B1300.DEF.B0000.CU.G
+  quarterly  GST.Q.US.N.B0X13.MAL.B1300.SA.G
+  quarterly  MUFA.Q.US.N.B8G.G.X.US.1000.Z5.ZZZZ.M.R
+  quarterly  MUFA.Q.US.N.P50.G.X.Z5.ZZZZ.US.1000.M.R
+  quarterly  MUFA.Q.US.N.BIC.G.X.US.1000.A1.1000.M.R
+  quarterly  MUFA.Q.US.N.P50.G.X.Z5.ZZZZ.US.11US.M.R
+  quarterly  MUFA.Q.US.N.T00.G.X.A1.1000.US.11US.M.R
+  quarterly  MUFA.Q.US.N.B8G.G.X.US.11US.Z5.ZZZZ.M.R
+  quarterly  MUFA.Q.US.N.T00.G.X.US.11US.A1.1000.M.R
+  quarterly  MUFA.Q.US.N.P5C.G.X.Z5.ZZZZ.US.1415.M.R
+  quarterly  MUFA.Q.US.N.T00.G.X.A1.1000.US.1415.M.R
+  quarterly  MUFA.Q.US.N.B8C.G.X.US.1415.Z5.ZZZZ.M.R
+  quarterly  MUFA.Q.US.N.T00.G.X.US.1415.A1.1000.M.R
+  quarterly  MUFA.Q.JP.N.B8G.G.X.JP.1000.Z5.ZZZZ.M.J
+  quarterly  MUFA.Q.JP.N.P50.G.X.Z5.ZZZZ.JP.1000.M.J
+  quarterly  MUFA.Q.JP.N.BIC.G.X.JP.1000.A1.1000.M.J
+  quarterly  MUFA.Q.JP.N.T00.G.X.A1.1000.JP.1100.M.J
+  quarterly  MUFA.Q.JP.N.T00.G.X.JP.1100.A1.1000.M.J
+  quarterly  MUFA.Q.JP.N.T00.G.X.A1.1000.JP.1415.M.J
+  quarterly  MUFA.Q.JP.N.T00.G.X.JP.1415.A1.1000.M.J
+  quarterly  ESA.Q.I2.S.1000.P52_53.0000.TTTT.Q.U.A
+  quarterly  ESA.Q.I2.S.0000.B1G000.1000.YJ_K.V.U.A
+  quarterly  ESA.Q.I2.S.0000.B1G000.1000.YL_P.V.U.A
+  quarterly  ESA.Q.I2.S.0000.P11900.1000.TTTT.V.U.A
+  quarterly  ESA.Q.I2.S.0000.B1G000.1000.YJ_K.Q.U.A
+  quarterly  ESA.Q.I2.S.0000.B1G000.1000.YL_P.Q.U.A
+  quarterly  ESA.Q.I2.S.0000.P11900.1000.TTTT.Q.U.A
+  monthly    STS.M.U2.Y.TOVT.NSR001.4.000
+  monthly    STS.M.U2.Y.TOVV.NSR001.4.000
+  monthly    FM.M.US.USD.4F.BB.US10YT_RR.YLD
+  monthly    FM.M.JP.JPY.4F.BB.JP10YT_RR.YLD
+  monthly    MEI.M.JPN.LCULMN01.IXOB
+  monthly    STS.M.I2.N.PRIN.NS0020.4.000
+  monthly    ILM.M.U2.C.LT01.Z5.EUR
+
+
+== cell by cell, all series: 278 series, 168 bulletin months, 504 zip files
+cells in mapped columns: 16,812,164
+  both numbers, equal: 6,616,172
+  both numbers, different: 0
+  zip has a number, rebuild has none: 0
+  rebuild has a number, zip has none: 52,509
+  neither has a number: 10,143,483
+  rebuild has a number, no row in the zip: 0
+cells that disagree: 52,509
+  by block: monthly 52,412, quarterly 87, annual 10
+zip files with at least one disagreeing cell: 56 of 504
+
+series with disagreeing cells:
+                           files  cells   first    last
+key                                                    
+RTD.M.S0.N.P_R_XNRGY.E        24   8842  200806  201103
+RTD.M.S0.N.P_R_TO.E           24   8842  200806  201103
+RTD.M.S0.N.C_U202Y.E          38   6384  200802  201103
+RTD.M.S0.N.C_U203Y.E          38   6384  200802  201103
+RTD.M.S0.N.C_U210Y.E          38   6384  200802  201103
+RTD.M.S0.N.C_U205Y.E          38   6384  200802  201103
+RTD.M.S0.N.C_U207Y.E          38   6384  200802  201103
+RTD.M.S0.N.M_LOAN_U_NG.E      16   2144  200205  200308
+RTD.Q.S0.S.L_ULC_TO.X          1     87  200203  200203
+RTD.M.S0.S.T_XMAN_U.X          4     68  200209  200212
+RTD.M.S0.S.T_MTTT_U.X          4     68  200209  200212
+RTD.M.S0.S.T_MCOM_U.X          4     68  200209  200212
+RTD.M.S0.S.T_XINT_U.X          4     68  200209  200212
+RTD.M.S0.S.T_XTTT_U.X          4     68  200209  200212
+RTD.M.S0.S.T_XCOM_U.X          4     68  200209  200212
+RTD.M.S0.S.T_MINT_U.X          4     64  200209  200212
+RTD.M.S0.S.T_XCAP_U.X          4     64  200209  200212
+RTD.M.S0.S.T_MCAP_U.X          4     64  200209  200212
+RTD.M.S0.S.T_MMAN_U.X          4     64  200209  200212
+RTD.A.S0.N.F_DEF_CSG_D0.F      1     10  200110  200110
+
+== cell by cell, without the two raw material series: 276 series, 168 bulletin months, 504 zip files
+cells in mapped columns: 16,658,994
+  both numbers, equal: 6,553,674
+  both numbers, different: 0
+  zip has a number, rebuild has none: 0
+  rebuild has a number, zip has none: 34,825
+  neither has a number: 10,070,495
+  rebuild has a number, no row in the zip: 0
+cells that disagree: 34,825
+  by block: monthly 34,728, quarterly 87, annual 10
+zip files with at least one disagreeing cell: 56 of 504
+
+series with disagreeing cells:
+                           files  cells   first    last
+key                                                    
+RTD.M.S0.N.C_U202Y.E          38   6384  200802  201103
+RTD.M.S0.N.C_U203Y.E          38   6384  200802  201103
+RTD.M.S0.N.C_U207Y.E          38   6384  200802  201103
+RTD.M.S0.N.C_U205Y.E          38   6384  200802  201103
+RTD.M.S0.N.C_U210Y.E          38   6384  200802  201103
+RTD.M.S0.N.M_LOAN_U_NG.E      16   2144  200205  200308
+RTD.Q.S0.S.L_ULC_TO.X          1     87  200203  200203
+RTD.M.S0.S.T_XMAN_U.X          4     68  200209  200212
+RTD.M.S0.S.T_MTTT_U.X          4     68  200209  200212
+RTD.M.S0.S.T_MCOM_U.X          4     68  200209  200212
+RTD.M.S0.S.T_XINT_U.X          4     68  200209  200212
+RTD.M.S0.S.T_XTTT_U.X          4     68  200209  200212
+RTD.M.S0.S.T_XCOM_U.X          4     68  200209  200212
+RTD.M.S0.S.T_MINT_U.X          4     64  200209  200212
+RTD.M.S0.S.T_XCAP_U.X          4     64  200209  200212
+RTD.M.S0.S.T_MCAP_U.X          4     64  200209  200212
+RTD.M.S0.S.T_MMAN_U.X          4     64  200209  200212
+RTD.A.S0.N.F_DEF_CSG_D0.F      1     10  200110  200110
+

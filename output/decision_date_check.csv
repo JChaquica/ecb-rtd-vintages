@@ -1,0 +1,276 @@
+decision_date,vintages_frozen_for_it,previous_vintage,next_vintage,status
+2001-01-04,2001-01-03,2001-01-03,2001-01-31,vintage on the working day before
+2001-01-18,,2001-01-03,2001-01-31,no vintage
+2001-02-01,2001-01-31,2001-01-31,2001-02-28,vintage on the working day before
+2001-02-15,,2001-01-31,2001-02-28,no vintage
+2001-03-01,2001-02-28,2001-02-28,2001-04-10,vintage on the working day before
+2001-03-15,,2001-02-28,2001-04-10,no vintage
+2001-03-29,,2001-02-28,2001-04-10,no vintage
+2001-04-11,2001-04-10,2001-04-10,2001-05-08,vintage on the working day before
+2001-04-26,,2001-04-10,2001-05-08,no vintage
+2001-05-10,2001-05-08,2001-05-08,2001-06-06,vintage on another day
+2001-05-23,,2001-05-08,2001-06-06,no vintage
+2001-06-07,2001-06-06,2001-06-06,2001-07-04,vintage on the working day before
+2001-06-21,,2001-06-06,2001-07-04,no vintage
+2001-07-05,2001-07-04,2001-07-04,2001-08-01,vintage on the working day before
+2001-07-19,,2001-07-04,2001-08-01,no vintage
+2001-08-02,2001-08-01,2001-08-01,2001-09-13,vintage on the working day before
+2001-08-30,,2001-08-01,2001-09-13,no vintage
+2001-09-13,2001-09-13,2001-09-13,2001-10-10,vintage on another day
+2001-09-17,,2001-09-13,2001-10-10,no vintage
+2001-09-27,,2001-09-13,2001-10-10,no vintage
+2001-10-11,2001-10-10,2001-10-10,2001-11-07,vintage on the working day before
+2001-10-25,,2001-10-10,2001-11-07,no vintage
+2001-11-08,2001-11-07,2001-11-07,2001-12-05,vintage on the working day before
+2001-12-06,2001-12-05,2001-12-05,2002-01-16,vintage on the working day before
+2002-01-03,,2001-12-05,2002-01-16,no vintage
+2002-02-07,2002-01-16 2002-02-06,2002-02-06,2002-03-06,vintage on the working day before
+2002-03-07,2002-03-06,2002-03-06,2002-04-03,vintage on the working day before
+2002-04-04,2002-04-03,2002-04-03,2002-04-30,vintage on the working day before
+2002-05-02,2002-04-30,2002-04-30,2002-06-05,vintage on another day
+2002-06-06,2002-06-05,2002-06-05,2002-07-03,vintage on the working day before
+2002-07-04,2002-07-03,2002-07-03,2002-07-31,vintage on the working day before
+2002-08-01,2002-07-31,2002-07-31,2002-09-11,vintage on the working day before
+2002-09-12,2002-09-11,2002-09-11,2002-10-09,vintage on the working day before
+2002-10-10,2002-10-09,2002-10-09,2002-11-06,vintage on the working day before
+2002-11-07,2002-11-06,2002-11-06,2002-12-04,vintage on the working day before
+2002-12-05,2002-12-04,2002-12-04,2003-01-15,vintage on the working day before
+2003-01-09,,2002-12-04,2003-01-15,no vintage
+2003-02-06,2003-01-15 2003-02-05,2003-02-05,2003-03-05,vintage on the working day before
+2003-03-06,2003-03-05,2003-03-05,2003-04-02,vintage on the working day before
+2003-04-03,2003-04-02,2003-04-02,2003-05-07,vintage on the working day before
+2003-05-08,2003-05-07,2003-05-07,2003-06-04,vintage on the working day before
+2003-06-05,2003-06-04,2003-06-04,2003-07-09,vintage on the working day before
+2003-07-10,2003-07-09,2003-07-09,2003-07-30,vintage on the working day before
+2003-07-31,2003-07-30,2003-07-30,2003-09-03,vintage on the working day before
+2003-09-04,2003-09-03,2003-09-03,2003-10-01,vintage on the working day before
+2003-10-02,2003-10-01,2003-10-01,2003-11-05,vintage on the working day before
+2003-11-06,2003-11-05,2003-11-05,2003-12-03,vintage on the working day before
+2003-12-04,2003-12-03,2003-12-03,2004-01-14,vintage on the working day before
+2004-01-08,,2003-12-03,2004-01-14,no vintage
+2004-02-05,2004-01-14 2004-02-04,2004-02-04,2004-03-03,vintage on the working day before
+2004-03-04,2004-03-03,2004-03-03,2004-03-31,vintage on the working day before
+2004-04-01,2004-03-31,2004-03-31,2004-05-05,vintage on the working day before
+2004-05-06,2004-05-05,2004-05-05,2004-06-02,vintage on the working day before
+2004-06-03,2004-06-02,2004-06-02,2004-06-30,vintage on the working day before
+2004-07-01,2004-06-30,2004-06-30,2004-08-04,vintage on the working day before
+2004-08-05,2004-08-04,2004-08-04,2004-09-01,vintage on the working day before
+2004-09-02,2004-09-01,2004-09-01,2004-10-06,vintage on the working day before
+2004-10-07,2004-10-06,2004-10-06,2004-11-03,vintage on the working day before
+2004-11-04,2004-11-03,2004-11-03,2004-12-01,vintage on the working day before
+2004-12-02,2004-12-01,2004-12-01,2005-01-12,vintage on the working day before
+2005-01-13,2005-01-12,2005-01-12,2005-02-02,vintage on the working day before
+2005-02-03,2005-02-02,2005-02-02,2005-03-02,vintage on the working day before
+2005-03-03,2005-03-02,2005-03-02,2005-04-06,vintage on the working day before
+2005-04-07,2005-04-06,2005-04-06,2005-05-03,vintage on the working day before
+2005-05-04,2005-05-03,2005-05-03,2005-06-01,vintage on the working day before
+2005-06-02,2005-06-01,2005-06-01,2005-07-06,vintage on the working day before
+2005-07-07,2005-07-06,2005-07-06,2005-08-03,vintage on the working day before
+2005-08-04,2005-08-03,2005-08-03,2005-08-31,vintage on the working day before
+2005-09-01,2005-08-31,2005-08-31,2005-10-05,vintage on the working day before
+2005-10-06,2005-10-05,2005-10-05,2005-11-02,vintage on the working day before
+2005-11-03,2005-11-02,2005-11-02,2005-11-30,vintage on the working day before
+2005-12-01,2005-11-30,2005-11-30,2006-01-11,vintage on the working day before
+2006-01-12,2006-01-11,2006-01-11,2006-02-01,vintage on the working day before
+2006-02-02,2006-02-01,2006-02-01,2006-03-01,vintage on the working day before
+2006-03-02,2006-03-01,2006-03-01,2006-04-04,vintage on the working day before
+2006-04-06,2006-04-04,2006-04-04,2006-05-03,vintage on another day
+2006-05-04,2006-05-03,2006-05-03,2006-06-07,vintage on the working day before
+2006-06-08,2006-06-07,2006-06-07,2006-07-05,vintage on the working day before
+2006-07-06,2006-07-05,2006-07-05,2006-08-02,vintage on the working day before
+2006-08-03,2006-08-02,2006-08-02,2006-08-30,vintage on the working day before
+2006-08-31,2006-08-30,2006-08-30,2006-10-04,vintage on the working day before
+2006-10-05,2006-10-04,2006-10-04,2006-10-31,vintage on the working day before
+2006-11-02,2006-10-31,2006-10-31,2006-12-06,vintage on another day
+2006-12-07,2006-12-06,2006-12-06,2007-01-10,vintage on the working day before
+2007-01-11,2007-01-10,2007-01-10,2007-02-07,vintage on the working day before
+2007-02-08,2007-02-07,2007-02-07,2007-03-07,vintage on the working day before
+2007-03-08,2007-03-07,2007-03-07,2007-04-11,vintage on the working day before
+2007-04-12,2007-04-11,2007-04-11,2007-05-08,vintage on the working day before
+2007-05-10,2007-05-08,2007-05-08,2007-06-05,vintage on another day
+2007-06-06,2007-06-05,2007-06-05,2007-07-04,vintage on the working day before
+2007-07-05,2007-07-04,2007-07-04,2007-08-01,vintage on the working day before
+2007-08-02,2007-08-01,2007-08-01,2007-09-05,vintage on the working day before
+2007-09-06,2007-09-05,2007-09-05,2007-10-02,vintage on the working day before
+2007-10-04,2007-10-02,2007-10-02,2007-11-07,vintage on another day
+2007-11-08,2007-11-07,2007-11-07,2007-12-05,vintage on the working day before
+2007-12-06,2007-12-05,2007-12-05,2008-01-09,vintage on the working day before
+2008-01-10,2008-01-09,2008-01-09,2008-02-06,vintage on the working day before
+2008-02-07,2008-02-06,2008-02-06,2008-03-05,vintage on the working day before
+2008-03-06,2008-03-05,2008-03-05,2008-04-09,vintage on the working day before
+2008-04-10,2008-04-09,2008-04-09,2008-05-06,vintage on the working day before
+2008-05-08,2008-05-06,2008-05-06,2008-06-04,vintage on another day
+2008-06-05,2008-06-04,2008-06-04,2008-07-02,vintage on the working day before
+2008-07-03,2008-07-02,2008-07-02,2008-08-06,vintage on the working day before
+2008-08-07,2008-08-06,2008-08-06,2008-09-03,vintage on the working day before
+2008-09-04,2008-09-03,2008-09-03,2008-09-30,vintage on the working day before
+2008-10-02,2008-09-30,2008-09-30,2008-11-05,vintage on another day
+2008-10-08,,2008-09-30,2008-11-05,no vintage
+2008-11-06,2008-11-05,2008-11-05,2008-12-03,vintage on the working day before
+2008-12-04,2008-12-03,2008-12-03,2009-01-14,vintage on the working day before
+2009-01-15,2009-01-14,2009-01-14,2009-02-04,vintage on the working day before
+2009-02-05,2009-02-04,2009-02-04,2009-03-04,vintage on the working day before
+2009-03-05,2009-03-04,2009-03-04,2009-04-01,vintage on the working day before
+2009-04-02,2009-04-01,2009-04-01,2009-05-06,vintage on the working day before
+2009-05-07,2009-05-06,2009-05-06,2009-06-03,vintage on the working day before
+2009-06-04,2009-06-03,2009-06-03,2009-07-01,vintage on the working day before
+2009-07-02,2009-07-01,2009-07-01,2009-08-05,vintage on the working day before
+2009-08-06,2009-08-05,2009-08-05,2009-09-02,vintage on the working day before
+2009-09-03,2009-09-02,2009-09-02,2009-10-07,vintage on the working day before
+2009-10-08,2009-10-07,2009-10-07,2009-11-04,vintage on the working day before
+2009-11-05,2009-11-04,2009-11-04,2009-12-02,vintage on the working day before
+2009-12-03,2009-12-02,2009-12-02,2010-01-13,vintage on the working day before
+2010-01-14,2010-01-13,2010-01-13,2010-02-03,vintage on the working day before
+2010-02-04,2010-02-03,2010-02-03,2010-03-03,vintage on the working day before
+2010-03-04,2010-03-03,2010-03-03,2010-04-07,vintage on the working day before
+2010-04-08,2010-04-07,2010-04-07,2010-05-05,vintage on the working day before
+2010-05-06,2010-05-05,2010-05-05,2010-06-09,vintage on the working day before
+2010-06-10,2010-06-09,2010-06-09,2010-07-07,vintage on the working day before
+2010-07-08,2010-07-07,2010-07-07,2010-08-04,vintage on the working day before
+2010-08-05,2010-08-04,2010-08-04,2010-09-01,vintage on the working day before
+2010-09-02,2010-09-01,2010-09-01,2010-10-06,vintage on the working day before
+2010-10-07,2010-10-06,2010-10-06,2010-11-03,vintage on the working day before
+2010-11-04,2010-11-03,2010-11-03,2010-12-01,vintage on the working day before
+2010-12-02,2010-12-01,2010-12-01,2011-01-12,vintage on the working day before
+2011-01-13,2011-01-12,2011-01-12,2011-02-02,vintage on the working day before
+2011-02-03,2011-02-02,2011-02-02,2011-03-02,vintage on the working day before
+2011-03-03,2011-03-02,2011-03-02,2011-04-06,vintage on the working day before
+2011-04-07,2011-04-06,2011-04-06,2011-05-04,vintage on the working day before
+2011-05-05,2011-05-04,2011-05-04,2011-06-08,vintage on the working day before
+2011-06-09,2011-06-08,2011-06-08,2011-07-06,vintage on the working day before
+2011-07-07,2011-07-06,2011-07-06,2011-08-03,vintage on the working day before
+2011-08-04,2011-08-03,2011-08-03,2011-09-07,vintage on the working day before
+2011-09-08,2011-09-07,2011-09-07,2011-10-05,vintage on the working day before
+2011-10-06,2011-10-05,2011-10-05,2011-11-02,vintage on the working day before
+2011-11-03,2011-11-02,2011-11-02,2011-12-07,vintage on the working day before
+2011-12-08,2011-12-07,2011-12-07,2012-01-11,vintage on the working day before
+2012-01-12,2012-01-11,2012-01-11,2012-02-08,vintage on the working day before
+2012-02-09,2012-02-08,2012-02-08,2012-03-07,vintage on the working day before
+2012-03-08,2012-03-07,2012-03-07,2012-04-03,vintage on the working day before
+2012-04-04,2012-04-03,2012-04-03,2012-05-02,vintage on the working day before
+2012-05-03,2012-05-02,2012-05-02,2012-06-05,vintage on the working day before
+2012-06-06,2012-06-05,2012-06-05,2012-07-04,vintage on the working day before
+2012-07-05,2012-07-04,2012-07-04,2012-08-01,vintage on the working day before
+2012-08-02,2012-08-01,2012-08-01,2012-09-05,vintage on the working day before
+2012-09-06,2012-09-05,2012-09-05,2012-10-03,vintage on the working day before
+2012-10-04,2012-10-03,2012-10-03,2012-11-07,vintage on the working day before
+2012-11-08,2012-11-07,2012-11-07,2012-12-05,vintage on the working day before
+2012-12-06,2012-12-05,2012-12-05,2013-01-09,vintage on the working day before
+2013-01-10,2013-01-09,2013-01-09,2013-02-06,vintage on the working day before
+2013-02-07,2013-02-06,2013-02-06,2013-03-06,vintage on the working day before
+2013-03-07,2013-03-06,2013-03-06,2013-04-03,vintage on the working day before
+2013-04-04,2013-04-03,2013-04-03,2013-04-30,vintage on the working day before
+2013-05-02,2013-04-30,2013-04-30,2013-06-05,vintage on another day
+2013-06-06,2013-06-05,2013-06-05,2013-07-03,vintage on the working day before
+2013-07-04,2013-07-03,2013-07-03,2013-07-31,vintage on the working day before
+2013-08-01,2013-07-31,2013-07-31,2013-09-04,vintage on the working day before
+2013-09-05,2013-09-04,2013-09-04,2013-10-01,vintage on the working day before
+2013-10-02,2013-10-01,2013-10-01,2013-11-06,vintage on the working day before
+2013-11-07,2013-11-06,2013-11-06,2013-12-04,vintage on the working day before
+2013-12-05,2013-12-04,2013-12-04,2014-01-08,vintage on the working day before
+2014-01-09,2014-01-08,2014-01-08,2014-02-05,vintage on the working day before
+2014-02-06,2014-02-05,2014-02-05,2014-03-05,vintage on the working day before
+2014-03-06,2014-03-05,2014-03-05,2014-04-02,vintage on the working day before
+2014-04-03,2014-04-02,2014-04-02,2014-05-07,vintage on the working day before
+2014-05-08,2014-05-07,2014-05-07,2014-06-04,vintage on the working day before
+2014-06-05,2014-06-04,2014-06-04,2014-07-02,vintage on the working day before
+2014-07-03,2014-07-02,2014-07-02,2014-08-06,vintage on the working day before
+2014-08-07,2014-08-06,2014-08-06,2014-09-03,vintage on the working day before
+2014-09-04,2014-09-03,2014-09-03,2014-10-01,vintage on the working day before
+2014-10-02,2014-10-01,2014-10-01,2014-11-05,vintage on the working day before
+2014-11-06,2014-11-05,2014-11-05,2014-12-03,vintage on the working day before
+2014-12-04,2014-12-03,2014-12-03,2015-01-21,vintage on the working day before
+2015-01-22,2015-01-21,2015-01-21,2015-03-04,vintage on the working day before
+2015-03-05,2015-03-04,2015-03-04,2015-04-14,vintage on the working day before
+2015-04-15,2015-04-14,2015-04-14,2015-06-02,vintage on the working day before
+2015-06-03,2015-06-02,2015-06-02,2015-07-15,vintage on the working day before
+2015-07-16,2015-07-15,2015-07-15,2015-09-02,vintage on the working day before
+2015-09-03,2015-09-02,2015-09-02,2015-10-21,vintage on the working day before
+2015-10-22,2015-10-21,2015-10-21,2015-12-02,vintage on the working day before
+2015-12-03,2015-12-02,2015-12-02,2016-01-20,vintage on the working day before
+2016-01-21,2016-01-20,2016-01-20,2016-03-09,vintage on the working day before
+2016-03-10,2016-03-09,2016-03-09,2016-04-20,vintage on the working day before
+2016-04-21,2016-04-20,2016-04-20,2016-06-01,vintage on the working day before
+2016-06-02,2016-06-01,2016-06-01,2016-07-20,vintage on the working day before
+2016-07-21,2016-07-20,2016-07-20,2016-09-07,vintage on the working day before
+2016-09-08,2016-09-07,2016-09-07,2016-10-19,vintage on the working day before
+2016-10-20,2016-10-19,2016-10-19,2016-12-07,vintage on the working day before
+2016-12-08,2016-12-07,2016-12-07,2017-01-18,vintage on the working day before
+2017-01-19,2017-01-18,2017-01-18,2017-03-08,vintage on the working day before
+2017-03-09,2017-03-08,2017-03-08,2017-04-26,vintage on the working day before
+2017-04-27,2017-04-26,2017-04-26,2017-06-07,vintage on the working day before
+2017-06-08,2017-06-07,2017-06-07,2017-07-19,vintage on the working day before
+2017-07-20,2017-07-19,2017-07-19,2017-09-06,vintage on the working day before
+2017-09-07,2017-09-06,2017-09-06,2017-10-25,vintage on the working day before
+2017-10-26,2017-10-25,2017-10-25,2017-12-13,vintage on the working day before
+2017-12-14,2017-12-13,2017-12-13,2018-01-24,vintage on the working day before
+2018-01-25,2018-01-24,2018-01-24,2018-03-07,vintage on the working day before
+2018-03-08,2018-03-07,2018-03-07,2018-04-25,vintage on the working day before
+2018-04-26,2018-04-25,2018-04-25,2018-06-13,vintage on the working day before
+2018-06-14,2018-06-13,2018-06-13,2018-07-25,vintage on the working day before
+2018-07-26,2018-07-25,2018-07-25,2018-09-12,vintage on the working day before
+2018-09-13,2018-09-12,2018-09-12,2018-10-24,vintage on the working day before
+2018-10-25,2018-10-24,2018-10-24,2018-12-12,vintage on the working day before
+2018-12-13,2018-12-12,2018-12-12,2019-01-23,vintage on the working day before
+2019-01-24,2019-01-23,2019-01-23,2019-03-06,vintage on the working day before
+2019-03-07,2019-03-06,2019-03-06,2019-04-09,vintage on the working day before
+2019-04-10,2019-04-09,2019-04-09,2019-06-05,vintage on the working day before
+2019-06-06,2019-06-05,2019-06-05,2019-07-24,vintage on the working day before
+2019-07-25,2019-07-24,2019-07-24,2019-09-11,vintage on the working day before
+2019-09-12,2019-09-11,2019-09-11,2019-10-23,vintage on the working day before
+2019-10-24,2019-10-23,2019-10-23,2019-12-11,vintage on the working day before
+2019-12-12,2019-12-11,2019-12-11,2020-01-22,vintage on the working day before
+2020-01-23,2020-01-22,2020-01-22,2020-03-11,vintage on the working day before
+2020-03-12,2020-03-11,2020-03-11,2020-04-29,vintage on the working day before
+2020-04-30,2020-04-29,2020-04-29,2020-06-03,vintage on the working day before
+2020-06-04,2020-06-03,2020-06-03,2020-07-15,vintage on the working day before
+2020-07-16,2020-07-15,2020-07-15,2020-09-09,vintage on the working day before
+2020-09-10,2020-09-09,2020-09-09,2020-10-28,vintage on the working day before
+2020-10-29,2020-10-28,2020-10-28,2020-12-09,vintage on the working day before
+2020-12-10,2020-12-09,2020-12-09,2021-01-20,vintage on the working day before
+2021-01-21,2021-01-20,2021-01-20,2021-03-10,vintage on the working day before
+2021-03-11,2021-03-10,2021-03-10,2021-04-21,vintage on the working day before
+2021-04-22,2021-04-21,2021-04-21,2021-06-09,vintage on the working day before
+2021-06-10,2021-06-09,2021-06-09,2021-07-21,vintage on the working day before
+2021-07-22,2021-07-21,2021-07-21,2021-09-08,vintage on the working day before
+2021-09-09,2021-09-08,2021-09-08,2021-10-27,vintage on the working day before
+2021-10-28,2021-10-27,2021-10-27,2021-12-15,vintage on the working day before
+2021-12-16,2021-12-15,2021-12-15,2022-02-02,vintage on the working day before
+2022-02-03,2022-02-02,2022-02-02,2022-03-09,vintage on the working day before
+2022-03-10,2022-03-09,2022-03-09,2022-04-13,vintage on the working day before
+2022-04-14,2022-04-13,2022-04-13,2022-06-08,vintage on the working day before
+2022-06-09,2022-06-08,2022-06-08,2022-07-20,vintage on the working day before
+2022-07-21,2022-07-20,2022-07-20,2022-09-07,vintage on the working day before
+2022-09-08,2022-09-07,2022-09-07,2022-10-26,vintage on the working day before
+2022-10-27,2022-10-26,2022-10-26,2022-12-14,vintage on the working day before
+2022-12-15,2022-12-14,2022-12-14,2023-02-01,vintage on the working day before
+2023-02-02,2023-02-01,2023-02-01,2023-03-15,vintage on the working day before
+2023-03-16,2023-03-15,2023-03-15,2023-05-03,vintage on the working day before
+2023-05-04,2023-05-03,2023-05-03,2023-06-14,vintage on the working day before
+2023-06-15,2023-06-14,2023-06-14,2023-07-26,vintage on the working day before
+2023-07-27,2023-07-26,2023-07-26,2023-09-13,vintage on the working day before
+2023-09-14,2023-09-13,2023-09-13,2023-10-25,vintage on the working day before
+2023-10-26,2023-10-25,2023-10-25,2023-12-13,vintage on the working day before
+2023-12-14,2023-12-13,2023-12-13,2024-01-24,vintage on the working day before
+2024-01-25,2024-01-24,2024-01-24,2024-03-06,vintage on the working day before
+2024-03-07,2024-03-06,2024-03-06,2024-04-10,vintage on the working day before
+2024-04-11,2024-04-10,2024-04-10,2024-06-05,vintage on the working day before
+2024-06-06,2024-06-05,2024-06-05,2024-07-17,vintage on the working day before
+2024-07-18,2024-07-17,2024-07-17,2024-09-11,vintage on the working day before
+2024-09-12,2024-09-11,2024-09-11,2024-10-16,vintage on the working day before
+2024-10-17,2024-10-16,2024-10-16,2024-12-11,vintage on the working day before
+2024-12-12,2024-12-11,2024-12-11,2025-01-29,vintage on the working day before
+2025-01-30,2025-01-29,2025-01-29,2025-03-05,vintage on the working day before
+2025-03-06,2025-03-05,2025-03-05,2025-04-16,vintage on the working day before
+2025-04-17,2025-04-16,2025-04-16,2025-06-04,vintage on the working day before
+2025-06-05,2025-06-04,2025-06-04,2025-07-23,vintage on the working day before
+2025-07-24,2025-07-23,2025-07-23,2025-09-10,vintage on the working day before
+2025-09-11,2025-09-10,2025-09-10,2025-10-29,vintage on the working day before
+2025-10-30,2025-10-29,2025-10-29,2025-12-17,vintage on the working day before
+2025-12-18,2025-12-17,2025-12-17,2026-02-04,vintage on the working day before
+2026-02-05,2026-02-04,2026-02-04,2026-03-18,vintage on the working day before
+2026-03-19,2026-03-18,2026-03-18,2026-04-29,vintage on the working day before
+2026-04-30,2026-04-29,2026-04-29,2026-06-10,vintage on the working day before
+2026-06-11,2026-06-10,2026-06-10,2026-09-09,vintage on the working day before
+2026-07-23,,2026-06-10,2026-09-09,no vintage (known: no series changed between the vintages of 10 June and 9 September 2026)
+2026-09-10,2026-09-09,2026-09-09,,vintage on the working day before

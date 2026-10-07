@@ -1,4 +1,11 @@
-pandas>=2.0
-numpy
-xlsxwriter
-openpyxl
+# The versions the data were built and checked with (Python 3.14.7). Python 3.12 or
+# later is needed: numpy 2.5 does not support older versions.
+pandas==3.0.6
+numpy==2.5.3
+XlsxWriter==3.2.9
+openpyxl==3.1.5
+xlrd==2.0.2
+python-dateutil==2.9.0.post0
+six==1.17.0
+tzdata==2026.4
+et_xmlfile==2.0.0

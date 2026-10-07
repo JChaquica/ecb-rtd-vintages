@@ -1,0 +1,12 @@
+vintage of 2026-09-09 against Eurostat (EA21); Eurostat files in data/raw/eurostat, listed in manifest.csv
+series that agree: 9 of 9
+
+ok   Real GDP                             125 quarters 1995-Q1 to 2026-Q2, largest growth difference 4.4e-06 pp; levels 1.07389 to 1.07389 times Eurostat's
+ok   Nominal GDP                          126 quarters 1995-Q1 to 2026-Q2, 0 differ at Eurostat's 1 decimal; unrounded values differ by at most 0.0499959
+ok   Real private consumption             125 quarters 1995-Q1 to 2026-Q2, largest growth difference 8.1e-06 pp; levels 1.05567 to 1.05567 times Eurostat's
+ok   Nominal private consumption          126 quarters 1995-Q1 to 2026-Q2, 0 differ at Eurostat's 1 decimal; unrounded values differ by at most 0.0498949
+ok   Real government consumption          125 quarters 1995-Q1 to 2026-Q2, largest growth difference 2.1e-05 pp; levels 1.09613 to 1.09613 times Eurostat's
+ok   Real gross fixed capital formation   125 quarters 1995-Q1 to 2026-Q2, largest growth difference 1.9e-05 pp; levels 1.07562 to 1.07562 times Eurostat's
+ok   Real exports of goods and services   125 quarters 1995-Q1 to 2026-Q2, largest growth difference 1.8e-05 pp; levels 1.01791 to 1.01791 times Eurostat's
+ok   Real imports of goods and services   125 quarters 1995-Q1 to 2026-Q2, largest growth difference 1.7e-05 pp; levels 1.00260 to 1.00260 times Eurostat's
+ok   Total employment                     126 quarters 1995-Q1 to 2026-Q2, 0 differ at Eurostat's 2 decimals; unrounded values differ by at most 0.00489827

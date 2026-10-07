@@ -519,19 +519,19 @@ Labour costs,"Labour cost index, services",Quarterly,behind,2009-09-02,2011-03-0
 Labour costs,"Labour cost index, services",Quarterly,behind,2026-02-04,2026-09-09,5,yes,2025-Q1,RTD.Q.S0.W.L_H_SERV.X
 Labour costs,"Labour cost index, total (seasonally adjusted)",Quarterly,behind,2009-09-02,2009-09-02,1,no,2008-Q4,RTD.Q.S0.Y.L_H_WXAFG.X
 Labour costs,"Labour cost index, total (seasonally adjusted)",Quarterly,behind,2026-02-04,2026-09-09,5,yes,2025-Q1,RTD.Q.S0.Y.L_H_WXAFG.X
-Loans and credit,Credit to the private sector (seasonally adjusted),Monthly,behind,2025-09-10,2026-09-09,8,yes,2025-04,RTD.M.S0.Y.M_LOANSEC_U_NG.E
-Loans and credit,Loans to the private sector (not adjusted),Monthly,behind,2002-07-03,2003-07-30,14,no,2002-02,RTD.M.S0.N.M_LOAN_U_NG.E
-Loans and credit,Loans to the private sector (seasonally adjusted),Monthly,behind,2025-09-10,2026-09-09,8,yes,2025-04,RTD.M.S0.Y.M_LOAN_U_NG.E
+Loans and credit,Credit to the private sector (not adjusted),Monthly,behind,2025-09-10,2026-09-09,8,yes,2025-04,RTD.M.S0.Y.M_LOANSEC_U_NG.E
+Loans and credit,Loans to the private sector (not adjusted),Monthly,behind,2025-09-10,2026-09-09,8,yes,2025-04,RTD.M.S0.Y.M_LOAN_U_NG.E
+Loans and credit,Loans to the private sector (seasonally adjusted),Monthly,behind,2002-07-03,2003-07-30,14,no,2002-02,RTD.M.S0.N.M_LOAN_U_NG.E
 Money supply,Base money,Monthly,behind,2025-09-10,2026-09-09,8,yes,2025-04,RTD.M.S0.N.M_M3BM_C_WN.E
-Money supply,M1 (seasonally adjusted),Monthly,behind,2025-09-10,2026-09-09,8,yes,2025-04,RTD.M.S0.Y.M_M1_V_NC.E
-Money supply,M2 (seasonally adjusted),Monthly,behind,2025-09-10,2026-09-09,8,yes,2025-04,RTD.M.S0.Y.M_M2_V_NC.E
+Money supply,M1 (not adjusted),Monthly,behind,2025-09-10,2026-09-09,8,yes,2025-04,RTD.M.S0.Y.M_M1_V_NC.E
+Money supply,M2 (not adjusted),Monthly,behind,2025-09-10,2026-09-09,8,yes,2025-04,RTD.M.S0.Y.M_M2_V_NC.E
 Money supply,M2 - Japan,Monthly,behind,2003-07-09,2003-07-09,1,no,2003-03,RTD.M.JP.Y.M_M2.J
 Money supply,M2 - Japan,Monthly,behind,2006-05-03,2006-05-03,1,no,2006-01,RTD.M.JP.Y.M_M2.J
 Money supply,M2 - Japan,Monthly,behind,2012-10-03,2012-10-03,1,no,2012-06,RTD.M.JP.Y.M_M2.J
 Money supply,M2 - Japan,Monthly,behind,2025-09-10,2026-09-09,8,yes,2025-04,RTD.M.JP.Y.M_M2.J
 Money supply,M2 - United States,Monthly,behind,2021-06-09,2023-03-15,15,no,2021-01,RTD.M.US.Y.M_M2.U
 Money supply,M2 - United States,Monthly,behind,2025-09-10,2026-09-09,8,yes,2025-04,RTD.M.US.Y.M_M2.U
-Money supply,M3 (seasonally adjusted),Monthly,behind,2025-09-10,2026-09-09,8,yes,2025-04,RTD.M.S0.Y.M_M3_V_NC.E
+Money supply,M3 (not adjusted),Monthly,behind,2025-09-10,2026-09-09,8,yes,2025-04,RTD.M.S0.Y.M_M3_V_NC.E
 Money supply,M3 annual growth rate (not adjusted),Monthly,behind,2025-09-10,2026-09-09,8,yes,2025-04,RTD.M.S0.N.M_M3BM_V_NC.A
 New car registrations,New car registrations (working day adjusted),Monthly,behind,2003-06-04,2003-12-03,7,no,2003-01,RTD.M.S0.W.I_NCARS.Q
 New car registrations,New car registrations (working day adjusted),Monthly,behind,2023-05-03,2026-09-09,27,yes,2022-12,RTD.M.S0.W.I_NCARS.Q

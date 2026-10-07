@@ -185,19 +185,19 @@ Labour costs,"Labour cost index, services",Quarterly,yes,2025-06-04,9,4,2025-Q1,
 Labour costs,"Labour cost index, total (seasonally adjusted)",Quarterly,yes,2025-06-04,9,4,2025-Q1,2.0,6,4.0,RTD.Q.S0.Y.L_H_WXAFG.X
 Labour costs,"Labour cost index, total (working day adjusted)",Quarterly,no,2026-09-09,0,4,2026-Q2,2.0,1,-1.0,RTD.Q.S0.W.L_H_WXAFG.X
 Labour costs,"Labour cost index, wages and salaries",Quarterly,no,2026-09-09,0,3,2026-Q2,2.0,1,-1.0,RTD.Q.S0.W.L_HW_WXAFG.X
-Loans and credit,Credit to the private sector (not adjusted),Monthly,no,2026-09-09,0,2,2026-07,2.0,2,0.0,RTD.M.S0.N.M_LOANSEC_U_NG.E
-Loans and credit,Credit to the private sector (seasonally adjusted),Monthly,yes,2025-06-04,9,2,2025-04,2.0,17,15.0,RTD.M.S0.Y.M_LOANSEC_U_NG.E
-Loans and credit,Loans to the private sector (not adjusted),Monthly,no,2026-09-09,0,2,2026-07,2.0,2,0.0,RTD.M.S0.N.M_LOAN_U_NG.E
-Loans and credit,Loans to the private sector (seasonally adjusted),Monthly,yes,2025-06-04,9,2,2025-04,2.0,17,15.0,RTD.M.S0.Y.M_LOAN_U_NG.E
+Loans and credit,Credit to the private sector (not adjusted),Monthly,yes,2025-06-04,9,2,2025-04,2.0,17,15.0,RTD.M.S0.Y.M_LOANSEC_U_NG.E
+Loans and credit,Credit to the private sector (seasonally adjusted),Monthly,no,2026-09-09,0,2,2026-07,2.0,2,0.0,RTD.M.S0.N.M_LOANSEC_U_NG.E
+Loans and credit,Loans to the private sector (not adjusted),Monthly,yes,2025-06-04,9,2,2025-04,2.0,17,15.0,RTD.M.S0.Y.M_LOAN_U_NG.E
+Loans and credit,Loans to the private sector (seasonally adjusted),Monthly,no,2026-09-09,0,2,2026-07,2.0,2,0.0,RTD.M.S0.N.M_LOAN_U_NG.E
 Money supply,Base money,Monthly,yes,2025-06-04,9,2,2025-04,1.0,17,16.0,RTD.M.S0.N.M_M3BM_C_WN.E
-Money supply,M1 (not adjusted),Monthly,no,2026-09-09,0,2,2026-07,2.0,2,0.0,RTD.M.S0.N.M_M1_V_NC.E
-Money supply,M1 (seasonally adjusted),Monthly,yes,2025-06-04,9,2,2025-04,2.0,17,15.0,RTD.M.S0.Y.M_M1_V_NC.E
-Money supply,M2 (not adjusted),Monthly,no,2026-09-09,0,2,2026-07,2.0,2,0.0,RTD.M.S0.N.M_M2_V_NC.E
-Money supply,M2 (seasonally adjusted),Monthly,yes,2025-06-04,9,2,2025-04,2.0,17,15.0,RTD.M.S0.Y.M_M2_V_NC.E
+Money supply,M1 (not adjusted),Monthly,yes,2025-06-04,9,2,2025-04,2.0,17,15.0,RTD.M.S0.Y.M_M1_V_NC.E
+Money supply,M1 (seasonally adjusted),Monthly,no,2026-09-09,0,2,2026-07,2.0,2,0.0,RTD.M.S0.N.M_M1_V_NC.E
+Money supply,M2 (not adjusted),Monthly,yes,2025-06-04,9,2,2025-04,2.0,17,15.0,RTD.M.S0.Y.M_M2_V_NC.E
+Money supply,M2 (seasonally adjusted),Monthly,no,2026-09-09,0,2,2026-07,2.0,2,0.0,RTD.M.S0.N.M_M2_V_NC.E
 Money supply,M2 - Japan,Monthly,yes,2025-06-04,9,2,2025-04,1.0,17,16.0,RTD.M.JP.Y.M_M2.J
 Money supply,M2 - United States,Monthly,yes,2025-06-04,9,2,2025-04,2.0,17,15.0,RTD.M.US.Y.M_M2.U
-Money supply,M3 (not adjusted),Monthly,no,2026-09-09,0,2,2026-07,2.0,2,0.0,RTD.M.S0.N.M_M3_V_NC.E
-Money supply,M3 (seasonally adjusted),Monthly,yes,2025-06-04,9,2,2025-04,2.0,17,15.0,RTD.M.S0.Y.M_M3_V_NC.E
+Money supply,M3 (not adjusted),Monthly,yes,2025-06-04,9,2,2025-04,2.0,17,15.0,RTD.M.S0.Y.M_M3_V_NC.E
+Money supply,M3 (seasonally adjusted),Monthly,no,2026-09-09,0,2,2026-07,2.0,2,0.0,RTD.M.S0.N.M_M3_V_NC.E
 Money supply,M3 annual growth rate (not adjusted),Monthly,yes,2025-06-04,9,2,2025-04,2.0,17,15.0,RTD.M.S0.N.M_M3BM_V_NC.A
 Money supply,M3 annual growth rate (seasonally adjusted),Monthly,no,2026-09-09,0,2,2026-07,2.0,2,0.0,RTD.M.S0.Y.M_M3BM_V_NC.A
 New car registrations,New car registrations (seasonally adjusted),Monthly,no,2026-09-09,0,2,2026-06,2.0,3,1.0,RTD.M.S0.Y.I_NCARS.Q

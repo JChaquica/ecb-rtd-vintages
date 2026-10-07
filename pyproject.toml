@@ -1,0 +1,9 @@
+# Settings for editors and type checkers only; nothing here is needed to run the code.
+# get_data.py and the checks put code/ on Python's path when they run, and these lines
+# tell tools that read the code without running it to look there too.
+
+[tool.pyright]
+extraPaths = ["code"]
+
+[tool.pyrefly]
+search-path = [".", "code"]
